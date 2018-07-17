@@ -1,3 +1,6 @@
+require "erb"
+include ERB::Util
+
 namespace :ncdc do
   FILENAME = File.join(Rails.root, 'data', 'ncdc_form_responses.csv')
   
@@ -41,8 +44,26 @@ namespace :ncdc do
     end
   end
 
-  desc "TODO"
+  desc "print curl commands to create pages for biographies"
   task bios_from_csv: :environment do
+    csv_array = load_csv
+    csv_array.each do |row|
+      fullname  = row[FULLNAME]
+      #add suffix if it exists 
+      fullname = fullname + " " + row[SUFFIX] if row[SUFFIX]
+      #replace spaces with _
+      fullname = fullname.squish.tr(" ","_")
+      biography = url_encode(row[BIOGRAPHY])
+      #url encode biography
+      #construct api url
+      curl_arguments = "\"action=edit&title=#{fullname}&text=#{biography}&token=%2B%5C\""
+      #print the curl command with the api url 
+      curl_command = "curl -d #{curl_arguments} -X POST http://172.104.209.93:8181/api.php"
+      puts curl_command
+      # p fullname if fullname
+      #p suffix if suffix
+      #p biography if biography
+    end
   end
   
   
