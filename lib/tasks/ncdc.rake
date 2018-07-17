@@ -32,14 +32,47 @@ namespace :ncdc do
 
   
   
+
+  
+  # Linked Jazz has a load core entities file that looks like this:
+
+  # find unique toponyms in NCDC
+  # generate a CSV file to load them
+  #   
+  
   desc "get places from csv"
   task places_from_csv: :environment do
     csv_array = load_csv
+    
+    # read the places from the file
+    places = []
     csv_array.each do |row|
       birth_place  = row[STATE_COUNTRY_OF_BIRTH] 
-      p birth_place if birth_place
+      places << birth_place if birth_place
+      death_place  = row[STATE_COUNTRY_OF_DEATH]
+      places << death_place if death_place       
     end
+    
+    # clean the entries
+    clean_places = places.map do |placename|
+      # change strange formatting
+      placename.gsub!("/", ", ")
+      placename.gsub!(/^\s/, '')
+      placename.gsub!(/\s$/, '')
+      # default is USA; eliminate
+      placename.gsub!(", USA", '')
+      placename.gsub!("/", ", ")      
+      
+      placename
+    end
+    binding.pry
+    
+    clean_places.uniq.each do |placename|
+      p placename
+    end
+    
   end
+
 
   desc "TODO"
   task bios_from_csv: :environment do
