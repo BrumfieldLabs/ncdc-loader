@@ -50,6 +50,7 @@ GEM
     coffee-script-source (1.12.2)
     concurrent-ruby (1.0.5)
     crass (1.0.4)
+    csv (3.0.0)
     debug_inspector (0.0.3)
     erubis (2.7.0)
     execjs (2.7.0)
@@ -162,6 +163,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   coffee-rails (~> 4.1.0)
+  csv
   jbuilder (~> 2.0)
   jquery-rails
   pry
@@ -176,4 +178,4 @@ DEPENDENCIES
   web-console (~> 2.0)
 
 BUNDLED WITH
-   1.12.5
+   1.16.2
