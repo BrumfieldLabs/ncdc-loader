@@ -33,20 +33,48 @@ namespace :ncdc do
   BIOGRAPHY = "Biography"
   CITATION = "Citation"
 
-  
-  
 
-  
-  # Linked Jazz has a load core entities file that looks like this:
+  URL = "http://172.104.209.93:8181/api.php"
 
-  # find unique toponyms in NCDC
-  # generate a CSV file to load them
-  #   
+  # return QCode of new item
+  def create_item(label, description=nil)  
+    url = URL
+    params = {:action=>"wbeditentity", :format=>"json", :new => 'item', :token => "+\\"}
+    data = {}
+    data[:labels] = [{:language=>'en', 'value'=>label}]
+    data[:descriptions] = [{:language=>'en', 'value'=>description}] unless description.blank? 
+
+    params[:data]=data.to_json
+    resp = RestClient.post(url, params)
+    hash = JSON.parse(resp.body)
+
+    hash["entity"]["id"]
+  end
+
+
+  # return a claim ID
+  def edit_item(qcode, property, value)
+    url = URL
+    params = 
+    { :action=>"wbcreateclaim", 
+      :entity => qcode, 
+      :property => property, 
+      :value => "\"#{value}\"", 
+      :snaktype => 'value',
+      :format=>"json", 
+      :bot => 1, 
+      :token => "+\\"}
+    resp = RestClient.post(url, params)    
+    hash = JSON.parse(resp.body)
+
+    hash["claim"]["id"]
+  end
+
   
   desc "get places from csv"
   task places_from_csv: :environment do
     csv_array = load_csv
-    
+     
     # read the places from the file
     places = []
     csv_array.each do |row|
@@ -68,11 +96,15 @@ namespace :ncdc do
       
       placename
     end
-    binding.pry
     
     clean_places.uniq.each do |placename|
       p placename
     end
+    
+    qcode = create_item("Test Item #{Time.now}", "A nice peach cobbler")
+    edit_item(qcode, 'P28', "Smith")
+    
+    p qcode
     
   end
 
