@@ -209,24 +209,78 @@ namespace :ncdc do
     end
   end
 
-
+  def key(header)
+    header.upcase.gsub(/\s/, '_')
+  end
 
   desc "insert people"
   task insert_people: :environment do
     csv_array = load_csv
 
-    csv_array.headers.each do |header|
+    csv_array.each do |row|
       # find the member edition
+      raw_edition = row[PUBLISHER]
       # map the member edition
+      edition_qcode = CSV_MAP[key(PUBLISHER)][:value_map][raw_edition]
+
+      label = label(row[FULLNAME], row[SUFFIX])
       # insert the record
-      # add the member edition
+      print "qcode = create_item(#{label}, #{label})\n"
+      qcode = "Q#{label}"
 
       # now add the properties
-      csv_array.each do |row|
-        # figure out the P-code
-        # figure out the value
-        # add the property
+      
+      # hard-code  "instance-of" "human"
+      print "edit_item(#{qcode}, P33, Q90, #{edition_qcode}) # instance_of human \n"                          
+      csv_array.headers.each do |header|
+        # is this a cell to enter?
+        if CSV_MAP[key(header)]
+          # figure out the P-code
+          pcode = CSV_MAP[key(header)][:pcode]
+          if pcode
+            value = row[header]
+            if value
+              # figure out the value
+              if CSV_MAP[key(header)][:value_map]
+                value = CSV_MAP[key(header)][:value_map][value] || value
+              end
+              # add the property
+  #            edit_item(qcode, pcode, value, edition_qcode)            
+              print "edit_item(#{qcode}, #{pcode}, #{value}, #{edition_qcode}) # #{header}\n"                          
+            end
+          end
+          
+        end
       end
+
+      
+      url = row[URL]
+      if url
+        # special processing for PAL URL
+        if edition_qcode == PAL_QCODE
+          print "edit_item(#{qcode}, P25, #{url}, #{edition_qcode})\n"                                    
+        end
+        # special processing for CWGK URL
+        if edition_qcode == KHS_QCODE
+          print "edit_item(#{qcode}, P24, #{url}, #{edition_qcode})\n"                                              
+        end
+      end
+
+      # special processing for text location thingy
+      pub_details = []
+      pub_details << row[PUBLICATION] if row[PUBLICATION]
+      pub_details << "volume #{row[VOLUME]}" if row[VOLUME]
+      pub_details << "book #{row[BOOK]}" if row[BOOK]
+      pub_details << "page #{row[PAGE]}" if row[PAGE]
+      pub_details << "note #{row[NOTE]}" if row[NOTE]
+      unless pub_details.empty?
+        print "edit_item(#{qcode}, P38, '#{pub_details.join(', ')}', #{edition_qcode})\n"                                              
+      end    
+      
+      # special processing for biography
+      fragment = label_to_url_fragment(label)
+      bio = "http://172.104.209.93:8181/wiki/#{fragment}"
+      print "edit_item(#{qcode}, P232, #{bio}, #{edition_qcode})\n"                                              
       
     end
   end
@@ -254,11 +308,8 @@ namespace :ncdc do
   task bios_from_csv: :environment do
     csv_array = load_csv
     csv_array.each do |row|
-      fullname  = row[FULLNAME]
-      #add suffix if it exists 
-      fullname = fullname + " " + row[SUFFIX] if row[SUFFIX]
-      #replace spaces with _
-      fullname = fullname.squish.tr(" ","_")
+      fullname  = label(row[FULLNAME], row[SUFFIX])
+      fullname = label_to_url_fragment(fullname)
       biography = url_encode(row[BIOGRAPHY])
       #url encode biography
       #construct api url
@@ -272,7 +323,14 @@ namespace :ncdc do
     end
   end
   
+  def label(fullname, suffix)
+    fullname = fullname + " " + suffix if suffix
+    fullname
+  end  
   
+  def label_to_url_fragment(label)
+    label.squish.tr(" ","_")    
+  end
   def load_csv
     CSV.read(FILENAME, :headers => true)    
   end

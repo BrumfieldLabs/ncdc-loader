@@ -31,14 +31,18 @@ PLACE_MAP = {
   "Scotland" => "Q89"
 }
 
+FDP_QCODE = "Q5"
+PAL_QCODE = "Q4"
+KHS_QCODE = "Q6"
+
 CSV_MAP = {
   "PUBLISHER" => {
     :pcode => 'P29',
     :value_map => {
-      "FDP" => "Q5",
-      "ALPLM" => "Q4",
-      "ALPM" => "Q4",
-      "KHS" => "Q6",
+      "FDP" => FDP_QCODE,
+      "ALPLM" => PAL_QCODE,
+      "ALPM" => PAL_QCODE,
+      "KHS" => KHS_QCODE,
     }
   },
   "PUBLICATION" => {
@@ -58,9 +62,6 @@ CSV_MAP = {
   },
   "NOTE" => {
     :pcode => 'P22',
-  },
-  "URL" => {
-    :pcode => 'P25|P24',
   },
   "SURNAME" => {
     :pcode => 'P28',
