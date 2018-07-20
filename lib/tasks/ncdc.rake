@@ -34,8 +34,13 @@ namespace :ncdc do
   BIOGRAPHY = "Biography"
   CITATION = "Citation"
 
+  #############################################
+  # TODO: Extract to a wikidata client library
+  #############################################
+
 
   WIKIBASE_URL = "http://172.104.209.93:8181/api.php"
+
 
   # return QCode of new item
   def create_item(label, description=nil)  
@@ -62,6 +67,8 @@ namespace :ncdc do
   PRECISION_YEAR = 9
   PRECISION_DECADE = 8
 
+  
+
 
   # return a claim ID
   def edit_item(qcode, property, value, contributing_project_qcode=nil)
@@ -71,7 +78,7 @@ namespace :ncdc do
       value = { "entity-type" => "item", "numeric-id" => strip_q(value) }
     # elsif value.match(/^http/)
       # value = { "entity-type" => "url", "value" => { "url" => value} }      
-    elsif value.match(/^c?\d\d\d\d/)
+    elsif value.match(/^c?\d\d\d\d\b/) && !value.match(/[a-zA-Z]{4,}/) 
       # this is a date
       value_hash = { "entity-type" => "time", "before" => 0, "after" => 0, "timezone" => 0, "calendarmodel" => PROLEPTIC_GREGORIAN }
       if value.match(/c\d\d\d\d/)
@@ -101,6 +108,10 @@ namespace :ncdc do
       :token => "+\\"}
     resp = RestClient.post(url, params)    
     hash = JSON.parse(resp.body)
+    if hash["claim"].nil? || hash["claim"]["id"].nil?
+      binding.pry
+    end
+    
     statement_id = hash["claim"]["id"]
     
     if contributing_project_qcode
@@ -155,6 +166,12 @@ namespace :ncdc do
   def qcode(title)
     
   end
+ 
+  #############################################
+  # End extract to a wikidata client library
+  #############################################
+
+ 
   
   ABBREVIATION_MAP = {
     "KY" => "Kentucky",
@@ -166,7 +183,7 @@ namespace :ncdc do
     "NH" => "New Hampshire",
     "PA" => "Pennsylvania"
   }
-  
+
   def clean_placename(placename)          # change strange formatting
     placename.gsub!("/", ", ")
     placename.gsub!(/^\s/, '')
@@ -226,12 +243,14 @@ namespace :ncdc do
       label = label(row[FULLNAME], row[SUFFIX])
       # insert the record
       print "qcode = create_item(#{label}, #{label})\n"
-      qcode = "Q#{label}"
+      qcode = create_item(label, label)
+#      qcode = "Q#{label}"
 
       # now add the properties
       
       # hard-code  "instance-of" "human"
       print "edit_item(#{qcode}, P33, Q90, #{edition_qcode}) # instance_of human \n"                          
+      edit_item(qcode, 'P33', 'Q90', edition_qcode) # instance_of human \n"                          
       csv_array.headers.each do |header|
         # is this a cell to enter?
         if CSV_MAP[key(header)]
@@ -247,6 +266,7 @@ namespace :ncdc do
               # add the property
   #            edit_item(qcode, pcode, value, edition_qcode)            
               print "edit_item(#{qcode}, #{pcode}, #{value}, #{edition_qcode}) # #{header}\n"                          
+              edit_item(qcode, pcode, value, edition_qcode)                           
             end
           end
           
@@ -259,29 +279,34 @@ namespace :ncdc do
         # special processing for PAL URL
         if edition_qcode == PAL_QCODE
           print "edit_item(#{qcode}, P25, #{url}, #{edition_qcode})\n"                                    
+          edit_item(qcode, 'P25', url, edition_qcode)                                    
         end
         # special processing for CWGK URL
         if edition_qcode == KHS_QCODE
           print "edit_item(#{qcode}, P24, #{url}, #{edition_qcode})\n"                                              
+          edit_item(qcode, 'P24', url, edition_qcode)                                              
         end
       end
 
       # special processing for text location thingy
       pub_details = []
       pub_details << row[PUBLICATION] if row[PUBLICATION]
-      pub_details << "volume #{row[VOLUME]}" if row[VOLUME]
-      pub_details << "book #{row[BOOK]}" if row[BOOK]
-      pub_details << "page #{row[PAGE]}" if row[PAGE]
-      pub_details << "note #{row[NOTE]}" if row[NOTE]
+      pub_details << "Series #{row[SERIES]}" if row[SERIES]
+      pub_details << "Volume #{row[VOLUME]}" if row[VOLUME]
+      pub_details << "Book #{row[BOOK]}" if row[BOOK]
+      pub_details << "Page #{row[PAGE]}" if row[PAGE]
+      pub_details << "Note #{row[NOTE]}" if row[NOTE]
       unless pub_details.empty?
         print "edit_item(#{qcode}, P38, '#{pub_details.join(', ')}', #{edition_qcode})\n"                                              
+        edit_item(qcode, 'P38', pub_details.join(', '), edition_qcode)                                              
       end    
       
       # special processing for biography
       fragment = label_to_url_fragment(label)
       bio = "http://172.104.209.93:8181/wiki/#{fragment}"
-      print "edit_item(#{qcode}, P232, #{bio}, #{edition_qcode})\n"                                              
-      
+      print "edit_item(#{qcode}, P32, #{bio}, #{edition_qcode})\n"                                              
+      edit_item(qcode, 'P32', bio, edition_qcode)                                                 
+      print "\t\t\"#{label}\" => \"#{qcode}\"  #GREP\n"
     end
   end
 

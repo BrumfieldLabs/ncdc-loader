@@ -46,10 +46,10 @@ CSV_MAP = {
     }
   },
   "PUBLICATION" => {
-    :pcode => 'P21',
+    :pcode => 'P40',
    },
   "SERIES" => {
-    :pcode => 'P17',
+    :pcode => 'P41',
   },
   "VOLUME" => {
     :pcode => 'P14',
@@ -121,6 +121,6 @@ CSV_MAP = {
   # :pcode => 'PBiography',
 # },
   "CITATION" => {
-    :pcode => 'P26',
+    :pcode => 'P43',
   }
 }
