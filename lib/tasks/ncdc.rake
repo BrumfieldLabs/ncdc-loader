@@ -1,5 +1,6 @@
 require "erb"
 include ERB::Util
+require File.join(Rails.root, 'lib','csv_mappings.rb')
 
 namespace :ncdc do
   FILENAME = File.join(Rails.root, 'data', 'ncdc_form_responses.csv')
@@ -34,11 +35,11 @@ namespace :ncdc do
   CITATION = "Citation"
 
 
-  URL = "http://172.104.209.93:8181/api.php"
+  WIKIBASE_URL = "http://172.104.209.93:8181/api.php"
 
   # return QCode of new item
   def create_item(label, description=nil)  
-    url = URL
+    url = WIKIBASE_URL
     params = {:action=>"wbeditentity", :format=>"json", :new => 'item', :token => "+\\"}
     data = {}
     data[:labels] = [{:language=>'en', 'value'=>label}]
@@ -64,15 +65,15 @@ namespace :ncdc do
 
   # return a claim ID
   def edit_item(qcode, property, value, contributing_project_qcode=nil)
-    url = URL
+    url = WIKIBASE_URL
 
-    if value.match(/Q\d+/)
+    if value.match(/^Q\d+/)
       value = { "entity-type" => "item", "numeric-id" => strip_q(value) }
-    elsif value.match(/c?\d\d\d\d/)
+    # elsif value.match(/^http/)
+      # value = { "entity-type" => "url", "value" => { "url" => value} }      
+    elsif value.match(/^c?\d\d\d\d/)
       # this is a date
-#      value_hash = { "entity-type" => "time", "timezone" => 0, "calendarmodel" => PROLEPTIC_GREGORIAN }
       value_hash = { "entity-type" => "time", "before" => 0, "after" => 0, "timezone" => 0, "calendarmodel" => PROLEPTIC_GREGORIAN }
-#      value_hash = { "entity-type" => "time", "before" => 0, "after" => 0, "timezone" => 0 }
       if value.match(/c\d\d\d\d/)
         # approximate year
         value_hash['precision'] = PRECISION_DECADE
@@ -111,7 +112,7 @@ namespace :ncdc do
 
   CLAIMED_BY = 'p36'
   def add_reference_to_claim(statement_id, contributing_project_qcode)
-    url = URL
+    url = WIKIBASE_URL
     
     snaks = 
     { CLAIMED_BY => [
@@ -138,9 +139,47 @@ namespace :ncdc do
     hash = JSON.parse(resp.body)
     
     hash
-
   end
 
+  def delete_item(qcode)
+    url = WIKIBASE_URL
+    
+    params = {:action=>"delete", :format=>"json", :title => "Item:#{qcode}", :token => "+\\"}
+
+    resp = RestClient.post(url, params)
+    hash = JSON.parse(resp.body)
+    binding.pry
+    qcode
+  end
+  
+  def qcode(title)
+    
+  end
+  
+  ABBREVIATION_MAP = {
+    "KY" => "Kentucky",
+    "VA" => "Virginia",
+    "TN" => "Tennessee",
+    "MS" => "Mississippi",
+    "NY" => "New York",
+    "MA" => "Massachusetts",
+    "NH" => "New Hampshire",
+    "PA" => "Pennsylvania"
+  }
+  
+  def clean_placename(placename)          # change strange formatting
+    placename.gsub!("/", ", ")
+    placename.gsub!(/^\s/, '')
+    placename.gsub!(/\s$/, '')
+    # default is USA; eliminate
+    placename.gsub!(", USA", '')
+    placename.gsub!("/", ", ")      
+
+    if ABBREVIATION_MAP[placename]
+      placename = ABBREVIATION_MAP[placename]
+    end
+    placename
+  end
   
   desc "get places from csv"
   task places_from_csv: :environment do
@@ -157,36 +196,55 @@ namespace :ncdc do
     
     # clean the entries
     clean_places = places.map do |placename|
-      # change strange formatting
-      placename.gsub!("/", ", ")
-      placename.gsub!(/^\s/, '')
-      placename.gsub!(/\s$/, '')
-      # default is USA; eliminate
-      placename.gsub!(", USA", '')
-      placename.gsub!("/", ", ")      
+      clean_placename(placename)
+    end
+    
+    clean_places.uniq.each do |placename|      # create item
+      p 'qcode = create_item(placename)'
       
-      placename
+#      print "\"#{placename}\" => \"#{qcode}\",\n"
     end
-    
-    clean_places.uniq.each do |placename|
-      p placename
+  end
+
+
+
+  desc "insert people"
+  task insert_people: :environment do
+    csv_array = load_csv
+
+    csv_array.headers.each do |header|
+      # find the member edition
+      # map the member edition
+      # insert the record
+      # add the member edition
+
+      # now add the properties
+      csv_array.each do |row|
+        # figure out the P-code
+        # figure out the value
+        # add the property
+      end
+      
     end
-    
+  end
+
+
+
+  desc "exercise API on our wikidata"
+  task test_api: :environment do
     qcode = create_item("Test Item #{Time.now}", "A nice peach cobbler")
     edit_item(qcode, 'P28', "Smith", 'Q16')
-    edit_item(qcode, 'P13', "Q11", 'Q16')
-    
+    edit_item(qcode, 'P13', "Q11", 'Q16')   
     # dates to be dealt with:
     # 1907
-    edit_item(qcode, 'P8', '1907')
+    edit_item(qcode, 'P8', '1907', 'Q16')
     # 1869-11-20
-    edit_item(qcode, 'P8', '1869-11-20')
+    edit_item(qcode, 'P8', '1869-11-20', 'Q16')
     # c1800
-    edit_item(qcode, 'P8', 'c1824')
-    
-    
+    edit_item(qcode, 'P8', 'c1824', 'Q16')
+    edit_item(qcode, 'P32', 'http://172.104.209.93:8181/wiki/George_Barrell_Cheever')    
+    delete_item(qcode)    
     p qcode
-    
   end
 
   desc "print curl commands to create pages for biographies"
@@ -213,8 +271,7 @@ namespace :ncdc do
   
   
   def load_csv
-    CSV.read(FILENAME, :headers => true)
-    
+    CSV.read(FILENAME, :headers => true)    
   end
 
 end
