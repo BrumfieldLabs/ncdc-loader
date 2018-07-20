@@ -183,6 +183,9 @@ namespace :ncdc do
   
   desc "get places from csv"
   task places_from_csv: :environment do
+    p "These items have been created already -- exiting"
+    exit
+    
     csv_array = load_csv
      
     # read the places from the file
@@ -200,9 +203,9 @@ namespace :ncdc do
     end
     
     clean_places.uniq.each do |placename|      # create item
-      p 'qcode = create_item(placename)'
+      qcode = create_item(placename)
       
-#      print "\"#{placename}\" => \"#{qcode}\",\n"
+      print "\"#{placename}\" => \"#{qcode}\",\n"
     end
   end
 
