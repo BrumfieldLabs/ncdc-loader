@@ -74,6 +74,7 @@ namespace :ncdc do
   def edit_item(qcode, property, value, contributing_project_qcode=nil)
     url = WIKIBASE_URL
 
+    value = value.strip
     if value.match(/^Q\d+/)
       value = { "entity-type" => "item", "numeric-id" => strip_q(value) }
     # elsif value.match(/^http/)
@@ -89,12 +90,19 @@ namespace :ncdc do
         # full date
         value_hash['precision'] = PRECISION_DAY
         value_hash['time'] = "+0000000#{value}T00:00:00Z"
+      elsif value.match(/\d\d\d\d-\d\d/)
+        # full date
+        value_hash['precision'] = PRECISION_MONTH
+        value_hash['time'] = "+0000000#{value}-00T00:00:00Z"
       else
         # year only (we hope)
         value_hash['precision'] = PRECISION_YEAR
         value_hash['time'] = "+0000000#{value}-00-00T00:00:00Z"
       end
       value = value_hash
+    else
+      # it's a string
+      value = value.truncate(400)
     end
 
     params = 
@@ -259,6 +267,10 @@ namespace :ncdc do
           if pcode
             value = row[header]
             if value
+              # handle ugly place names
+              if [STATE_COUNTRY_OF_BIRTH, STATE_COUNTRY_OF_DEATH].include?(header)
+                value = clean_placename(value)
+              end
               # figure out the value
               if CSV_MAP[key(header)][:value_map]
                 value = CSV_MAP[key(header)][:value_map][value] || value
@@ -268,12 +280,12 @@ namespace :ncdc do
               print "edit_item(#{qcode}, #{pcode}, #{value}, #{edition_qcode}) # #{header}\n"                          
               edit_item(qcode, pcode, value, edition_qcode)                           
             end
-          end
-          
+          end        
         end
       end
 
-      
+      # special parameters
+      #urls
       url = row[URL]
       if url
         # special processing for PAL URL
