@@ -1,0 +1,2023 @@
+qcode = create_item(George Barrell Cheever, George Barrell Cheever)
+edit_item(QGeorge Barrell Cheever, P33, Q90, Q5) # instance_of human 
+edit_item(QGeorge Barrell Cheever, P29, Q5, Q5) # Publisher
+edit_item(QGeorge Barrell Cheever, P21, Correspondence, Q5) # Publication
+edit_item(QGeorge Barrell Cheever, P17, 3, Q5) # Series
+edit_item(QGeorge Barrell Cheever, P14, 2, Q5) # Volume
+edit_item(QGeorge Barrell Cheever, P22, 1, Q5) # Note
+edit_item(QGeorge Barrell Cheever, P28, Cheever, Q5) # Surname
+edit_item(QGeorge Barrell Cheever, P30, George, Q5) # Forename
+edit_item(QGeorge Barrell Cheever, P30, Barrell, Q5) # Middle Name/Initial
+edit_item(QGeorge Barrell Cheever, P6, 45957584, Q5) # SNAC ID
+edit_item(QGeorge Barrell Cheever, P7, Q7, Q5) # Sex
+edit_item(QGeorge Barrell Cheever, P8, 1807, Q5) # Birth Date
+edit_item(QGeorge Barrell Cheever, P9, 1890, Q5) # Death Date
+edit_item(QGeorge Barrell Cheever, P10, Q12, Q5) # State/Country of Birth
+edit_item(QGeorge Barrell Cheever, P26, McKivigan, War against Proslavery Religion, 137-41; ACAB, 1:597; DAB, 4:48-49., Q5) # Citation
+edit_item(QGeorge Barrell Cheever, P38, 'Correspondence, Series 3, Volume 2, Note 1', Q5)
+edit_item(QGeorge Barrell Cheever, P32, http://172.104.209.93:8181/wiki/George_Barrell_Cheever, Q5)
+qcode = create_item(Theodore Tilton, Theodore Tilton)
+edit_item(QTheodore Tilton, P33, Q90, Q5) # instance_of human 
+edit_item(QTheodore Tilton, P29, Q5, Q5) # Publisher
+edit_item(QTheodore Tilton, P21, Correspondence, Q5) # Publication
+edit_item(QTheodore Tilton, P17, 3, Q5) # Series
+edit_item(QTheodore Tilton, P14, 2, Q5) # Volume
+edit_item(QTheodore Tilton, P22, 1, Q5) # Note
+edit_item(QTheodore Tilton, P28, Tilton, Q5) # Surname
+edit_item(QTheodore Tilton, P30, Theodore, Q5) # Forename
+edit_item(QTheodore Tilton, P6, 15594285, Q5) # SNAC ID
+edit_item(QTheodore Tilton, P7, Q7, Q5) # Sex
+edit_item(QTheodore Tilton, P8, 1835, Q5) # Birth Date
+edit_item(QTheodore Tilton, P9, 1907, Q5) # Death Date
+edit_item(QTheodore Tilton, P10, Q61, Q5) # State/Country of Birth
+edit_item(QTheodore Tilton, P26,  
+Douglass to Theodore Tilton, 22 November 1860, 2 December 1869, FD Papers, NRU; Douglass to Theodore Tilton, 2 September 1867, FD Papers, NHi; Theodore Tilton to Douglass, 30 April, 22 October 1862, 20 April 1869, 5 September 1882, General Correspondence File, reel 1, frames 718-19, 745-47, reel 2, frames 464-66, and reel 3, frames 627-31, FD Papers, DLC; Chicago Open Court, 28 April 1887; New York Times, 26 May 1907; New York Independent, 10 December 1908; Robert Shaplen, Free Love and Heavenly Sinners: The Story of the Great Henry Ward Beecher Scandal (New York, 1954); ACAB, 6:120; DAB, 2:129-35.  
+, Q5) # Citation
+edit_item(QTheodore Tilton, P38, 'Correspondence, Series 3, Volume 2, Note 1', Q5)
+edit_item(QTheodore Tilton, P32, http://172.104.209.93:8181/wiki/Theodore_Tilton, Q5)
+qcode = create_item(W. W. Tate, W. W. Tate)
+edit_item(QW. W. Tate, P33, Q90, Q5) # instance_of human 
+edit_item(QW. W. Tate, P29, Q5, Q5) # Publisher
+edit_item(QW. W. Tate, P21, Correspondence, Q5) # Publication
+edit_item(QW. W. Tate, P17, 3, Q5) # Series
+edit_item(QW. W. Tate, P14, 2, Q5) # Volume
+edit_item(QW. W. Tate, P22, 1, Q5) # Note
+edit_item(QW. W. Tate, P28, Tate, Q5) # Surname
+edit_item(QW. W. Tate, P30, W., Q5) # Forename
+edit_item(QW. W. Tate, P30, W., Q5) # Middle Name/Initial
+edit_item(QW. W. Tate, P7, Q7, Q5) # Sex
+edit_item(QW. W. Tate, P13, Q9, Q5) # Race Description
+edit_item(QW. W. Tate, P8, c1840, Q5) # Birth Date
+edit_item(QW. W. Tate, P10, Q62, Q5) # State/Country of Birth
+edit_item(QW. W. Tate, P26, Lib., 8 September 1865; The Assassination of Abraham Lincoln, Late President of the Unites States of America, and the Attempted Assassination of William H. Seward, Secretary of State, and Frederick W. Seward, Assistant Secretary, on the Evening of the 14th of April, 1865 (Washington, D.C. 1867); 1880 U.S. Census, New Mexico, Santa Fe County, 38., Q5) # Citation
+edit_item(QW. W. Tate, P38, 'Correspondence, Series 3, Volume 2, Note 1', Q5)
+edit_item(QW. W. Tate, P32, http://172.104.209.93:8181/wiki/W._W._Tate, Q5)
+qcode = create_item(Jeremiah Powers, Jeremiah Powers)
+edit_item(QJeremiah Powers, P33, Q90, Q5) # instance_of human 
+edit_item(QJeremiah Powers, P29, Q5, Q5) # Publisher
+edit_item(QJeremiah Powers, P21, Correspondence, Q5) # Publication
+edit_item(QJeremiah Powers, P17, 3, Q5) # Series
+edit_item(QJeremiah Powers, P14, 2, Q5) # Volume
+edit_item(QJeremiah Powers, P22, 5, Q5) # Note
+edit_item(QJeremiah Powers, P28, Powers, Q5) # Surname
+edit_item(QJeremiah Powers, P30, Jeremiah, Q5) # Forename
+edit_item(QJeremiah Powers, P6, 56944870, Q5) # SNAC ID
+edit_item(QJeremiah Powers, P7, Q7, Q5) # Sex
+edit_item(QJeremiah Powers, P13, Q9, Q5) # Race Description
+edit_item(QJeremiah Powers, P8, c1819, Q5) # Birth Date
+edit_item(QJeremiah Powers, P26, NASS, quoted in FDP, 5 February 1852; DM, 4:642-43 (May 1862); 1850 U.S. Census, New York, New York County, 10; Leslie M. Alexander, African or American?: Black Identity and Political Activism in New York City, 1784-1861 (Urbana, Ill., 2008), 123-24; Foner and Walker, Black State Conventions, 1: 36, 87., Q5) # Citation
+edit_item(QJeremiah Powers, P38, 'Correspondence, Series 3, Volume 2, Note 5', Q5)
+edit_item(QJeremiah Powers, P32, http://172.104.209.93:8181/wiki/Jeremiah_Powers, Q5)
+qcode = create_item(Stephen Allen Benson, Stephen Allen Benson)
+edit_item(QStephen Allen Benson, P33, Q90, Q5) # instance_of human 
+edit_item(QStephen Allen Benson, P29, Q5, Q5) # Publisher
+edit_item(QStephen Allen Benson, P21, Correspondence, Q5) # Publication
+edit_item(QStephen Allen Benson, P17, 3, Q5) # Series
+edit_item(QStephen Allen Benson, P14, 2, Q5) # Volume
+edit_item(QStephen Allen Benson, P22, 8, Q5) # Note
+edit_item(QStephen Allen Benson, P28, Benson, Q5) # Surname
+edit_item(QStephen Allen Benson, P30, Stephen, Q5) # Forename
+edit_item(QStephen Allen Benson, P30, Allen, Q5) # Middle Name/Initial
+edit_item(QStephen Allen Benson, P6, 8448204, Q5) # SNAC ID
+edit_item(QStephen Allen Benson, P7, Q7, Q5) # Sex
+edit_item(QStephen Allen Benson, P13, Q9, Q5) # Race Description
+edit_item(QStephen Allen Benson, P8, 1816, Q5) # Birth Date
+edit_item(QStephen Allen Benson, P9, 1865, Q5) # Death Date
+edit_item(QStephen Allen Benson, P10, Q63, Q5) # State/Country of Birth
+edit_item(QStephen Allen Benson, P26, D. Ellwood Dunn, Amos J. Beyan, and Carl Patrick Burrowes, eds., Historical Dictionary of Liberia, 2d ed. (Lanham, Md., 2001), 37-38. , Q5) # Citation
+edit_item(QStephen Allen Benson, P38, 'Correspondence, Series 3, Volume 2, Note 8', Q5)
+edit_item(QStephen Allen Benson, P32, http://172.104.209.93:8181/wiki/Stephen_Allen_Benson, Q5)
+qcode = create_item(Austin Willey, Austin Willey)
+edit_item(QAustin Willey, P33, Q90, Q5) # instance_of human 
+edit_item(QAustin Willey, P29, Q5, Q5) # Publisher
+edit_item(QAustin Willey, P21, Correspondence, Q5) # Publication
+edit_item(QAustin Willey, P17, 3, Q5) # Series
+edit_item(QAustin Willey, P14, 2, Q5) # Volume
+edit_item(QAustin Willey, P22, 1, Q5) # Note
+edit_item(QAustin Willey, P28, Willey, Q5) # Surname
+edit_item(QAustin Willey, P30, Austin, Q5) # Forename
+edit_item(QAustin Willey, P6, 44562021, Q5) # SNAC ID
+edit_item(QAustin Willey, P7, Q7, Q5) # Sex
+edit_item(QAustin Willey, P8, 1806, Q5) # Birth Date
+edit_item(QAustin Willey, P9, 1896, Q5) # Death Date
+edit_item(QAustin Willey, P10, Q64, Q5) # State/Country of Birth
+edit_item(QAustin Willey, P26, [New York] Emancipator, 17 November 1847; Oscar Fay Adams, A Dictionary of American Authors (1884; Boston, 1970), 425; Carter, Ministry of New Hampshire, 89-90; Herringshaw, National Library of American Biography, 5:704; Edward O. Schriver, “Antislavery: The Free Soil and Free Democratic Parties in Maine, 1848-1855,” NEQ, 42:83 (March 1969). , Q5) # Citation
+edit_item(QAustin Willey, P38, 'Correspondence, Series 3, Volume 2, Note 1', Q5)
+edit_item(QAustin Willey, P32, http://172.104.209.93:8181/wiki/Austin_Willey, Q5)
+qcode = create_item(Samuel Clarke Pomeroy, Samuel Clarke Pomeroy)
+edit_item(QSamuel Clarke Pomeroy, P33, Q90, Q5) # instance_of human 
+edit_item(QSamuel Clarke Pomeroy, P29, Q5, Q5) # Publisher
+edit_item(QSamuel Clarke Pomeroy, P21, Correspondence, Q5) # Publication
+edit_item(QSamuel Clarke Pomeroy, P17, 3, Q5) # Series
+edit_item(QSamuel Clarke Pomeroy, P14, 2, Q5) # Volume
+edit_item(QSamuel Clarke Pomeroy, P22, 1, Q5) # Note
+edit_item(QSamuel Clarke Pomeroy, P28, Pomeroy, Q5) # Surname
+edit_item(QSamuel Clarke Pomeroy, P30, Samuel, Q5) # Forename
+edit_item(QSamuel Clarke Pomeroy, P30, Clarke, Q5) # Middle Name/Initial
+edit_item(QSamuel Clarke Pomeroy, P6, 71979181, Q5) # SNAC ID
+edit_item(QSamuel Clarke Pomeroy, P7, Q7, Q5) # Sex
+edit_item(QSamuel Clarke Pomeroy, P8, 1816, Q5) # Birth Date
+edit_item(QSamuel Clarke Pomeroy, P9, 1891, Q5) # Death Date
+edit_item(QSamuel Clarke Pomeroy, P10,  Massachusetts, Q5) # State/Country of Birth
+edit_item(QSamuel Clarke Pomeroy, P26, Douglass to Samuel C. Pomeroy, 12 November 1874, Samuel C. Pomeroy to Douglass, 14 June 1883, General Correspondence File, reel 2, frames 761-62, reel 3, frames 731-32, FD Papers, DLC; Wilder, Annals of Kansas, 241, 457, 521, 570; ACAB, 5:60; NCAB, 12:69-70; DAB, 15:54-55. , Q5) # Citation
+edit_item(QSamuel Clarke Pomeroy, P38, 'Correspondence, Series 3, Volume 2, Note 1', Q5)
+edit_item(QSamuel Clarke Pomeroy, P32, http://172.104.209.93:8181/wiki/Samuel_Clarke_Pomeroy, Q5)
+qcode = create_item(Perry Wilmer, Perry Wilmer)
+edit_item(QPerry Wilmer, P33, Q90, Q5) # instance_of human 
+edit_item(QPerry Wilmer, P29, Q5, Q5) # Publisher
+edit_item(QPerry Wilmer, P21, Correspondence, Q5) # Publication
+edit_item(QPerry Wilmer, P17, 3, Q5) # Series
+edit_item(QPerry Wilmer, P14, 2, Q5) # Volume
+edit_item(QPerry Wilmer, P22, 2, Q5) # Note
+edit_item(QPerry Wilmer, P28, Wilmer, Q5) # Surname
+edit_item(QPerry Wilmer, P30, Perry, Q5) # Forename
+edit_item(QPerry Wilmer, P19, "Uncle Perry", Q5) # Alternate Name
+edit_item(QPerry Wilmer, P7, Q7, Q5) # Sex
+edit_item(QPerry Wilmer, P13, Q9, Q5) # Race Description
+edit_item(QPerry Wilmer, P8, c1815, Q5) # Birth Date
+edit_item(QPerry Wilmer, P26, 1860 U.S. Census, New Jersey, Salem County, 44; 1870 U.S. Census, New Jersey, Salem County, 82. , Q5) # Citation
+edit_item(QPerry Wilmer, P38, 'Correspondence, Series 3, Volume 2, Note 2', Q5)
+edit_item(QPerry Wilmer, P32, http://172.104.209.93:8181/wiki/Perry_Wilmer, Q5)
+qcode = create_item(Laura Moody, Laura Moody)
+edit_item(QLaura Moody, P33, Q90, Q5) # instance_of human 
+edit_item(QLaura Moody, P29, Q5, Q5) # Publisher
+edit_item(QLaura Moody, P21, Correspondence, Q5) # Publication
+edit_item(QLaura Moody, P17, 3, Q5) # Series
+edit_item(QLaura Moody, P14, 2, Q5) # Volume
+edit_item(QLaura Moody, P22, 6, Q5) # Note
+edit_item(QLaura Moody, P28, Moody, Q5) # Surname
+edit_item(QLaura Moody, P30, Laura, Q5) # Forename
+edit_item(QLaura Moody, P19, Wheeler, Q5) # Alternate Name
+edit_item(QLaura Moody, P7, Q8, Q5) # Sex
+edit_item(QLaura Moody, P8, 1843, Q5) # Birth Date
+edit_item(QLaura Moody, P9, 1921, Q5) # Death Date
+edit_item(QLaura Moody, P26, 1860 U.S. Census, New York, Niagara County, 312; Portrait and Biographical Album of Marshall County, Kansas (Chicago, 1889), 736-38; William Richard Cutter, Genealogical and Family History of Western New York, 3 vols. (New York, 1912), 2:735. , Q5) # Citation
+edit_item(QLaura Moody, P38, 'Correspondence, Series 3, Volume 2, Note 6', Q5)
+edit_item(QLaura Moody, P32, http://172.104.209.93:8181/wiki/Laura_Moody, Q5)
+qcode = create_item(Thomas Joshua Dorsey, Thomas Joshua Dorsey)
+edit_item(QThomas Joshua Dorsey, P33, Q90, Q5) # instance_of human 
+edit_item(QThomas Joshua Dorsey, P29, Q5, Q5) # Publisher
+edit_item(QThomas Joshua Dorsey, P21, Correspondence, Q5) # Publication
+edit_item(QThomas Joshua Dorsey, P17, 3, Q5) # Series
+edit_item(QThomas Joshua Dorsey, P14, 2, Q5) # Volume
+edit_item(QThomas Joshua Dorsey, P22, 9, Q5) # Note
+edit_item(QThomas Joshua Dorsey, P28, Dorsey, Q5) # Surname
+edit_item(QThomas Joshua Dorsey, P30, Thomas, Q5) # Forename
+edit_item(QThomas Joshua Dorsey, P30, Joshua, Q5) # Middle Name/Initial
+edit_item(QThomas Joshua Dorsey, P7, Q7, Q5) # Sex
+edit_item(QThomas Joshua Dorsey, P8, 1810, Q5) # Birth Date
+edit_item(QThomas Joshua Dorsey, P9, 1875, Q5) # Death Date
+edit_item(QThomas Joshua Dorsey, P10, Q66, Q5) # State/Country of Birth
+edit_item(QThomas Joshua Dorsey, P26, . Philadelphia Times, 17 October 1896; Roger Lane, William Dorsey’s Philadelphia and Ours: On the Past and Future of the Black City in America (New York, 1991), 2, 301; John N. Ingham and Lynne B. Feldman, African-American Business Leaders: A Biographical Dictionary (Westport, Conn., 1994), 226; Randall K. Burkett, Nancy Hall Burkett, and Henry Louis Gates, Jr., eds., Black Biography, 1790-1950, 3 vols. (Alexandria, Va., 1991), 1:364; Dubois, The Philadelphia Negro, 34; ANB, 20:775-76., Q5) # Citation
+edit_item(QThomas Joshua Dorsey, P38, 'Correspondence, Series 3, Volume 2, Note 9', Q5)
+edit_item(QThomas Joshua Dorsey, P32, http://172.104.209.93:8181/wiki/Thomas_Joshua_Dorsey, Q5)
+qcode = create_item(Hester Reckless, Hester Reckless)
+edit_item(QHester Reckless, P33, Q90, Q5) # instance_of human 
+edit_item(QHester Reckless, P29, Q5, Q5) # Publisher
+edit_item(QHester Reckless, P21, Correspondence, Q5) # Publication
+edit_item(QHester Reckless, P17, 3, Q5) # Series
+edit_item(QHester Reckless, P14, 2, Q5) # Volume
+edit_item(QHester Reckless, P22, 13, Q5) # Note
+edit_item(QHester Reckless, P28, Reckless, Q5) # Surname
+edit_item(QHester Reckless, P30, Hester, Q5) # Forename
+edit_item(QHester Reckless, P19, Amy, Q5) # Alternate Name
+edit_item(QHester Reckless, P7, Q8, Q5) # Sex
+edit_item(QHester Reckless, P8, 1793, Q5) # Birth Date
+edit_item(QHester Reckless, P9, 1881, Q5) # Death Date
+edit_item(QHester Reckless, P10, Q67, Q5) # State/Country of Birth
+edit_item(QHester Reckless, P26, Robert Clemens Smedley, History of the Underground Railroad in Chester and the Neighboring Counties of Pennsylvania (1883; New York, 1968), 348. , Q5) # Citation
+edit_item(QHester Reckless, P38, 'Correspondence, Series 3, Volume 2, Note 13', Q5)
+edit_item(QHester Reckless, P32, http://172.104.209.93:8181/wiki/Hester_Reckless, Q5)
+qcode = create_item(Rachael Mason, Rachael Mason)
+edit_item(QRachael Mason, P33, Q90, Q5) # instance_of human 
+edit_item(QRachael Mason, P29, Q5, Q5) # Publisher
+edit_item(QRachael Mason, P21, Correspondence, Q5) # Publication
+edit_item(QRachael Mason, P17, 3, Q5) # Series
+edit_item(QRachael Mason, P14, 2, Q5) # Volume
+edit_item(QRachael Mason, P22, 18, Q5) # Note
+edit_item(QRachael Mason, P28, Mason, Q5) # Surname
+edit_item(QRachael Mason, P30, Rachael, Q5) # Forename
+edit_item(QRachael Mason, P7, Q8, Q5) # Sex
+edit_item(QRachael Mason, P13, Q9, Q5) # Race Description
+edit_item(QRachael Mason, P8, c1800, Q5) # Birth Date
+edit_item(QRachael Mason, P26, 1850 U.S. Census, Maryland, Baltimore County, 132., Q5) # Citation
+edit_item(QRachael Mason, P38, 'Correspondence, Series 3, Volume 2, Note 18', Q5)
+edit_item(QRachael Mason, P32, http://172.104.209.93:8181/wiki/Rachael_Mason, Q5)
+qcode = create_item(Montgomery Blair, Montgomery Blair)
+edit_item(QMontgomery Blair, P33, Q90, Q5) # instance_of human 
+edit_item(QMontgomery Blair, P29, Q5, Q5) # Publisher
+edit_item(QMontgomery Blair, P21, Correspondence, Q5) # Publication
+edit_item(QMontgomery Blair, P17, 3, Q5) # Series
+edit_item(QMontgomery Blair, P14, 2, Q5) # Volume
+edit_item(QMontgomery Blair, P22, 1, Q5) # Note
+edit_item(QMontgomery Blair, P28, Blair, Q5) # Surname
+edit_item(QMontgomery Blair, P30, Montgomery, Q5) # Forename
+edit_item(QMontgomery Blair, P6, 64547398, Q5) # SNAC ID
+edit_item(QMontgomery Blair, P7, Q7, Q5) # Sex
+edit_item(QMontgomery Blair, P8, 1813, Q5) # Birth Date
+edit_item(QMontgomery Blair, P9, 1883, Q5) # Death Date
+edit_item(QMontgomery Blair, P10, Q68, Q5) # State/Country of Birth
+edit_item(QMontgomery Blair, P26, Rita L. Moroney, Montgomery Blair, Postmaster General (Washington, D.C., 1963).  , Q5) # Citation
+edit_item(QMontgomery Blair, P38, 'Correspondence, Series 3, Volume 2, Note 1', Q5)
+edit_item(QMontgomery Blair, P32, http://172.104.209.93:8181/wiki/Montgomery_Blair, Q5)
+qcode = create_item(Thomas Jefferson, Thomas Jefferson)
+edit_item(QThomas Jefferson, P33, Q90, Q5) # instance_of human 
+edit_item(QThomas Jefferson, P29, Q5, Q5) # Publisher
+edit_item(QThomas Jefferson, P21, Correspondence, Q5) # Publication
+edit_item(QThomas Jefferson, P17, 3, Q5) # Series
+edit_item(QThomas Jefferson, P14, 2, Q5) # Volume
+edit_item(QThomas Jefferson, P22, 4, Q5) # Note
+edit_item(QThomas Jefferson, P28, Jefferson, Q5) # Surname
+edit_item(QThomas Jefferson, P30, Thomas, Q5) # Forename
+edit_item(QThomas Jefferson, P6, 83449756, Q5) # SNAC ID
+edit_item(QThomas Jefferson, P7, Q7, Q5) # Sex
+edit_item(QThomas Jefferson, P13, Q10, Q5) # Race Description
+edit_item(QThomas Jefferson, P8, 1743, Q5) # Birth Date
+edit_item(QThomas Jefferson, P9, 1826, Q5) # Death Date
+edit_item(QThomas Jefferson, P26, Noble E. Cunningham, Jr., In Pursuit of Reason: The Life of Thomas Jefferson (New York, 1987); Nicholas E. Magnis, “Thomas Jefferson and Slavery: An Analysis of his Racist Thinking as Revealed by His Writings and Political Behavior,” Journal of Black Studies, 29:491-509 (March 1999); DAB, 10:17-35. , Q5) # Citation
+edit_item(QThomas Jefferson, P38, 'Correspondence, Series 3, Volume 2, Note 4', Q5)
+edit_item(QThomas Jefferson, P32, http://172.104.209.93:8181/wiki/Thomas_Jefferson, Q5)
+qcode = create_item(Benjamin Banneker, Benjamin Banneker)
+edit_item(QBenjamin Banneker, P33, Q90, Q5) # instance_of human 
+edit_item(QBenjamin Banneker, P29, Q5, Q5) # Publisher
+edit_item(QBenjamin Banneker, P21, Correspondence, Q5) # Publication
+edit_item(QBenjamin Banneker, P17, 3, Q5) # Series
+edit_item(QBenjamin Banneker, P14, 2, Q5) # Volume
+edit_item(QBenjamin Banneker, P22, 2, Q5) # Note
+edit_item(QBenjamin Banneker, P28, Banneker, Q5) # Surname
+edit_item(QBenjamin Banneker, P30, Benjamin, Q5) # Forename
+edit_item(QBenjamin Banneker, P6, 55074987, Q5) # SNAC ID
+edit_item(QBenjamin Banneker, P7, Q7, Q5) # Sex
+edit_item(QBenjamin Banneker, P13, Q9, Q5) # Race Description
+edit_item(QBenjamin Banneker, P8, 1731, Q5) # Birth Date
+edit_item(QBenjamin Banneker, P9, 1806, Q5) # Death Date
+edit_item(QBenjamin Banneker, P10, Q66, Q5) # State/Country of Birth
+edit_item(QBenjamin Banneker, P26, Silvio A. Bedini, The Life of Benjamin Banneker (New York, 1972); P. Lee Phillips, “The Negro, Benjamin Banneker; Astronomer and Mathematician, Plea for Universal Peace,” Records of the Columbia Historical Society, 20:114-20 (1917); ACAB, 1:159; DANB, 22-25.  , Q5) # Citation
+edit_item(QBenjamin Banneker, P38, 'Correspondence, Series 3, Volume 2, Note 2', Q5)
+edit_item(QBenjamin Banneker, P32, http://172.104.209.93:8181/wiki/Benjamin_Banneker, Q5)
+qcode = create_item(John Caldwell Calhoun, John Caldwell Calhoun)
+edit_item(QJohn Caldwell Calhoun, P33, Q90, Q5) # instance_of human 
+edit_item(QJohn Caldwell Calhoun, P29, Q5, Q5) # Publisher
+edit_item(QJohn Caldwell Calhoun, P21, Correspondence, Q5) # Publication
+edit_item(QJohn Caldwell Calhoun, P17, 3, Q5) # Series
+edit_item(QJohn Caldwell Calhoun, P14, 2, Q5) # Volume
+edit_item(QJohn Caldwell Calhoun, P22, 19, Q5) # Note
+edit_item(QJohn Caldwell Calhoun, P28, Calhoun, Q5) # Surname
+edit_item(QJohn Caldwell Calhoun, P30, John, Q5) # Forename
+edit_item(QJohn Caldwell Calhoun, P30, Caldwell, Q5) # Middle Name/Initial
+edit_item(QJohn Caldwell Calhoun, P6, 20178031, Q5) # SNAC ID
+edit_item(QJohn Caldwell Calhoun, P7, Q7, Q5) # Sex
+edit_item(QJohn Caldwell Calhoun, P13, Q10, Q5) # Race Description
+edit_item(QJohn Caldwell Calhoun, P8, 1782, Q5) # Birth Date
+edit_item(QJohn Caldwell Calhoun, P9, 1850, Q5) # Death Date
+edit_item(QJohn Caldwell Calhoun, P26, John Niven, John C. Calhoun and the Price of Union: A Biography (Baton Rouge, La., 1988); Charles M. Wiltse, John C. Calhoun, 3 vols. (New York, 1944-51); DAB, 3:410-19. , Q5) # Citation
+edit_item(QJohn Caldwell Calhoun, P38, 'Correspondence, Series 3, Volume 2, Note 19', Q5)
+edit_item(QJohn Caldwell Calhoun, P32, http://172.104.209.93:8181/wiki/John_Caldwell_Calhoun, Q5)
+qcode = create_item(James Rood Doolittle, James Rood Doolittle)
+edit_item(QJames Rood Doolittle, P33, Q90, Q5) # instance_of human 
+edit_item(QJames Rood Doolittle, P29, Q5, Q5) # Publisher
+edit_item(QJames Rood Doolittle, P21, Correspondence, Q5) # Publication
+edit_item(QJames Rood Doolittle, P17, 3, Q5) # Series
+edit_item(QJames Rood Doolittle, P14, 2, Q5) # Volume
+edit_item(QJames Rood Doolittle, P22, 21, Q5) # Note
+edit_item(QJames Rood Doolittle, P28, Doolittle, Q5) # Surname
+edit_item(QJames Rood Doolittle, P30, James, Q5) # Forename
+edit_item(QJames Rood Doolittle, P30, Rood, Q5) # Middle Name/Initial
+edit_item(QJames Rood Doolittle, P6, 52562129, Q5) # SNAC ID
+edit_item(QJames Rood Doolittle, P7, Q7, Q5) # Sex
+edit_item(QJames Rood Doolittle, P8, 1815, Q5) # Birth Date
+edit_item(QJames Rood Doolittle, P9, 1897, Q5) # Death Date
+edit_item(QJames Rood Doolittle, P10, Q61, Q5) # State/Country of Birth
+edit_item(QJames Rood Doolittle, P26, LaWanda C. Fenlason Cox and John Henry Cox, Politics, Principle, and Prejudice, 1865-1866: Dilemma of Reconstruction America (1963; New York, 1976), 215-16, 224, 227; Howard K. Beale, The Critical Year: A Study of Andrew Johnson and Reconstruction (1930; New York, 1958), 123-31; ACAB, 2:201-02; DAB, 5:274-75. , Q5) # Citation
+edit_item(QJames Rood Doolittle, P38, 'Correspondence, Series 3, Volume 2, Note 21', Q5)
+edit_item(QJames Rood Doolittle, P32, http://172.104.209.93:8181/wiki/James_Rood_Doolittle, Q5)
+qcode = create_item(Martha Fletcher, Martha Fletcher)
+edit_item(QMartha Fletcher, P33, Q90, Q5) # instance_of human 
+edit_item(QMartha Fletcher, P29, Q5, Q5) # Publisher
+edit_item(QMartha Fletcher, P21, Correspondence, Q5) # Publication
+edit_item(QMartha Fletcher, P17, 3, Q5) # Series
+edit_item(QMartha Fletcher, P14, 2, Q5) # Volume
+edit_item(QMartha Fletcher, P22, 7, Q5) # Note
+edit_item(QMartha Fletcher, P28, Fletcher, Q5) # Surname
+edit_item(QMartha Fletcher, P30, Martha, Q5) # Forename
+edit_item(QMartha Fletcher, P19, Bailey, Q5) # Alternate Name
+edit_item(QMartha Fletcher, P7, Q8, Q5) # Sex
+edit_item(QMartha Fletcher, P13, Q9, Q5) # Race Description
+edit_item(QMartha Fletcher, P8, c1811, Q5) # Birth Date
+edit_item(QMartha Fletcher, P9, 1875, Q5) # Death Date
+edit_item(QMartha Fletcher, P10, Q65, Q5) # State/Country of Birth
+edit_item(QMartha Fletcher, P26, 1840 U.S. Census, Massachusetts, Bristol County, 395; The New Bedford Directory, Containing the names of the Inhabitants, Their Occupations, Places, Business and Dwelling houses (New Bedford, Mass., 1841), 70; 1850 U.S. Census, Massachusetts, Bristol County, 230; Vital Records of New Bedford Massachusetts to the Year 1850, 3 vols. (Boston, 1932), 2:38; Kathryn Grover, The Fugitive’s Gibraltar: Escaping Slaves and Abolitionism in New Bedford, Massachusetts (Amherst, Mass., 2001), 122; Sterling, We Are Your Sisters, 144-46. , Q5) # Citation
+edit_item(QMartha Fletcher, P38, 'Correspondence, Series 3, Volume 2, Note 7', Q5)
+edit_item(QMartha Fletcher, P32, http://172.104.209.93:8181/wiki/Martha_Fletcher, Q5)
+qcode = create_item(Elizabeth Josephine Brown, Elizabeth Josephine Brown)
+edit_item(QElizabeth Josephine Brown, P33, Q90, Q5) # instance_of human 
+edit_item(QElizabeth Josephine Brown, P29, Q5, Q5) # Publisher
+edit_item(QElizabeth Josephine Brown, P21, Correspondence, Q5) # Publication
+edit_item(QElizabeth Josephine Brown, P17, 3, Q5) # Series
+edit_item(QElizabeth Josephine Brown, P14, 2, Q5) # Volume
+edit_item(QElizabeth Josephine Brown, P22, 8, Q5) # Note
+edit_item(QElizabeth Josephine Brown, P28, Brown, Q5) # Surname
+edit_item(QElizabeth Josephine Brown, P30, Elizabeth, Q5) # Forename
+edit_item(QElizabeth Josephine Brown, P30, Josephine, Q5) # Middle Name/Initial
+edit_item(QElizabeth Josephine Brown, P19, Mrs. E. Jospehine Brown Campbell, Q5) # Alternate Name
+edit_item(QElizabeth Josephine Brown, P6, 20024933, Q5) # SNAC ID
+edit_item(QElizabeth Josephine Brown, P7, Q8, Q5) # Sex
+edit_item(QElizabeth Josephine Brown, P8, 1839, Q5) # Birth Date
+edit_item(QElizabeth Josephine Brown, P9, 1874, Q5) # Death Date
+edit_item(QElizabeth Josephine Brown, P10, Q61, Q5) # State/Country of Birth
+edit_item(QElizabeth Josephine Brown, P11, Q65, Q5) # State/Country of Death
+edit_item(QElizabeth Josephine Brown, P26, 1850 U.S. Census, Massachusetts, Bristol County, 230; William L. Andrews, Two Biographies by African-American Women (New York, 1991), xxxiv-xxxv; Sterling, We Were Your Sisters, 144-47; Massachusetts Deaths and Burials, 1795-1910 (online). , Q5) # Citation
+edit_item(QElizabeth Josephine Brown, P38, 'Correspondence, Series 3, Volume 2, Note 8', Q5)
+edit_item(QElizabeth Josephine Brown, P32, http://172.104.209.93:8181/wiki/Elizabeth_Josephine_Brown, Q5)
+qcode = create_item(Mary Louise Harlan, Mary Louise Harlan)
+edit_item(QMary Louise Harlan, P33, Q90, Q5) # instance_of human 
+edit_item(QMary Louise Harlan, P29, Q5, Q5) # Publisher
+edit_item(QMary Louise Harlan, P21, Correspondence, Q5) # Publication
+edit_item(QMary Louise Harlan, P17, 3, Q5) # Series
+edit_item(QMary Louise Harlan, P14, 2, Q5) # Volume
+edit_item(QMary Louise Harlan, P22, 4, Q5) # Note
+edit_item(QMary Louise Harlan, P28, Harlan, Q5) # Surname
+edit_item(QMary Louise Harlan, P30, Mary, Q5) # Forename
+edit_item(QMary Louise Harlan, P30, Louise, Q5) # Middle Name/Initial
+edit_item(QMary Louise Harlan, P19, Dorsey, Q5) # Alternate Name
+edit_item(QMary Louise Harlan, P7, Q8, Q5) # Sex
+edit_item(QMary Louise Harlan, P8, c1849, Q5) # Birth Date
+edit_item(QMary Louise Harlan, P9, 1901, Q5) # Death Date
+edit_item(QMary Louise Harlan, P10, Q69, Q5) # State/Country of Birth
+edit_item(QMary Louise Harlan, P11, Q70, Q5) # State/Country of Death
+edit_item(QMary Louise Harlan, P26, 1850 U.S. Census, Pennsylvania, Philadelphia County, 147; Loren P. Beth, John Marshall Harlan: The Last Whig Justice (Lexington, Ky., 1992), 12-13; Ronald Shannon, Profiles in Ohio History: A Legacy of African American Achievement (Bloomington, Ind., 2008), 33-35; Lane, William Dorsey’s Philadelphia, 60, 301-03. , Q5) # Citation
+edit_item(QMary Louise Harlan, P38, 'Correspondence, Series 3, Volume 2, Note 4', Q5)
+edit_item(QMary Louise Harlan, P32, http://172.104.209.93:8181/wiki/Mary_Louise_Harlan, Q5)
+qcode = create_item(Elizabeth Abell, Elizabeth Abell)
+edit_item(QElizabeth Abell, P33, Q90, Q4) # instance_of human 
+edit_item(QElizabeth Abell, P29, Q4, Q4) # Publisher
+edit_item(QElizabeth Abell, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QElizabeth Abell, P28, Abell, Q4) # Surname
+edit_item(QElizabeth Abell, P30, Elizabeth, Q4) # Forename
+edit_item(QElizabeth Abell, P19, Owens, Q4) # Alternate Name
+edit_item(QElizabeth Abell, P7, Q8, Q4) # Sex
+edit_item(QElizabeth Abell, P13, Q10, Q4) # Race Description
+edit_item(QElizabeth Abell, P8, 1804-08-06, Q4) # Birth Date
+edit_item(QElizabeth Abell, P9, 1869-11-20, Q4) # Death Date
+edit_item(QElizabeth Abell, P10, Q71, Q4) # State/Country of Birth
+edit_item(QElizabeth Abell, P11, Illinois /USA, Q4) # State/Country of Death
+edit_item(QElizabeth Abell, P26, Gravestone, Avon Cemetery, Avon, IL; U.S. Census Office, Seventh Census of the United States (1850), Menard County, IL, 340; U.S. Census Office, Eighth Census of the United States (1860), McDonough County, IL, 233; Douglas L. Wilson and Rodney O. Davis, eds., Herndon's Informants: Letters, Interviews, and Statements about Abraham Lincoln (Urbana: University of Illinois Press, 1998), 738; Dale Thomas, Lincoln's Old Friends of Menard County, Illinois (Charleston, SC: The History Press, 2012), 15-17, 46-48. , Q4) # Citation
+edit_item(QElizabeth Abell, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QElizabeth Abell, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QElizabeth Abell, P32, http://172.104.209.93:8181/wiki/Elizabeth_Abell, Q4)
+qcode = create_item(Mark Aldrich , Mark Aldrich )
+edit_item(QMark Aldrich , P33, Q90, Q4) # instance_of human 
+edit_item(QMark Aldrich , P29, Q4, Q4) # Publisher
+edit_item(QMark Aldrich , P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QMark Aldrich , P28, Aldrich , Q4) # Surname
+edit_item(QMark Aldrich , P30, Mark, Q4) # Forename
+edit_item(QMark Aldrich , P7, Q7, Q4) # Sex
+edit_item(QMark Aldrich , P13, Q10, Q4) # Race Description
+edit_item(QMark Aldrich , P8, 1802-01-22, Q4) # Birth Date
+edit_item(QMark Aldrich , P9, 1873-09-21, Q4) # Death Date
+edit_item(QMark Aldrich , P10,  New York/USA, Q4) # State/Country of Birth
+edit_item(QMark Aldrich , P11, Arizona/USA, Q4) # State/Country of Death
+edit_item(QMark Aldrich , P26, Th. Gregg, History of Hancock County, Illinois (Chicago: Chas. C. Chapman, 1880), 329, 435, 447, 448, 637, 638, 653-54; History of Hancock County, Illinois (Hancock County: Board of Supervisors, 1968), 110, 154, 577, 578, 597; John Clayton, comp., Illinois Fact Book and Historical Almanac, 1673-1968 (Carbondale and Edwardsville: Southern Illinois University Press, 1968), 205, 207; Obituary, Arizona Citizen (Tucson, AZ), 27 September 1873, 3:2., Q4) # Citation
+edit_item(QMark Aldrich , P25, https://https://papersofabrahamlincoln.org/, Q4)
+edit_item(QMark Aldrich , P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QMark Aldrich , P32, http://172.104.209.93:8181/wiki/Mark_Aldrich, Q4)
+qcode = create_item(Edward D Baker, Edward D Baker)
+edit_item(QEdward D Baker, P33, Q90, Q4) # instance_of human 
+edit_item(QEdward D Baker, P29, Q4, Q4) # Publisher
+edit_item(QEdward D Baker, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QEdward D Baker, P28, Baker, Q4) # Surname
+edit_item(QEdward D Baker, P30, Edward, Q4) # Forename
+edit_item(QEdward D Baker, P30, D, Q4) # Middle Name/Initial
+edit_item(QEdward D Baker, P6, 35957659, Q4) # SNAC ID
+edit_item(QEdward D Baker, P7, Q7, Q4) # Sex
+edit_item(QEdward D Baker, P13, Q10, Q4) # Race Description
+edit_item(QEdward D Baker, P8, 1811-02-24, Q4) # Birth Date
+edit_item(QEdward D Baker, P9, 1861-10-21, Q4) # Death Date
+edit_item(QEdward D Baker, P10, England/United Kingdom, Q4) # State/Country of Birth
+edit_item(QEdward D Baker, P11, Virginia/USA, Q4) # State/Country of Death
+edit_item(QEdward D Baker, P26, Eugene Berwanger, "Baker, Edward Dickinson," American National Biography (New York: Oxford University Press, 1999), 2:7-8; John M. Palmer, ed., The Bench and Bar of Illinois: Historical and Reminiscent (Chicago: Lewis, 1899), 1:177-80; "Baker, Edward Dickinson," Biographical Directory of the United States Congress, 1774-Present, http://bioguide.congress.gov/scripts/biodisplay.pl?index=B000059; Illinois Statewide Marriage Index, Greene County, 27 April 1831, Illinois State Archives, Springfield, IL; Gravestone, San Francisco National Cemetery, San Francisco, CA; John Clayton, comp., Illinois Fact Book and Historical Almanac, 1673-1968 (Carbondale: Southern Illinois University Press, 1970), 103, 205, 207, 208, 209. Illustration courtesy of the Abraham Lincoln Presidential Library, Springfield, IL. , Q4) # Citation
+edit_item(QEdward D Baker, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QEdward D Baker, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QEdward D Baker, P32, http://172.104.209.93:8181/wiki/Edward_D_Baker, Q4)
+qcode = create_item(William T Barry , William T Barry )
+edit_item(QWilliam T Barry , P33, Q90, Q4) # instance_of human 
+edit_item(QWilliam T Barry , P29, Q4, Q4) # Publisher
+edit_item(QWilliam T Barry , P21, Papers of Abraham Lincoln Digital Edition, Q4) # Publication
+edit_item(QWilliam T Barry , P28, Barry , Q4) # Surname
+edit_item(QWilliam T Barry , P30, William , Q4) # Forename
+edit_item(QWilliam T Barry , P30, T, Q4) # Middle Name/Initial
+edit_item(QWilliam T Barry , P6, 39081573, Q4) # SNAC ID
+edit_item(QWilliam T Barry , P7, Q7, Q4) # Sex
+edit_item(QWilliam T Barry , P13, Q10, Q4) # Race Description
+edit_item(QWilliam T Barry , P8, 1784-02-05, Q4) # Birth Date
+edit_item(QWilliam T Barry , P9, 1835-08-30, Q4) # Death Date
+edit_item(QWilliam T Barry , P10, Virginia/USA, Q4) # State/Country of Birth
+edit_item(QWilliam T Barry , P11, England/United Kingdom, Q4) # State/Country of Death
+edit_item(QWilliam T Barry , P26, Gravestone, Frankfort Cemetery, Frankfort, Kentucky; Anderson Chesnault Quisenberry, Kentucky in the War of 1812 (Frankfort, KY: Kentucky Historical Society, 1915; Reprint, Baltimore, MD: Genealogical Publishing, 1969), 89; Thomas H. Appleton, Jr., "Barry, William Taylor," American National Biography (New York: Oxford University Press, 1999), 2:258-59. , Q4) # Citation
+edit_item(QWilliam T Barry , P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QWilliam T Barry , P38, 'Papers of Abraham Lincoln Digital Edition', Q4)
+edit_item(QWilliam T Barry , P32, http://172.104.209.93:8181/wiki/William_T_Barry, Q4)
+qcode = create_item(William H Bissell, William H Bissell)
+edit_item(QWilliam H Bissell, P33, Q90, Q4) # instance_of human 
+edit_item(QWilliam H Bissell, P29, Q4, Q4) # Publisher
+edit_item(QWilliam H Bissell, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QWilliam H Bissell, P28, Bissell, Q4) # Surname
+edit_item(QWilliam H Bissell, P30, William, Q4) # Forename
+edit_item(QWilliam H Bissell, P30, H, Q4) # Middle Name/Initial
+edit_item(QWilliam H Bissell, P6, 59833837, Q4) # SNAC ID
+edit_item(QWilliam H Bissell, P7, Q7, Q4) # Sex
+edit_item(QWilliam H Bissell, P13, Q10, Q4) # Race Description
+edit_item(QWilliam H Bissell, P8,  1811-04-25, Q4) # Birth Date
+edit_item(QWilliam H Bissell, P9, 1860-03-18, Q4) # Death Date
+edit_item(QWilliam H Bissell, P10, New York/USA, Q4) # State/Country of Birth
+edit_item(QWilliam H Bissell, P11, Illinois/USA, Q4) # State/Country of Death
+edit_item(QWilliam H Bissell, P26, Illinois Daily State Journal, 19 March 1860, 2:1-2; David L. Lightner, "Bissell, William Henry," American National Biography (New York: Oxford University Press, 1999), 2:843-44; Jack R. Trout, "William H. Bissell: Anti-Nebraska Democrat and First Republican Governor of Illinois" (Master's Thesis, Illinois State Normal University, 1962);Governors of Illinois: 1818-1918 (Springfield: Illinois Centennial Commission, 1917), 23; Robert P. Howard, Mostly Good and Competent Men: Illinois Governors, 1818-1988 (Springfield: Illinois Issues, Sangamon State University and Illinois State Historical Society, 1988), 109-15., Q4) # Citation
+edit_item(QWilliam H Bissell, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QWilliam H Bissell, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QWilliam H Bissell, P32, http://172.104.209.93:8181/wiki/William_H_Bissell, Q4)
+qcode = create_item(Peleg  C Canedy, Peleg  C Canedy)
+edit_item(QPeleg  C Canedy, P33, Q90, Q4) # instance_of human 
+edit_item(QPeleg  C Canedy, P29, Q4, Q4) # Publisher
+edit_item(QPeleg  C Canedy, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QPeleg  C Canedy, P28, Canedy, Q4) # Surname
+edit_item(QPeleg  C Canedy, P30, Peleg, Q4) # Forename
+edit_item(QPeleg  C Canedy, P30,  C, Q4) # Middle Name/Initial
+edit_item(QPeleg  C Canedy, P6, 28904224, Q4) # SNAC ID
+edit_item(QPeleg  C Canedy, P7, Q7, Q4) # Sex
+edit_item(QPeleg  C Canedy, P13, Q10, Q4) # Race Description
+edit_item(QPeleg  C Canedy, P8, 1803-08-25, Q4) # Birth Date
+edit_item(QPeleg  C Canedy, P9, 1881-09-08, Q4) # Death Date
+edit_item(QPeleg  C Canedy, P10, Massachusetts/USA, Q4) # State/Country of Birth
+edit_item(QPeleg  C Canedy, P11, New York/USA, Q4) # State/Country of Death
+edit_item(QPeleg  C Canedy, P26, John Carroll Power and S. A. Power, History of Early Settlers Sangamon County, Illinois (Springfield, IL: Edwin H. Wilson, 1876), 177; History of Sangamon County, Illinois (Chicago: Inter-State, 1881), 287,565; Gravestone, Block 8, 141, Oak Ridge Cemetery, Springfield, IL, https://www.findagrave.com/memorial/81126555/peleg-coffin-canedy; Illinois Public Domain Land Tract Sales, Bureau County, 817:146; Logan County, 817:110; Sangamon County, 817:103, 104; Illinois State Archives, Springfield, IL Illinois Statewide Marriage Index, Morgan County, 28 August 1838, Illinois State Archives, Springfield, IL; U.S. Census Office, Eighth Census of the United States (1860), Springfield, Sangamon County, IL, 239. , Q4) # Citation
+edit_item(QPeleg  C Canedy, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QPeleg  C Canedy, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QPeleg  C Canedy, P32, http://172.104.209.93:8181/wiki/Peleg_C_Canedy, Q4)
+qcode = create_item(Eliza Browning, Eliza Browning)
+edit_item(QEliza Browning, P33, Q90, Q4) # instance_of human 
+edit_item(QEliza Browning, P29, Q4, Q4) # Publisher
+edit_item(QEliza Browning, P21, Papers of Abraham Lincoln Digital Editor, Q4) # Publication
+edit_item(QEliza Browning, P28, Browning, Q4) # Surname
+edit_item(QEliza Browning, P30, Eliza, Q4) # Forename
+edit_item(QEliza Browning, P19, Caldwell, Q4) # Alternate Name
+edit_item(QEliza Browning, P6, 51077241, Q4) # SNAC ID
+edit_item(QEliza Browning, P7, Q8, Q4) # Sex
+edit_item(QEliza Browning, P13, Q10, Q4) # Race Description
+edit_item(QEliza Browning, P8, 1807-10, Q4) # Birth Date
+edit_item(QEliza Browning, P9, 1885-01-23, Q4) # Death Date
+edit_item(QEliza Browning, P10, Kentucky/USA, Q4) # State/Country of Birth
+edit_item(QEliza Browning, P26, Gravestone, Woodland Cemetery, Quincy, IL; U.S. Census Office, Seventh Census of the United States (1850), Adams County, IL, 261; Obituary, Illinois State Journal (Springfield), 26 January 1885, 4:3; Mark E. Neely, Jr., The Abraham Lincoln Encyclopedia (New York: Da Capo, 1982), 39., Q4) # Citation
+edit_item(QEliza Browning, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QEliza Browning, P38, 'Papers of Abraham Lincoln Digital Editor', Q4)
+edit_item(QEliza Browning, P32, http://172.104.209.93:8181/wiki/Eliza_Browning, Q4)
+qcode = create_item(Sallie Clary, Sallie Clary)
+edit_item(QSallie Clary, P33, Q90, Q4) # instance_of human 
+edit_item(QSallie Clary, P29, Q4, Q4) # Publisher
+edit_item(QSallie Clary, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QSallie Clary, P28, Clary, Q4) # Surname
+edit_item(QSallie Clary, P30, Sallie, Q4) # Forename
+edit_item(QSallie Clary, P19, Jarvis, Q4) # Alternate Name
+edit_item(QSallie Clary, P7, Q8, Q4) # Sex
+edit_item(QSallie Clary, P13, Q10, Q4) # Race Description
+edit_item(QSallie Clary, P8, 1818-09-19, Q4) # Birth Date
+edit_item(QSallie Clary, P9, 1878-05-24, Q4) # Death Date
+edit_item(QSallie Clary, P10, Illinois/USA, Q4) # State/Country of Birth
+edit_item(QSallie Clary, P11, Iowa/USA, Q4) # State/Country of Death
+edit_item(QSallie Clary, P26, Gravestone, Union Chapel Cemetery, Patterson, IA; Illinois Statewide Marriage Index, Sangamon County, 10 March 1834, Illinois State Archives, Springfield, IL; Bill for Divorce in Clary v. Clary; Subpoena in Chancery, 19 November 1839, box 5; Publisher's Certificate, 16 May 1850, box 5 Decree, 8 June 1840, General Record A, 40-41, Menard County Circuit Court, Menard County Courthouse, Petersburg, IL, all in Clary v. Clary, Martha L. Benner and Cullom Davis et al., eds., The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009), http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=141602; U.S. Census Office, Eighth Census of the United States (1860), Menard County, IL, 67; U.S. Census Office, Ninth Census of the United States (1870), Scott, Madison County, IA, 28; Douglas L. Wilson and Rodney O. Davis, eds., Herndon's Informants: Letters, Interviews, and Statements about Abraham Lincoln (Urbana: University of Illinois Press, 1998), 758., Q4) # Citation
+edit_item(QSallie Clary, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QSallie Clary, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QSallie Clary, P32, http://172.104.209.93:8181/wiki/Sallie_Clary, Q4)
+qcode = create_item(Edward Coles, Edward Coles)
+edit_item(QEdward Coles, P33, Q90, Q4) # instance_of human 
+edit_item(QEdward Coles, P29, Q4, Q4) # Publisher
+edit_item(QEdward Coles, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QEdward Coles, P28, Coles, Q4) # Surname
+edit_item(QEdward Coles, P30, Edward, Q4) # Forename
+edit_item(QEdward Coles, P6, 28156739, Q4) # SNAC ID
+edit_item(QEdward Coles, P7, Q7, Q4) # Sex
+edit_item(QEdward Coles, P13, Q10, Q4) # Race Description
+edit_item(QEdward Coles, P8, 1786-12-15, Q4) # Birth Date
+edit_item(QEdward Coles, P9, 1868-07-07, Q4) # Death Date
+edit_item(QEdward Coles, P10, Virginia/USA, Q4) # State/Country of Birth
+edit_item(QEdward Coles, P11, Pennsylvania/USA, Q4) # State/Country of Death
+edit_item(QEdward Coles, P26, Robert P. Howard, Mostly Good and Competent Men: Illinois Governors, 1818 to 1988 (Springfield, IL: Illinois Issues, 1988), 21-30; Gravestone, Woodlands Cemetery, Philadelphia, PA; John H. Krenkel, Illinois Internal Improvements, 1818-1848 (Cedar Rapids, IA: Torch Press, 1958), 38-39. , Q4) # Citation
+edit_item(QEdward Coles, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QEdward Coles, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QEdward Coles, P32, http://172.104.209.93:8181/wiki/Edward_Coles, Q4)
+qcode = create_item(Milton Carpenter, Milton Carpenter)
+edit_item(QMilton Carpenter, P33, Q90, Q4) # instance_of human 
+edit_item(QMilton Carpenter, P29, Q4, Q4) # Publisher
+edit_item(QMilton Carpenter, P21, Papers of Abraham Lincoln Digital Edition, Q4) # Publication
+edit_item(QMilton Carpenter, P28, Carpenter, Q4) # Surname
+edit_item(QMilton Carpenter, P30, Milton, Q4) # Forename
+edit_item(QMilton Carpenter, P6, 73229446, Q4) # SNAC ID
+edit_item(QMilton Carpenter, P7, Q7, Q4) # Sex
+edit_item(QMilton Carpenter, P13, Q10, Q4) # Race Description
+edit_item(QMilton Carpenter, P8, 1808, Q4) # Birth Date
+edit_item(QMilton Carpenter, P9, 1848-08-13, Q4) # Death Date
+edit_item(QMilton Carpenter, P10, Kentucky/USA, Q4) # State/Country of Birth
+edit_item(QMilton Carpenter, P11, Illinois/USA, Q4) # State/Country of Death
+edit_item(QMilton Carpenter, P26, Newton Bateman, et. al., Historical Encyclopedia of Illinois. Vol. I (Chicago: Munsell, 1921), 188, 267, 506; Blue Book of the State of Illinois (Springfield: Phillips Brothers, State Printers, 1919), 493, 529-32; Newton Bateman, Biographical and Memorial Edition of the Historical Encyclopedia of Illinois, Vol. I (Chicago: Munsell, 1915), 79-80; Illinois Statewide Marriage Index, Sangamon County, 29 June 1842, Illinois State Archives, Springfield, IL; Illinois Journal (Springfield), 16 August 1848, 3:1., Q4) # Citation
+edit_item(QMilton Carpenter, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QMilton Carpenter, P38, 'Papers of Abraham Lincoln Digital Edition', Q4)
+edit_item(QMilton Carpenter, P32, http://172.104.209.93:8181/wiki/Milton_Carpenter, Q4)
+qcode = create_item(John Dawson, John Dawson)
+edit_item(QJohn Dawson, P33, Q90, Q4) # instance_of human 
+edit_item(QJohn Dawson, P29, Q4, Q4) # Publisher
+edit_item(QJohn Dawson, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QJohn Dawson, P28, Dawson, Q4) # Surname
+edit_item(QJohn Dawson, P30, John, Q4) # Forename
+edit_item(QJohn Dawson, P7, Q7, Q4) # Sex
+edit_item(QJohn Dawson, P13, Q10, Q4) # Race Description
+edit_item(QJohn Dawson, P8, 1791-11-24, Q4) # Birth Date
+edit_item(QJohn Dawson, P9, 1850-11-12, Q4) # Death Date
+edit_item(QJohn Dawson, P10, Virginia/USA, Q4) # State/Country of Birth
+edit_item(QJohn Dawson, P11, Illinois/USA, Q4) # State/Country of Death
+edit_item(QJohn Dawson, P26, G. Glenn Clift, Remember the Raisin!: Kentucky and Kentuckians in the Battles and Massacre at Frenchtown, Michigan Territory, in the War of 1812 (Frankfort: Kentucky Historical Society, 1961), 187; John Carroll Power and S. A. Power, History of the Early Settlers of Sangamon County, Illinois (Springfield, IL: Edwin A. Wilson, 1876), 244; Ellen M. Whitney, comp., The Black Hawk War, 1831-1832: Illinois Volunteers, 2 vols., vols. 35-36 of Collections of the Illinois State Historical Library (Springfield: Illinois State Historical Library, 1970), 1:126, 204-6; Gravestone, Oak Ridge Cemetery, Springfield, IL; Illinois Daily Journal (Springfield), 3 December 1850, 2:3., Q4) # Citation
+edit_item(QJohn Dawson, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QJohn Dawson, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QJohn Dawson, P32, http://172.104.209.93:8181/wiki/John_Dawson, Q4)
+qcode = create_item(Stephen A Douglas, Stephen A Douglas)
+edit_item(QStephen A Douglas, P33, Q90, Q4) # instance_of human 
+edit_item(QStephen A Douglas, P29, Q4, Q4) # Publisher
+edit_item(QStephen A Douglas, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QStephen A Douglas, P28, Douglas, Q4) # Surname
+edit_item(QStephen A Douglas, P30, Stephen , Q4) # Forename
+edit_item(QStephen A Douglas, P30, A, Q4) # Middle Name/Initial
+edit_item(QStephen A Douglas, P19, Douglass, Little Giant, Q4) # Alternate Name
+edit_item(QStephen A Douglas, P6, 67019095, Q4) # SNAC ID
+edit_item(QStephen A Douglas, P7, Q7, Q4) # Sex
+edit_item(QStephen A Douglas, P13, Q10, Q4) # Race Description
+edit_item(QStephen A Douglas, P8, 1813-04-23, Q4) # Birth Date
+edit_item(QStephen A Douglas, P9, 1861-06-03, Q4) # Death Date
+edit_item(QStephen A Douglas, P10, Vermont/USA, Q4) # State/Country of Birth
+edit_item(QStephen A Douglas, P11, Illinois/USA, Q4) # State/Country of Death
+edit_item(QStephen A Douglas, P26, Usher F. Linder, Reminiscences of the Early Bench and Bar of Illinois (Chicago: Chicago Legal News, 1879), 76-82; John M. Palmer, ed., The Bench and Bar of Illinois: Historical and Reminiscent (Chicago: Lewis, 1899), 1:37-38; Allen Johnson, "Douglas, Stephen Arnold," Dictionary of American Biography (New York: Charles Scribner’s & Sons, 1964), 3:1:397-403; Robert W. Johannsen, Stephen A. Douglas (New York: Oxford University Press, 1973); Mark E. Neely Jr., The Abraham Lincoln Encyclopedia (New York: McGraw Hill, 1982), 84-88; Allen Johnson, Stephen A. Douglas: A Study in American Politics (New York: MacMillan, 1908); Robert W. Johannsen, The Frontier, the Union, and Stephen A. Douglas (Urbana: University of Illinois Press, 1989); Robert W. Johannsen, "Douglas, Stephen Arnold," American National Biography (New York: Oxford University Press, 1999), 6:805-808. Illustration courtesy of the Abraham Lincoln Presidential Library, Springfield, IL. , Q4) # Citation
+edit_item(QStephen A Douglas, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QStephen A Douglas, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QStephen A Douglas, P32, http://172.104.209.93:8181/wiki/Stephen_A_Douglas, Q4)
+qcode = create_item(Jesse K Dubois, Jesse K Dubois)
+edit_item(QJesse K Dubois, P33, Q90, Q4) # instance_of human 
+edit_item(QJesse K Dubois, P29, Q4, Q4) # Publisher
+edit_item(QJesse K Dubois, P21, Papers of Abraham Lincoln Digital Edition, Q4) # Publication
+edit_item(QJesse K Dubois, P28, Dubois, Q4) # Surname
+edit_item(QJesse K Dubois, P30, Jesse , Q4) # Forename
+edit_item(QJesse K Dubois, P30, K, Q4) # Middle Name/Initial
+edit_item(QJesse K Dubois, P6, 50250874, Q4) # SNAC ID
+edit_item(QJesse K Dubois, P7, Q7, Q4) # Sex
+edit_item(QJesse K Dubois, P13, Q10, Q4) # Race Description
+edit_item(QJesse K Dubois, P8, 1811-01-11, Q4) # Birth Date
+edit_item(QJesse K Dubois, P9, 1876-11-22, Q4) # Death Date
+edit_item(QJesse K Dubois, P10, Illinois/USA, Q4) # State/Country of Birth
+edit_item(QJesse K Dubois, P11, Illinois/USA, Q4) # State/Country of Death
+edit_item(QJesse K Dubois, P26, Gravestone, Oak Ridge Cemetery, Springfield, IL; History of Sangamon County, Illinois (Chicago: Inter-State, 1881), 522-523; Joseph Wallace, Past and Present of the City of Springfield and Sangamon County, Illinois (La Crosse, WI: Brookhaven, 2001), 1:57-58; Affidavit of Decease, 28 November 1876, Jesse K. Dubois probate file 2619, Sangamon County Court, Illinois Regional Archives Depository, University of Illinois at Springfield, Springfield, IL; Illinois Statewide Marriage Index, Lawrence County, 2 September 1840, Illinois State Archives, Springfield, IL; U.S. Census Office, Seventh Census of the United States (1850) Crawford County, IL, 243; U.S. Census Office, Eighth Census of the United States (1860), Sangamon County, IL, 136. , Q4) # Citation
+edit_item(QJesse K Dubois, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QJesse K Dubois, P38, 'Papers of Abraham Lincoln Digital Edition', Q4)
+edit_item(QJesse K Dubois, P32, http://172.104.209.93:8181/wiki/Jesse_K_Dubois, Q4)
+qcode = create_item(Ninian W Edwards, Ninian W Edwards)
+edit_item(QNinian W Edwards, P33, Q90, Q4) # instance_of human 
+edit_item(QNinian W Edwards, P29, Q4, Q4) # Publisher
+edit_item(QNinian W Edwards, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QNinian W Edwards, P28, Edwards, Q4) # Surname
+edit_item(QNinian W Edwards, P30, Ninian, Q4) # Forename
+edit_item(QNinian W Edwards, P30, W, Q4) # Middle Name/Initial
+edit_item(QNinian W Edwards, P6, 31731478, Q4) # SNAC ID
+edit_item(QNinian W Edwards, P7, Q7, Q4) # Sex
+edit_item(QNinian W Edwards, P13, Q10, Q4) # Race Description
+edit_item(QNinian W Edwards, P8, 1809-04-15, Q4) # Birth Date
+edit_item(QNinian W Edwards, P9, 1889-09-02, Q4) # Death Date
+edit_item(QNinian W Edwards, P10, Kentucky/USA, Q4) # State/Country of Birth
+edit_item(QNinian W Edwards, P11, Illinois/USA, Q4) # State/Country of Death
+edit_item(QNinian W Edwards, P26, Newton Bateman and Paul Selby, eds., Historical Encyclopedia of Illinois and History of Sangamon County, 2 vols. (Chicago: Munsell Publishing, 1912), 1:152-53; Daily Illinois State Journal (Springfield), 3 September 1889, 1:3-4; Daily Illinois State Register (Springfield), 3 September 1889, 3:6; Ninian W. Edwards, History of Illinois From 1778 to 1833; And Life and Times of Ninian Edwards (Springfield: Illinois State Journal, 1870); John Carroll Power and S. A. Power, History of the Early Settlers of Sangamon County, Illinois (Springfield, IL: Edwin A. Wilson, 1876), 278-79, 464; U.S. Census Office, Seventh Census of the United States (1850), Sangamon County, IL, 103; Gravestone, Oak Ridge Cemetery, Springfield, IL.  Illustration courtesy of the Abraham Lincoln Presidential Library, Springfield, IL., Q4) # Citation
+edit_item(QNinian W Edwards, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QNinian W Edwards, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QNinian W Edwards, P32, http://172.104.209.93:8181/wiki/Ninian_W_Edwards, Q4)
+qcode = create_item(William  L. D. Ewing, William  L. D. Ewing)
+edit_item(QWilliam  L. D. Ewing, P33, Q90, Q4) # instance_of human 
+edit_item(QWilliam  L. D. Ewing, P29, Q4, Q4) # Publisher
+edit_item(QWilliam  L. D. Ewing, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QWilliam  L. D. Ewing, P28, Ewing, Q4) # Surname
+edit_item(QWilliam  L. D. Ewing, P30, William, Q4) # Forename
+edit_item(QWilliam  L. D. Ewing, P30,  L. D., Q4) # Middle Name/Initial
+edit_item(QWilliam  L. D. Ewing, P6, 61227879, Q4) # SNAC ID
+edit_item(QWilliam  L. D. Ewing, P7, Q7, Q4) # Sex
+edit_item(QWilliam  L. D. Ewing, P13, Q10, Q4) # Race Description
+edit_item(QWilliam  L. D. Ewing, P8, 1795-08-31, Q4) # Birth Date
+edit_item(QWilliam  L. D. Ewing, P9, 1846-03-25, Q4) # Death Date
+edit_item(QWilliam  L. D. Ewing, P10, Kentucky/USA, Q4) # State/Country of Birth
+edit_item(QWilliam  L. D. Ewing, P11, Illinois/USA, Q4) # State/Country of Death
+edit_item(QWilliam  L. D. Ewing, P26, Biographical Directory of the United States Congress, http://bioguide.congress.gov/scripts/biodisplay.pl?index=E000283; Illinois Statewide Marriage Index, Fayette County, 3 May 1827, Illinois State Archives, Springfield, IL; Robert P. Howard, Mostly Good and Competent Men (Springfield, IL: Sangamon State University, 1988), 57-59; U.S. Census Office, Fifth Census of the United States (1830), Fayette County, IL, 236; U.S. Census Office, Sixth Census of the United States (1840), Fayette County, IL, 160; Sangamo Journal (Springfield, IL), 2 April 1846, 2:6. , Q4) # Citation
+edit_item(QWilliam  L. D. Ewing, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QWilliam  L. D. Ewing, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QWilliam  L. D. Ewing, P32, http://172.104.209.93:8181/wiki/William_L._D._Ewing, Q4)
+qcode = create_item(Thomas Ewing, Thomas Ewing)
+edit_item(QThomas Ewing, P33, Q90, Q4) # instance_of human 
+edit_item(QThomas Ewing, P29, Q4, Q4) # Publisher
+edit_item(QThomas Ewing, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QThomas Ewing, P28, Ewing, Q4) # Surname
+edit_item(QThomas Ewing, P30, Thomas, Q4) # Forename
+edit_item(QThomas Ewing, P6, 23306796, Q4) # SNAC ID
+edit_item(QThomas Ewing, P7, Q7, Q4) # Sex
+edit_item(QThomas Ewing, P13, Q10, Q4) # Race Description
+edit_item(QThomas Ewing, P8, 1789-12-28, Q4) # Birth Date
+edit_item(QThomas Ewing, P9, 1871-10-26, Q4) # Death Date
+edit_item(QThomas Ewing, P10, Virginia/USA, Q4) # State/Country of Birth
+edit_item(QThomas Ewing, P11, Ohio/USA, Q4) # State/Country of Death
+edit_item(QThomas Ewing, P26, Kenneth J. Heineman, Civil War Dynasty: The Ewing Family of Ohio (New York: New York University Press, 2012); Thomas Ewing, "The Autobiography of Thomas Ewing"  22 (January 1913): 126-204)., Q4) # Citation
+edit_item(QThomas Ewing, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QThomas Ewing, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QThomas Ewing, P32, http://172.104.209.93:8181/wiki/Thomas_Ewing, Q4)
+qcode = create_item(Jesse W Fell, Jesse W Fell)
+edit_item(QJesse W Fell, P33, Q90, Q4) # instance_of human 
+edit_item(QJesse W Fell, P29, Q4, Q4) # Publisher
+edit_item(QJesse W Fell, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QJesse W Fell, P28, Fell, Q4) # Surname
+edit_item(QJesse W Fell, P30, Jesse, Q4) # Forename
+edit_item(QJesse W Fell, P30, W, Q4) # Middle Name/Initial
+edit_item(QJesse W Fell, P6, 3447752, Q4) # SNAC ID
+edit_item(QJesse W Fell, P7, Q7, Q4) # Sex
+edit_item(QJesse W Fell, P13, Q10, Q4) # Race Description
+edit_item(QJesse W Fell, P8, 1808-11-10, Q4) # Birth Date
+edit_item(QJesse W Fell, P9, 1887-02-25, Q4) # Death Date
+edit_item(QJesse W Fell, P10, Pennsylvania/USA, Q4) # State/Country of Birth
+edit_item(QJesse W Fell, P11, Illinois/USA, Q4) # State/Country of Death
+edit_item(QJesse W Fell, P26, Obituary, Daily Illinois State Journal (Springfield), 26 February 1887, 1:7: "McLean County in the War of the Rebellion, 1861-65," Transactions of the McLean County Historical Society, vol. 1: War Record of McLean County with Other Papers (1899), 32; Illinois Statewide Marriage Index, Tazewell County, 25 January 1838, Illinois State Archives, Springfield, IL; Frances Milton I. Morehouse, "The Life of Jesse W. Fell," University of Illinois Studies in the Social Sciences 5 (June 1916), 15, 26-27, 36, 52, 55, 116; U.S. Census Office, Eighth Census of the United States (1860), McLean County, IL, 101. , Q4) # Citation
+edit_item(QJesse W Fell, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QJesse W Fell, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QJesse W Fell, P32, http://172.104.209.93:8181/wiki/Jesse_W_Fell, Q4)
+qcode = create_item(Orlando  B Ficklin, Orlando  B Ficklin)
+edit_item(QOrlando  B Ficklin, P33, Q90, Q4) # instance_of human 
+edit_item(QOrlando  B Ficklin, P29, Q4, Q4) # Publisher
+edit_item(QOrlando  B Ficklin, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QOrlando  B Ficklin, P28, Ficklin, Q4) # Surname
+edit_item(QOrlando  B Ficklin, P30, Orlando, Q4) # Forename
+edit_item(QOrlando  B Ficklin, P30,  B, Q4) # Middle Name/Initial
+edit_item(QOrlando  B Ficklin, P6, 73913753, Q4) # SNAC ID
+edit_item(QOrlando  B Ficklin, P7, Q7, Q4) # Sex
+edit_item(QOrlando  B Ficklin, P13, Q10, Q4) # Race Description
+edit_item(QOrlando  B Ficklin, P8,  1808-12-16, Q4) # Birth Date
+edit_item(QOrlando  B Ficklin, P9,  1886-05-05, Q4) # Death Date
+edit_item(QOrlando  B Ficklin, P10, Kentucky/USA, Q4) # State/Country of Birth
+edit_item(QOrlando  B Ficklin, P11, Illinois/USA, Q4) # State/Country of Death
+edit_item(QOrlando  B Ficklin, P26, Gravestone, Mound Cemetery, Charleston, IL; Biographical Diectory of the United States Congress, 1774-2005 (Washington: Government Printing Office, 2005), 1048; Theodore C. Pease, ed.,  Illinois Election Returns, 1818-1848, vol. 18 of Collections of the Illinois State Historical Library (Springfield: Illinois State Historical Library, 1923), 272, 316, 374; John J. Duff, A. Lincoln: Prairie Lawyer (New York & Toronto: Rinehart, 1960), 131; Edward F. Dunne, Illinois: The Heart of the Nation (Chicago and New York: Lewis, 1933), 3:496; Usher F. Linder, Reminiscences of the Early Bench and Bar of Illinois (Chicago: Chicago Legal News, 1879), 110-12; Mark E. Neely Jr., The Abraham Lincoln Encyclopedia (New York: McGraw Hill, 1982), 109-10; Charles Edward Wilson, History of Coles County (Chicago: Munsell, 1905), 795-96; Albert A. Woldman, Lawyer Lincoln (Boston & New York: Houghton Mifflin, 1936), 60, 102; In re Bryant et al., Martha L. Benner and Cullom Davis et al., eds., The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009), http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=135679., Q4) # Citation
+edit_item(QOrlando  B Ficklin, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QOrlando  B Ficklin, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QOrlando  B Ficklin, P32, http://172.104.209.93:8181/wiki/Orlando_B_Ficklin, Q4)
+qcode = create_item(Job Fletcher Sr., Job Fletcher Sr.)
+edit_item(QJob Fletcher Sr., P33, Q90, Q4) # instance_of human 
+edit_item(QJob Fletcher Sr., P29, Q4, Q4) # Publisher
+edit_item(QJob Fletcher Sr., P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QJob Fletcher Sr., P28, Fletcher, Q4) # Surname
+edit_item(QJob Fletcher Sr., P30,  Job, Q4) # Forename
+edit_item(QJob Fletcher Sr., P19, Squire Job, Q4) # Alternate Name
+edit_item(QJob Fletcher Sr., P18, Sr., Q4) # Suffix
+edit_item(QJob Fletcher Sr., P6, 41749039, Q4) # SNAC ID
+edit_item(QJob Fletcher Sr., P7, Q7, Q4) # Sex
+edit_item(QJob Fletcher Sr., P13, Q10, Q4) # Race Description
+edit_item(QJob Fletcher Sr., P8, 1793-11-11, Q4) # Birth Date
+edit_item(QJob Fletcher Sr., P9, 1872-09-04, Q4) # Death Date
+edit_item(QJob Fletcher Sr., P10, Virginia/USA, Q4) # State/Country of Birth
+edit_item(QJob Fletcher Sr., P11, Illinois/USA, Q4) # State/Country of Death
+edit_item(QJob Fletcher Sr., P26, John Carroll Power and S. A. Power, History of the Early Settlers of Sangamon County, Illinois (Springfield, IL: Edwin A. Wilson, 1876), 301-302; Illinois Public Domain Land Tract Sales, Sangamon County, 68:6, 73, 146, Illinois State Archives, Springfield; John Clayton, The Illinois Fact Book and Historical Almanac 1673-1968 (Carbondale: Southern Illinois University Press, 1970), 200, 203, 205, 206, 212; History of Sangamon County, Illinois (Chicago: Inter-State, 1881), 285, 786-87; Sangamo Journal (Springfield, IL), 8 August 1835, 3:1; John Mack Faragher, Sugar Creek: Life on the Illinois Prairie (New Haven: Yale University, 1986), 58, 124; U.S. Census Office, Fifth Census of the United States (1830), Sangamon County, IL, 140; U.S. Census Office, Eighth Census of the United States (1860), Sangamon County, IL, 59-60; Gravestone, Cumberland Sugar Creek Cemetery, Glenarm, IL. , Q4) # Citation
+edit_item(QJob Fletcher Sr., P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QJob Fletcher Sr., P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QJob Fletcher Sr., P32, http://172.104.209.93:8181/wiki/Job_Fletcher_Sr., Q4)
+qcode = create_item(Mentor Graham, Mentor Graham)
+edit_item(QMentor Graham, P33, Q90, Q4) # instance_of human 
+edit_item(QMentor Graham, P29, Q4, Q4) # Publisher
+edit_item(QMentor Graham, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QMentor Graham, P28, Graham, Q4) # Surname
+edit_item(QMentor Graham, P30, Mentor, Q4) # Forename
+edit_item(QMentor Graham, P6, 9629046, Q4) # SNAC ID
+edit_item(QMentor Graham, P7, Q7, Q4) # Sex
+edit_item(QMentor Graham, P13, Q10, Q4) # Race Description
+edit_item(QMentor Graham, P8, 1800, Q4) # Birth Date
+edit_item(QMentor Graham, P9, 1886, Q4) # Death Date
+edit_item(QMentor Graham, P10, Kentucky/USA, Q4) # State/Country of Birth
+edit_item(QMentor Graham, P11, Illinois/USA, Q4) # State/Country of Death
+edit_item(QMentor Graham, P26, Gravestone, Farmers Point Cemetery, Tallula, IL; Benjamin P. Thomas, Lincoln's New Salem (Springfield, IL: Abraham Lincoln Association, 1934), 29-30, 48-49, 69; The History of Menard and Mason Counties, Illinois (Chicago: O. L. Baskin, 1879), 209; U.S. Census Office, Eighth Census of the United States (1860), Menard County, IL, 211., Q4) # Citation
+edit_item(QMentor Graham, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QMentor Graham, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QMentor Graham, P32, http://172.104.209.93:8181/wiki/Mentor_Graham, Q4)
+qcode = create_item(John  J Hardin, John  J Hardin)
+edit_item(QJohn  J Hardin, P33, Q90, Q4) # instance_of human 
+edit_item(QJohn  J Hardin, P29, Q4, Q4) # Publisher
+edit_item(QJohn  J Hardin, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QJohn  J Hardin, P28, Hardin, Q4) # Surname
+edit_item(QJohn  J Hardin, P30, John , Q4) # Forename
+edit_item(QJohn  J Hardin, P30,  J, Q4) # Middle Name/Initial
+edit_item(QJohn  J Hardin, P6, 51393732, Q4) # SNAC ID
+edit_item(QJohn  J Hardin, P7, Q7, Q4) # Sex
+edit_item(QJohn  J Hardin, P13, Q10, Q4) # Race Description
+edit_item(QJohn  J Hardin, P8, 1810-01-06, Q4) # Birth Date
+edit_item(QJohn  J Hardin, P9,  1847-02-23, Q4) # Death Date
+edit_item(QJohn  J Hardin, P10, Kentucky/USA, Q4) # State/Country of Birth
+edit_item(QJohn  J Hardin, P11, Coahuila/Mexico, Q4) # State/Country of Death
+edit_item(QJohn  J Hardin, P26, Nancy L. Cox, A Life of John Hardin of Illinois: 1810-1847 (Oxford, OH: Miami University, 1964), 1-126, 163-188; Allen Johnson, ed., Dictionary of American Biography (New York: Charles Scribner's & Sons, 1964), 4:2:246-47; Mark E. Neely Jr., The Abraham Lincoln Encyclopedia (New York: McGraw Hill, 1982), 139-40. , Q4) # Citation
+edit_item(QJohn  J Hardin, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QJohn  J Hardin, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QJohn  J Hardin, P32, http://172.104.209.93:8181/wiki/John_J_Hardin, Q4)
+qcode = create_item(Milton Hay, Milton Hay)
+edit_item(QMilton Hay, P33, Q90, Q4) # instance_of human 
+edit_item(QMilton Hay, P29, Q4, Q4) # Publisher
+edit_item(QMilton Hay, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QMilton Hay, P28, Hay, Q4) # Surname
+edit_item(QMilton Hay, P30, Milton, Q4) # Forename
+edit_item(QMilton Hay, P6, 73136612, Q4) # SNAC ID
+edit_item(QMilton Hay, P7, Q7, Q4) # Sex
+edit_item(QMilton Hay, P13, Q10, Q4) # Race Description
+edit_item(QMilton Hay, P8, 1817-07-03, Q4) # Birth Date
+edit_item(QMilton Hay, P9, 1893-09-15, Q4) # Death Date
+edit_item(QMilton Hay, P10, Kentucky/USA, Q4) # State/Country of Birth
+edit_item(QMilton Hay, P11, Illinois/USA, Q4) # State/Country of Death
+edit_item(QMilton Hay, P26, John J. Duff, A. Lincoln: Prairie Lawyer (New York: Rinehart, 1960), 285, 295; Illinois State Journal (Springfield, IL), 16 September 1893, 4:1-2; John M. Palmer, ed., The Bench and Bar of Illinois: Historical and Reminiscent (Chicago: Lewis, 1899), 1:196-98; People v. Harrison , Martha L. Benner and Cullom Davis et al., eds., The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009), http://www.lawpracticeofabrahamlincoln.org/Details.aspx?case=140154; Illustration courtesy of the Abraham Lincoln Presidential Library, Springfield, IL., Q4) # Citation
+edit_item(QMilton Hay, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QMilton Hay, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QMilton Hay, P32, http://172.104.209.93:8181/wiki/Milton_Hay, Q4)
+qcode = create_item(Anson G Henry, Anson G Henry)
+edit_item(QAnson G Henry, P33, Q90, Q4) # instance_of human 
+edit_item(QAnson G Henry, P29, Q4, Q4) # Publisher
+edit_item(QAnson G Henry, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QAnson G Henry, P28, Henry, Q4) # Surname
+edit_item(QAnson G Henry, P30, Anson, Q4) # Forename
+edit_item(QAnson G Henry, P30, G, Q4) # Middle Name/Initial
+edit_item(QAnson G Henry, P6, 63741842, Q4) # SNAC ID
+edit_item(QAnson G Henry, P7, Q7, Q4) # Sex
+edit_item(QAnson G Henry, P13, Q10, Q4) # Race Description
+edit_item(QAnson G Henry, P8, 1804-10-03, Q4) # Birth Date
+edit_item(QAnson G Henry, P9, 1865-07-30, Q4) # Death Date
+edit_item(QAnson G Henry, P10, New York/USA, Q4) # State/Country of Birth
+edit_item(QAnson G Henry, P11, Q80, Q4) # State/Country of Death
+edit_item(QAnson G Henry, P26, Harry E. Pratt, "Dr. Anson G. Henry: Lincoln's Physician and Friend," Lincoln Herald 45 (October 1943): 3-17; 45 (December 1943): 31-40; Sangamo Journal, 11 March 1842, 3:2., Q4) # Citation
+edit_item(QAnson G Henry, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QAnson G Henry, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QAnson G Henry, P32, http://172.104.209.93:8181/wiki/Anson_G_Henry, Q4)
+qcode = create_item(Elijah Iles, Elijah Iles)
+edit_item(QElijah Iles, P33, Q90, Q4) # instance_of human 
+edit_item(QElijah Iles, P29, Q4, Q4) # Publisher
+edit_item(QElijah Iles, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QElijah Iles, P30, Iles, Q4) # Forename
+edit_item(QElijah Iles, P30, Elijah, Q4) # Middle Name/Initial
+edit_item(QElijah Iles, P6, 52322435, Q4) # SNAC ID
+edit_item(QElijah Iles, P7, Q7, Q4) # Sex
+edit_item(QElijah Iles, P13, Q10, Q4) # Race Description
+edit_item(QElijah Iles, P8, 1796-03-28, Q4) # Birth Date
+edit_item(QElijah Iles, P9, 1883-09-04, Q4) # Death Date
+edit_item(QElijah Iles, P10, Kentucky/USA, Q4) # State/Country of Birth
+edit_item(QElijah Iles, P11, Illinois/USA, Q4) # State/Country of Death
+edit_item(QElijah Iles, P26, Daily Illinois State Register (Springfield), 5 September 1883, 4:3; John Carroll Power and S. A. Power, History of the Early Settlers of Sangamon County, Illinois (Springfield, IL: Edwin A. Wilson, 1876), 397-400; U.S. Census Office, Eighth Census of the United States (1860), Sangamon County, IL, 148; Joseph Wallace, Past and Present of the City of Springfield and Sangamon County Illinois (Chicago: S. J. Clarke, 1904), 1:39-40. , Q4) # Citation
+edit_item(QElijah Iles, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QElijah Iles, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QElijah Iles, P32, http://172.104.209.93:8181/wiki/Elijah_Iles, Q4)
+qcode = create_item(Ward Hill Lamon, Ward Hill Lamon)
+edit_item(QWard Hill Lamon, P33, Q90, Q4) # instance_of human 
+edit_item(QWard Hill Lamon, P29, Q4, Q4) # Publisher
+edit_item(QWard Hill Lamon, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QWard Hill Lamon, P28, Lamon, Q4) # Surname
+edit_item(QWard Hill Lamon, P30, Ward, Q4) # Forename
+edit_item(QWard Hill Lamon, P30, Hill, Q4) # Middle Name/Initial
+edit_item(QWard Hill Lamon, P6, 61766323, Q4) # SNAC ID
+edit_item(QWard Hill Lamon, P7, Q7, Q4) # Sex
+edit_item(QWard Hill Lamon, P13, Q10, Q4) # Race Description
+edit_item(QWard Hill Lamon, P8, 1828-01-06, Q4) # Birth Date
+edit_item(QWard Hill Lamon, P9, 1893-05-07, Q4) # Death Date
+edit_item(QWard Hill Lamon, P10, Virginia/USA, Q4) # State/Country of Birth
+edit_item(QWard Hill Lamon, P11, West Virginia/USA, Q4) # State/Country of Death
+edit_item(QWard Hill Lamon, P26, Lavern Marshall Hamand, "Ward Hill Lamon: Lincoln's 'Particular Friend'" (Ph.D. diss., University of Illinois, 1949), 5-6; Jonathan Lurie, "Lamon, Ward Hill," American National Biography (New York: Oxford University Press, 1999), 13:86-87; Clint Clay Tilton, “Lincoln and Lamon: Partners and Friends,” Transactions of the Illinois State Historical Society, 1931, 175-228; Benner, Martha L., and Cullom Davis et al., eds. The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009), http://www.lawpracticeofabrahamlincoln.org., Q4) # Citation
+edit_item(QWard Hill Lamon, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QWard Hill Lamon, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QWard Hill Lamon, P32, http://172.104.209.93:8181/wiki/Ward_Hill_Lamon, Q4)
+qcode = create_item(Abraham Lincoln, Abraham Lincoln)
+edit_item(QAbraham Lincoln, P33, Q90, Q4) # instance_of human 
+edit_item(QAbraham Lincoln, P29, Q4, Q4) # Publisher
+edit_item(QAbraham Lincoln, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QAbraham Lincoln, P28, Lincoln, Q4) # Surname
+edit_item(QAbraham Lincoln, P30, Abraham , Q4) # Forename
+edit_item(QAbraham Lincoln, P6, 83331846, Q4) # SNAC ID
+edit_item(QAbraham Lincoln, P7, Q7, Q4) # Sex
+edit_item(QAbraham Lincoln, P13, Q10, Q4) # Race Description
+edit_item(QAbraham Lincoln, P8, 1809-02-12, Q4) # Birth Date
+edit_item(QAbraham Lincoln, P9, 1865-04-15, Q4) # Death Date
+edit_item(QAbraham Lincoln, P10, Kentucky/USA, Q4) # State/Country of Birth
+edit_item(QAbraham Lincoln, P11, Washington, D.C./USA, Q4) # State/Country of Death
+edit_item(QAbraham Lincoln, P26, Michael Burlingame, Abraham Lincoln: A Life, 2 vols. (Baltimore: Johns Hopkins University Press, 2008); David Herbert Donald, Lincoln (New York: Simon and Schuster, 1995); Phillip Shaw Paludan, The Presidency of Abraham Lincoln (Lawrence: University of Kansas Press, 1994); William H. Herndon and Jesse W. Weik, Herndon's Lincoln: The True Story of a Great Life, 3 vols. (Chicago: Belford, Clarke, and Company, 1889; One-volume reprint edited by Paul Angle, Cleveland, OH: World, 1965; Reprint, New York: Da Capo, 1983); Stephen B. Oates, With Malice Toward None: The Life of Abraham Lincoln (New York: Harper and Row, 1977); Benjamin P. Thomas, Abraham Lincoln (New York: Knopf, 1952); "Lincoln the Lawyer Outside the Courtroom," in Daniel W. Stowell et al., eds., The Papers of Abraham Lincoln: Legal Documents and Cases, 4 vols. (Charlottesville: University of Virginia Press, 2008), 4:193-94., Q4) # Citation
+edit_item(QAbraham Lincoln, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QAbraham Lincoln, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QAbraham Lincoln, P32, http://172.104.209.93:8181/wiki/Abraham_Lincoln, Q4)
+qcode = create_item(Stephen T Logan, Stephen T Logan)
+edit_item(QStephen T Logan, P33, Q90, Q4) # instance_of human 
+edit_item(QStephen T Logan, P29, Q4, Q4) # Publisher
+edit_item(QStephen T Logan, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QStephen T Logan, P28, Logan, Q4) # Surname
+edit_item(QStephen T Logan, P30, Stephen, Q4) # Forename
+edit_item(QStephen T Logan, P30, T, Q4) # Middle Name/Initial
+edit_item(QStephen T Logan, P6, 32020350, Q4) # SNAC ID
+edit_item(QStephen T Logan, P7, Q7, Q4) # Sex
+edit_item(QStephen T Logan, P13, Q10, Q4) # Race Description
+edit_item(QStephen T Logan, P8, 1800-02-24, Q4) # Birth Date
+edit_item(QStephen T Logan, P9, 1880-07-17, Q4) # Death Date
+edit_item(QStephen T Logan, P10, Kentucky/USA, Q4) # State/Country of Birth
+edit_item(QStephen T Logan, P11, Illinois/USA, Q4) # State/Country of Death
+edit_item(QStephen T Logan, P26, David Herbert Donald, Lincoln (New York: Simon & Schuster, 1995), 88, 96-100, 133; Sylvia B. Larson, "Logan, Stephen Trigg," American National Biography (New York: Oxford University Press, 1999), 13:845-47; Illinois State Journal (Springfield), 19 July 1880, 3:2-3; Mark E. Neely Jr., The Abraham Lincoln Encyclopedia (New York: McGraw Hill, 1982), 194-95; U.S. Census Office, U.S. Census Office, Eighth Census of the United States (1860), Sangamon County, IL, 102. , Q4) # Citation
+edit_item(QStephen T Logan, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QStephen T Logan, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QStephen T Logan, P32, http://172.104.209.93:8181/wiki/Stephen_T_Logan, Q4)
+qcode = create_item(Andrew McCormick, Andrew McCormick)
+edit_item(QAndrew McCormick, P33, Q90, Q4) # instance_of human 
+edit_item(QAndrew McCormick, P29, Q4, Q4) # Publisher
+edit_item(QAndrew McCormick, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QAndrew McCormick, P28, McCormick, Q4) # Surname
+edit_item(QAndrew McCormick, P30, Andrew , Q4) # Forename
+edit_item(QAndrew McCormick, P19,  McCormack, Q4) # Alternate Name
+edit_item(QAndrew McCormick, P6, 58570874, Q4) # SNAC ID
+edit_item(QAndrew McCormick, P7, Q7, Q4) # Sex
+edit_item(QAndrew McCormick, P13, Q10, Q4) # Race Description
+edit_item(QAndrew McCormick, P8, 1801-04-27, Q4) # Birth Date
+edit_item(QAndrew McCormick, P9, 1857-01-24, Q4) # Death Date
+edit_item(QAndrew McCormick, P10, Tennessee/USA, Q4) # State/Country of Birth
+edit_item(QAndrew McCormick, P11, Illinois/USA, Q4) # State/Country of Death
+edit_item(QAndrew McCormick, P26, John C. Power and S. A. Power, History of the Early Settlers of Sangamon County, Illinois (Springfield, IL: Edwin A. Wilson, 1876), 486-87; History of Sangamon County, Illinois (Chicago: Inter-State Publishing, 1881), 509, 566; Isaac H. Elliott, Record of the Services of Illinois Soldiers in the Black Hawk War, 1831-32, and in the Mexican War, 1846-8, (Springfield, IL: H. W. Rokker, 1882), 70; Theodore C. Pease, ed., Illinois Election Returns, 1818-1848, vol. 18 of Collections of the Illinois State Historical Library (Springfield: Illinois State Historical Library, 1923), 275, 299, 321; John Clayton, The Illinois Fact Book and Historical Almanac, 1673-1968 (Carbondale: Southern Illinois University Press, 1970), 206-207; U.S. Census Office, Seventh Census of the United States (1850), Sangamon, IL, 186., Q4) # Citation
+edit_item(QAndrew McCormick, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QAndrew McCormick, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QAndrew McCormick, P32, http://172.104.209.93:8181/wiki/Andrew_McCormick, Q4)
+qcode = create_item(Samuel Musick, Samuel Musick)
+edit_item(QSamuel Musick, P33, Q90, Q4) # instance_of human 
+edit_item(QSamuel Musick, P29, Q4, Q4) # Publisher
+edit_item(QSamuel Musick, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QSamuel Musick, P28, Musick, Q4) # Surname
+edit_item(QSamuel Musick, P30, Samuel, Q4) # Forename
+edit_item(QSamuel Musick, P7, Q7, Q4) # Sex
+edit_item(QSamuel Musick, P13, Q10, Q4) # Race Description
+edit_item(QSamuel Musick, P8, 1783, Q4) # Birth Date
+edit_item(QSamuel Musick, P9, 1836-04-28, Q4) # Death Date
+edit_item(QSamuel Musick, P10, Virginia/USA, Q4) # State/Country of Birth
+edit_item(QSamuel Musick, P11, Illinois/USA, Q4) # State/Country of Death
+edit_item(QSamuel Musick, P26, Marriage License of Samuel Musick and Elizabeth Byrd, 11 January 1832, Abraham Lincoln Presidential Library, Springfield, IL; Sangamo Journal (Springfield, IL), 2 May 1835, 2:1, 8 August 1835, 3:2; Copy of Petition for Dower, 21 March 1838, Martha L. Benner and Cullom Davis et al., eds., The Law Practice of Abraham Lincoln: Complete Documentary Edition, 2d edition (Springfield: Illinois Historic Preservation Agency, 2009), http://www.lawpracticeofabrahamlincoln.org; Affidavit of Decease, 2 May 1836, Samuel Musick probate file 269, Sangamon County Probate Court, Illinois Regional Archives Depository, University of Illinois Springfield, Springfield, IL; U.S. Census Office, Fifth Census of the United States (1830), Sangamon County, IL, 181; Lawrence Beaumont Stringer, History of Logan County, Illinois, 2 vols. (Chicago: Pioneer Publishing Company, 1911), 1:70-71. , Q4) # Citation
+edit_item(QSamuel Musick, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QSamuel Musick, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QSamuel Musick, P32, http://172.104.209.93:8181/wiki/Samuel_Musick, Q4)
+qcode = create_item(John H Nicolay, John H Nicolay)
+edit_item(QJohn H Nicolay, P33, Q90, Q4) # instance_of human 
+edit_item(QJohn H Nicolay, P29, Q4, Q4) # Publisher
+edit_item(QJohn H Nicolay, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QJohn H Nicolay, P28, Nicolay, Q4) # Surname
+edit_item(QJohn H Nicolay, P30, John, Q4) # Forename
+edit_item(QJohn H Nicolay, P30, H, Q4) # Middle Name/Initial
+edit_item(QJohn H Nicolay, P6, 65680839, Q4) # SNAC ID
+edit_item(QJohn H Nicolay, P7, Q7, Q4) # Sex
+edit_item(QJohn H Nicolay, P13, Q10, Q4) # Race Description
+edit_item(QJohn H Nicolay, P8, 1832-02-26, Q4) # Birth Date
+edit_item(QJohn H Nicolay, P9, 1901-09-26, Q4) # Death Date
+edit_item(QJohn H Nicolay, P10, Bavaria/Germany, Q4) # State/Country of Birth
+edit_item(QJohn H Nicolay, P11, Washington, D.C./USA, Q4) # State/Country of Death
+edit_item(QJohn H Nicolay, P26, Daniel Hamilton, "Nicolay, John George," American National Biography (New York: Oxford University Press, 1999), 16:412-13; Joshua Zeitz, Lincoln's Boys: John Hay, John Nicolay, and the War for Lincoln's Image (New York: Viking, 2014), 12-22; Michael Burlingame, ed., Abraham Lincoln: The Observations of John G. Nicolay and John Hay (Carbondale: Southern Illinois University, Press, 2007), 17-27; Helen Nicolay, Lincoln's Secretary: A Biography of John G. Nicolay (New York: Longmans, Green, 1949), 3-248. , Q4) # Citation
+edit_item(QJohn H Nicolay, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QJohn H Nicolay, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QJohn H Nicolay, P32, http://172.104.209.93:8181/wiki/John_H_Nicolay, Q4)
+qcode = create_item(Denton Offutt, Denton Offutt)
+edit_item(QDenton Offutt, P33, Q90, Q4) # instance_of human 
+edit_item(QDenton Offutt, P29, Q4, Q4) # Publisher
+edit_item(QDenton Offutt, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QDenton Offutt, P28, Offutt, Q4) # Surname
+edit_item(QDenton Offutt, P30, Denton, Q4) # Forename
+edit_item(QDenton Offutt, P7, Q7, Q4) # Sex
+edit_item(QDenton Offutt, P13, Q10, Q4) # Race Description
+edit_item(QDenton Offutt, P8,  1803-1807, Q4) # Birth Date
+edit_item(QDenton Offutt, P9, 1861-1862, Q4) # Death Date
+edit_item(QDenton Offutt, P10, Kentucky/USA, Q4) # State/Country of Birth
+edit_item(QDenton Offutt, P11, Q84, Q4) # State/Country of Death
+edit_item(QDenton Offutt, P26, Gary A. O'Dell, "Denton Offutt of Kentucky: America's First 'Horse Whisperer'"? The Register of the Kentucky Historical Society 108 3 (Summer 2010), 173-211; Benjamin P. Thomas, Lincoln’s New Salem (Springfield, IL: Abraham Lincoln Association, 1934), 6,41-42, 44, 54; Kenneth J. Winkle, The Young Eagle: The Rise of Abraham Lincoln (Dallas: Taylor Trade, 2001), 104; Denton Offutt, Best and Cheapest Book on the Management of Horses, Mules, &c (Washington: William Greer, 1843); Denton Offutt, A Method of Gentling Horses, Their Selection, and Curing Their Diseases (Lexington, KY: np., 1846); Denton Offutt, The Educated Horse: Teaching Horses and Other Animals (Washington: n.p., 1854); Denton Offutt to Abraham Lincoln; Denton Offutt to Abraham Lincoln; Denton Offutt to Abraham Lincoln. , Q4) # Citation
+edit_item(QDenton Offutt, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QDenton Offutt, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QDenton Offutt, P32, http://172.104.209.93:8181/wiki/Denton_Offutt, Q4)
+qcode = create_item(Mary S Owens, Mary S Owens)
+edit_item(QMary S Owens, P33, Q90, Q4) # instance_of human 
+edit_item(QMary S Owens, P29, Q4, Q4) # Publisher
+edit_item(QMary S Owens, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QMary S Owens, P28, Owens, Q4) # Surname
+edit_item(QMary S Owens, P30, Mary, Q4) # Forename
+edit_item(QMary S Owens, P30, S, Q4) # Middle Name/Initial
+edit_item(QMary S Owens, P19, Vineyard, Q4) # Alternate Name
+edit_item(QMary S Owens, P7, Q8, Q4) # Sex
+edit_item(QMary S Owens, P13, Q10, Q4) # Race Description
+edit_item(QMary S Owens, P8, 1808-09-29, Q4) # Birth Date
+edit_item(QMary S Owens, P9, 1877-07-04, Q4) # Death Date
+edit_item(QMary S Owens, P10, Q68, Q4) # State/Country of Birth
+edit_item(QMary S Owens, P11, Q84, Q4) # State/Country of Death
+edit_item(QMary S Owens, P26, Gravestones of Mary Vineyard and Jesse Vineyard, Pleasant Ridge Cemetery, Weston, MO; Mary Owens Vineyard to William H. Herndon, 23 May 1866, in Douglas L. Wilson and Rodney O. Davis, eds., Herndon's Informants: Letters, Interviews, and Statements about Abraham Lincoln (Urbana: University of Illinois Press, 1998), 255-56; Mark E. Neely Jr., The Abraham Lincoln Encyclopedia (New York: Da Capo Press, 1982), 230; Abraham Lincoln to Mary S. Owens; Abraham Lincoln to Mary S. Owens; Abraham Lincoln to Mary S. Owens; Abraham Lincoln to Eliza Browning; Dale Thomas, Lincoln's Old Friends of Menard County, Illinois (Charleston, SC: The History Press, 2012), 54-58, 60-64. , Q4) # Citation
+edit_item(QMary S Owens, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QMary S Owens, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QMary S Owens, P32, http://172.104.209.93:8181/wiki/Mary_S_Owens, Q4)
+qcode = create_item(George Pasfield, George Pasfield)
+edit_item(QGeorge Pasfield, P33, Q90, Q4) # instance_of human 
+edit_item(QGeorge Pasfield, P29, Q4, Q4) # Publisher
+edit_item(QGeorge Pasfield, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QGeorge Pasfield, P28, Pasfield, Q4) # Surname
+edit_item(QGeorge Pasfield, P30, George, Q4) # Forename
+edit_item(QGeorge Pasfield, P6, 43430181, Q4) # SNAC ID
+edit_item(QGeorge Pasfield, P7, Q7, Q4) # Sex
+edit_item(QGeorge Pasfield, P13, Q10, Q4) # Race Description
+edit_item(QGeorge Pasfield, P8, 1792-10, Q4) # Birth Date
+edit_item(QGeorge Pasfield, P9, 1869-11-09, Q4) # Death Date
+edit_item(QGeorge Pasfield, P10, England/United Kingdom, Q4) # State/Country of Birth
+edit_item(QGeorge Pasfield, P11, Illinois/USA, Q4) # State/Country of Death
+edit_item(QGeorge Pasfield, P26, John Carroll Power and S. A. Power, History of the Early Settlers of Sangamon County, Illinois (Springfield, IL: Edwin A. Wilson, 1876), 559; Gravestone, Oak Ridge Cemetery, Block 10, 244, Springfield, IL. , Q4) # Citation
+edit_item(QGeorge Pasfield, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QGeorge Pasfield, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QGeorge Pasfield, P32, http://172.104.209.93:8181/wiki/George_Pasfield, Q4)
+qcode = create_item(Oliver H Perry, Oliver H Perry)
+edit_item(QOliver H Perry, P33, Q90, Q4) # instance_of human 
+edit_item(QOliver H Perry, P29, Q4, Q4) # Publisher
+edit_item(QOliver H Perry, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QOliver H Perry, P28, Perry, Q4) # Surname
+edit_item(QOliver H Perry, P30, Oliver , Q4) # Forename
+edit_item(QOliver H Perry, P30, H, Q4) # Middle Name/Initial
+edit_item(QOliver H Perry, P6, 41078678, Q4) # SNAC ID
+edit_item(QOliver H Perry, P7, Q7, Q4) # Sex
+edit_item(QOliver H Perry, P13, Q10, Q4) # Race Description
+edit_item(QOliver H Perry, P8, 1785-08-23, Q4) # Birth Date
+edit_item(QOliver H Perry, P9, 1819-08-23, Q4) # Death Date
+edit_item(QOliver H Perry, P10, Rhode Island , Q4) # State/Country of Birth
+edit_item(QOliver H Perry, P11, Q86, Q4) # State/Country of Death
+edit_item(QOliver H Perry, P26, Robert G. Baker, "Perry, Oliver Hazard," American National Biography (New York: Oxford University Press, 1999), 17:369-71., Q4) # Citation
+edit_item(QOliver H Perry, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QOliver H Perry, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QOliver H Perry, P32, http://172.104.209.93:8181/wiki/Oliver_H_Perry, Q4)
+qcode = create_item(Franklin Pierce, Franklin Pierce)
+edit_item(QFranklin Pierce, P33, Q90, Q4) # instance_of human 
+edit_item(QFranklin Pierce, P29, Q4, Q4) # Publisher
+edit_item(QFranklin Pierce, P21, Papers of Abraham Lincoln Digital Library, Q4) # Publication
+edit_item(QFranklin Pierce, P28, Pierce, Q4) # Surname
+edit_item(QFranklin Pierce, P30, Franklin, Q4) # Forename
+edit_item(QFranklin Pierce, P6, 83198846, Q4) # SNAC ID
+edit_item(QFranklin Pierce, P7, Q7, Q4) # Sex
+edit_item(QFranklin Pierce, P13, Q10, Q4) # Race Description
+edit_item(QFranklin Pierce, P8, 1804-11-23, Q4) # Birth Date
+edit_item(QFranklin Pierce, P9, 1869-10-08, Q4) # Death Date
+edit_item(QFranklin Pierce, P10, New Hampshire/USA, Q4) # State/Country of Birth
+edit_item(QFranklin Pierce, P11, New Hampshire/USA, Q4) # State/Country of Death
+edit_item(QFranklin Pierce, P26, Larry Gara, The Presidency of Franklin Pierce (Lawrence: University Press of Kansas, 1991); Roy Franklin Nichols, Franklin Pierce: Young Hickory of the Granite Hills (Philadelphia: University of Pennsylvania Press, 1969); Nathaniel Hawthorne, Life of Franklin Pierce (Boston, Mass.: Ticknor, Reed and Fields, 1852)., Q4) # Citation
+edit_item(QFranklin Pierce, P25, https://papersofabrahamlincoln.org/, Q4)
+edit_item(QFranklin Pierce, P38, 'Papers of Abraham Lincoln Digital Library', Q4)
+edit_item(QFranklin Pierce, P32, http://172.104.209.93:8181/wiki/Franklin_Pierce, Q4)
+qcode = create_item(Thomas A. Duke, Thomas A. Duke)
+edit_item(QThomas A. Duke, P33, Q90, Q6) # instance_of human 
+edit_item(QThomas A. Duke, P29, Q6, Q6) # Publisher
+edit_item(QThomas A. Duke, P21, CWGK, Q6) # Publication
+edit_item(QThomas A. Duke, P28, Duke, Q6) # Surname
+edit_item(QThomas A. Duke, P30, Thomas, Q6) # Forename
+edit_item(QThomas A. Duke, P30, A., Q6) # Middle Name/Initial
+edit_item(QThomas A. Duke, P7, Q7, Q6) # Sex
+edit_item(QThomas A. Duke, P13, Q10, Q6) # Race Description
+edit_item(QThomas A. Duke, P8, c1821, Q6) # Birth Date
+edit_item(QThomas A. Duke, P10, KY, Q6) # State/Country of Birth
+edit_item(QThomas A. Duke, P26, Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, McCracken County, 1st District City of Paducah, p. 5; Berry Craig, Kentucky Confederates: Secession, Civil War, and the Jackson Purchase (Lexington: University Press of Kentucky, 2014), 168; Berry Craig and Dieter C. Ulrich, Unconditional Unionist: The Hazardous Life of Lucian Anderson, Kentucky Congressman (Jefferson, N.C.: McFarland & Company, Inc., 2016), 87, Q6) # Citation
+edit_item(QThomas A. Duke, P24, http://discovery.civilwargovernors.org/document/N00000231, Q6)
+edit_item(QThomas A. Duke, P38, 'CWGK', Q6)
+edit_item(QThomas A. Duke, P32, http://172.104.209.93:8181/wiki/Thomas_A._Duke, Q6)
+qcode = create_item(Joshua Tevis, Joshua Tevis)
+edit_item(QJoshua Tevis, P33, Q90, Q6) # instance_of human 
+edit_item(QJoshua Tevis, P29, Q6, Q6) # Publisher
+edit_item(QJoshua Tevis, P21, CWGK, Q6) # Publication
+edit_item(QJoshua Tevis, P28, Tevis, Q6) # Surname
+edit_item(QJoshua Tevis, P30, Joshua, Q6) # Forename
+edit_item(QJoshua Tevis, P7, Q7, Q6) # Sex
+edit_item(QJoshua Tevis, P13, Q10, Q6) # Race Description
+edit_item(QJoshua Tevis, P8, 1826-06-20, Q6) # Birth Date
+edit_item(QJoshua Tevis, P9, 1900-10-12, Q6) # Death Date
+edit_item(QJoshua Tevis, P10, KY, Q6) # State/Country of Birth
+edit_item(QJoshua Tevis, P26, Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Woodford County, Woodford, p 460. Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Jefferson County, Louisville, 5th Ward, p 138; "Joshua Tevis," Louisville Courier-Journal, October 14, 1900, p. A4; J. Stoddard Johnston, Memorial History of Louisville from its First Settlement to the Year 1896, vol. 1 (Chicago and New York: American Biographical Publishing Co., 1896), 135; Roger D. Hunt, Colonels in Blue: Indiana, Kentucky and Tennessee (Jefferson, N.C.: McFarland & Company, Inc., 2014), 190. , Q6) # Citation
+edit_item(QJoshua Tevis, P24, http://discovery.civilwargovernors.org/document/N00000232, Q6)
+edit_item(QJoshua Tevis, P38, 'CWGK', Q6)
+edit_item(QJoshua Tevis, P32, http://172.104.209.93:8181/wiki/Joshua_Tevis, Q6)
+qcode = create_item(Daniel Carmichael Wickliffe, Daniel Carmichael Wickliffe)
+edit_item(QDaniel Carmichael Wickliffe, P33, Q90, Q6) # instance_of human 
+edit_item(QDaniel Carmichael Wickliffe, P29, Q6, Q6) # Publisher
+edit_item(QDaniel Carmichael Wickliffe, P21, CWGK, Q6) # Publication
+edit_item(QDaniel Carmichael Wickliffe, P28, Wickliffe, Q6) # Surname
+edit_item(QDaniel Carmichael Wickliffe, P30, Daniel, Q6) # Forename
+edit_item(QDaniel Carmichael Wickliffe, P30, Carmichael, Q6) # Middle Name/Initial
+edit_item(QDaniel Carmichael Wickliffe, P6, 20823995, Q6) # SNAC ID
+edit_item(QDaniel Carmichael Wickliffe, P7, Q7, Q6) # Sex
+edit_item(QDaniel Carmichael Wickliffe, P13, Q10, Q6) # Race Description
+edit_item(QDaniel Carmichael Wickliffe, P8, 1810-03-15, Q6) # Birth Date
+edit_item(QDaniel Carmichael Wickliffe, P9, 1870-05-03, Q6) # Death Date
+edit_item(QDaniel Carmichael Wickliffe, P10, KY, Q6) # State/Country of Birth
+edit_item(QDaniel Carmichael Wickliffe, P26, The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century, vol. 1 (Cincinnati: J. M. Armstrong & Company, 1878), 348; H. Levin, The Lawyers and Lawmakers of Kentucky (Chicago: The Lewis Publishing Company, 1897), 630-31; Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Fayette County, City of Lexington, 3rd Ward, p. 150; Eighth Manuscript Census of the United States (1860), Slave Schedules, Kentucky, Fayette County, City of Lexington, 3rd Ward, p. 67; "The Late D. C. Wickliffe," Courier-Journal (Louisville, Ky.), May 5, 1870, p. 2; _Find A Grave, "Daniel Carmichael Wickliffe (1810-1870)," Memorial #65784654, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=65784654 (accessed August 28, 2017). , Q6) # Citation
+edit_item(QDaniel Carmichael Wickliffe, P24, http://discovery.civilwargovernors.org/document/N00000233, Q6)
+edit_item(QDaniel Carmichael Wickliffe, P38, 'CWGK', Q6)
+edit_item(QDaniel Carmichael Wickliffe, P32, http://172.104.209.93:8181/wiki/Daniel_Carmichael_Wickliffe, Q6)
+qcode = create_item(John A. Prall, John A. Prall)
+edit_item(QJohn A. Prall, P33, Q90, Q6) # instance_of human 
+edit_item(QJohn A. Prall, P29, Q6, Q6) # Publisher
+edit_item(QJohn A. Prall, P21, CWGK, Q6) # Publication
+edit_item(QJohn A. Prall, P28, Prall, Q6) # Surname
+edit_item(QJohn A. Prall, P30, John, Q6) # Forename
+edit_item(QJohn A. Prall, P30, A., Q6) # Middle Name/Initial
+edit_item(QJohn A. Prall, P6, 40272024, Q6) # SNAC ID
+edit_item(QJohn A. Prall, P7, Q7, Q6) # Sex
+edit_item(QJohn A. Prall, P13, Q10, Q6) # Race Description
+edit_item(QJohn A. Prall, P8, 1827-01-13, Q6) # Birth Date
+edit_item(QJohn A. Prall, P9, 1907-10-02, Q6) # Death Date
+edit_item(QJohn A. Prall, P10, KY, Q6) # State/Country of Birth
+edit_item(QJohn A. Prall, P26, Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Bourbon County, Paris, p. 17; Eighth Manuscript Census of the United States (1860), Slave Schedules, Kentucky, Bourbon County, Paris, p. 4; Lewis Collins and Richard H. Collins, Collins' Historical Sketches of Kentucky, vol. 2 (Covington, KY: Collins & Co., 1878), 66; "Col. John A. Prall." The Bourbon News, October 8, 1907; Find A Grave, "Col John Andrew Prall (1827-1907)," Memorial #99397345, https://www.findagrave.com/memorial/99397345 (accessed November 17, 2017). , Q6) # Citation
+edit_item(QJohn A. Prall, P24, http://discovery.civilwargovernors.org/document/N00000235, Q6)
+edit_item(QJohn A. Prall, P38, 'CWGK', Q6)
+edit_item(QJohn A. Prall, P32, http://172.104.209.93:8181/wiki/John_A._Prall, Q6)
+qcode = create_item(John Kemp Goodloe, John Kemp Goodloe)
+edit_item(QJohn Kemp Goodloe, P33, Q90, Q6) # instance_of human 
+edit_item(QJohn Kemp Goodloe, P29, Q6, Q6) # Publisher
+edit_item(QJohn Kemp Goodloe, P21, CWGK, Q6) # Publication
+edit_item(QJohn Kemp Goodloe, P28, Goodloe, Q6) # Surname
+edit_item(QJohn Kemp Goodloe, P30, John, Q6) # Forename
+edit_item(QJohn Kemp Goodloe, P30, Kemp, Q6) # Middle Name/Initial
+edit_item(QJohn Kemp Goodloe, P7, Q7, Q6) # Sex
+edit_item(QJohn Kemp Goodloe, P13, Q10, Q6) # Race Description
+edit_item(QJohn Kemp Goodloe, P8, 1823-02-15, Q6) # Birth Date
+edit_item(QJohn Kemp Goodloe, P9, 1892-02-12, Q6) # Death Date
+edit_item(QJohn Kemp Goodloe, P10, KY, Q6) # State/Country of Birth
+edit_item(QJohn Kemp Goodloe, P26, Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Woodford County, District No. 1, p. 425 B; H. Levin, The Lawyers and Lawmakers of Kentucky (Chicago: The Lewis Publishing Company, 1897), 231-36; Lewis Collins and Richard H. Collins, Collins' Historical Sketches of Kentucky, vol. 2 (Covington, KY: Collins & Co., 1878), 764; Journal of the Executive Proceedings of the Senate of the United States of America From December 5, 1864, to February 6, 1866, Inclusive Vol. XIV, Part I (Washington: Government Printing Office, 1867), 312-13; Find A Grave, "Judge John Kemp Goodloe (1823-1892)," Memorial #100859301, https://www.findagrave.com/memorial/100859301 (accessed November 17, 2017)., Q6) # Citation
+edit_item(QJohn Kemp Goodloe, P24, http://discovery.civilwargovernors.org/document/N00000236, Q6)
+edit_item(QJohn Kemp Goodloe, P38, 'CWGK', Q6)
+edit_item(QJohn Kemp Goodloe, P32, http://172.104.209.93:8181/wiki/John_Kemp_Goodloe, Q6)
+qcode = create_item(Bryan Rust Young, Bryan Rust Young)
+edit_item(QBryan Rust Young, P33, Q90, Q6) # instance_of human 
+edit_item(QBryan Rust Young, P29, Q6, Q6) # Publisher
+edit_item(QBryan Rust Young, P21, CWGK, Q6) # Publication
+edit_item(QBryan Rust Young, P28, Young, Q6) # Surname
+edit_item(QBryan Rust Young, P30, Bryan, Q6) # Forename
+edit_item(QBryan Rust Young, P30, Rust, Q6) # Middle Name/Initial
+edit_item(QBryan Rust Young, P7, Q7, Q6) # Sex
+edit_item(QBryan Rust Young, P13, Q10, Q6) # Race Description
+edit_item(QBryan Rust Young, P8, 1800-01-14, Q6) # Birth Date
+edit_item(QBryan Rust Young, P9, 1882-05-14, Q6) # Death Date
+edit_item(QBryan Rust Young, P10, KY, Q6) # State/Country of Birth
+edit_item(QBryan Rust Young, P26, "YOUNG, Bryan Rust" Biographical Directory of the United States Congress, 1774-Present, bioguide.congress.gov/scripts/biodisplay.pl?index=Y000030 (accessed November 16, 2017). , Q6) # Citation
+edit_item(QBryan Rust Young, P24, http://discovery.civilwargovernors.org/document/N00000238, Q6)
+edit_item(QBryan Rust Young, P38, 'CWGK', Q6)
+edit_item(QBryan Rust Young, P32, http://172.104.209.93:8181/wiki/Bryan_Rust_Young, Q6)
+qcode = create_item(James Fisher Robinson Jr., James Fisher Robinson Jr.)
+edit_item(QJames Fisher Robinson Jr., P33, Q90, Q6) # instance_of human 
+edit_item(QJames Fisher Robinson Jr., P29, Q6, Q6) # Publisher
+edit_item(QJames Fisher Robinson Jr., P21, CWGK, Q6) # Publication
+edit_item(QJames Fisher Robinson Jr., P28, Robinson, Q6) # Surname
+edit_item(QJames Fisher Robinson Jr., P30, James, Q6) # Forename
+edit_item(QJames Fisher Robinson Jr., P30, Fisher, Q6) # Middle Name/Initial
+edit_item(QJames Fisher Robinson Jr., P18, Jr., Q6) # Suffix
+edit_item(QJames Fisher Robinson Jr., P6, 54700636, Q6) # SNAC ID
+edit_item(QJames Fisher Robinson Jr., P7, Q7, Q6) # Sex
+edit_item(QJames Fisher Robinson Jr., P13, Q10, Q6) # Race Description
+edit_item(QJames Fisher Robinson Jr., P8, 1832-11-25, Q6) # Birth Date
+edit_item(QJames Fisher Robinson Jr., P9, 1892, Q6) # Death Date
+edit_item(QJames Fisher Robinson Jr., P10, KY, Q6) # State/Country of Birth
+edit_item(QJames Fisher Robinson Jr., P26, Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Jefferson County, 4th Ward City of Louisville, p. 14. William Henry Perrin, ed., History of Fayette County, Kentucky, with an Outline Sketch of the Blue Grass Region by Robert Peter, M. D., Professor of Chemistry in the Agricultural and Mechanical College, Chemist to the State Geological Society, Etc. (Chicago, IL: O. L. Baskin and Company, 1882), p. 691. “Robinson, James Fisher, Jr., 1832-” Social Networks and Archival Context, http://socialarchive.iath.virginia.edu/ark:/99166/w6v1241s (accessed January 3, 2017). Find A Grave, “James F. Robinson (November 25, 1832-1892),” Memorial #98031371, http://findagrave.com/memorial/98031371 (accessed February 23, 2018)., Q6) # Citation
+edit_item(QJames Fisher Robinson Jr., P24, http://discovery.civilwargovernors.org/document/N00000234, Q6)
+edit_item(QJames Fisher Robinson Jr., P38, 'CWGK', Q6)
+edit_item(QJames Fisher Robinson Jr., P32, http://172.104.209.93:8181/wiki/James_Fisher_Robinson_Jr., Q6)
+qcode = create_item(J. D. Osborne, J. D. Osborne)
+edit_item(QJ. D. Osborne, P33, Q90, Q6) # instance_of human 
+edit_item(QJ. D. Osborne, P29, Q6, Q6) # Publisher
+edit_item(QJ. D. Osborne, P21, CWGK, Q6) # Publication
+edit_item(QJ. D. Osborne, P28, Osborne, Q6) # Surname
+edit_item(QJ. D. Osborne, P30, J., Q6) # Forename
+edit_item(QJ. D. Osborne, P30, D., Q6) # Middle Name/Initial
+edit_item(QJ. D. Osborne, P7, Q7, Q6) # Sex
+edit_item(QJ. D. Osborne, P13, Q10, Q6) # Race Description
+edit_item(QJ. D. Osborne, P8, c1823, Q6) # Birth Date
+edit_item(QJ. D. Osborne, P10, VA, Q6) # State/Country of Birth
+edit_item(QJ. D. Osborne, P26, "An Act to incorporate the Louisville Journal Company," March 9, 1867, in Acts of the Commonwealth of Kentucky Passed by the General Assembly at the Adjourned Session (January 3, 1867) which was Begun and Held in the City of Frankfort, on Monday, the 4th Day of December, 1865 (Frankfort: Kentucky Yeoman Office, 1867), 437-38. A. T. Andreas, History of Chicago: from the Earliest Period to the Present Time, v. II From 1857 Until the Fire of 1871 (Chicago: A. T. Andreas Company, 1885), 500. Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Jefferson County, Louisville, 5th Ward, p. 144145. , Q6) # Citation
+edit_item(QJ. D. Osborne, P24, http://discovery.civilwargovernors.org/document/N00000242, Q6)
+edit_item(QJ. D. Osborne, P38, 'CWGK', Q6)
+edit_item(QJ. D. Osborne, P32, http://172.104.209.93:8181/wiki/J._D._Osborne, Q6)
+qcode = create_item(Thomas H. Chandler, Thomas H. Chandler)
+edit_item(QThomas H. Chandler, P33, Q90, Q6) # instance_of human 
+edit_item(QThomas H. Chandler, P29, Q6, Q6) # Publisher
+edit_item(QThomas H. Chandler, P21, CWGK, Q6) # Publication
+edit_item(QThomas H. Chandler, P28, Chandler, Q6) # Surname
+edit_item(QThomas H. Chandler, P30, Thomas, Q6) # Forename
+edit_item(QThomas H. Chandler, P30, H., Q6) # Middle Name/Initial
+edit_item(QThomas H. Chandler, P7, Q7, Q6) # Sex
+edit_item(QThomas H. Chandler, P13, Q10, Q6) # Race Description
+edit_item(QThomas H. Chandler, P8, 1820, Q6) # Birth Date
+edit_item(QThomas H. Chandler, P9, 1875-12-27, Q6) # Death Date
+edit_item(QThomas H. Chandler, P10, KY, Q6) # State/Country of Birth
+edit_item(QThomas H. Chandler, P26, Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Marion County, District 2, p. 109. "West and South," (Jacksboro, Texas) Frontier Echo, January 21, 1876. , Q6) # Citation
+edit_item(QThomas H. Chandler, P24, http://discovery.civilwargovernors.org/document/N00000246, Q6)
+edit_item(QThomas H. Chandler, P38, 'CWGK', Q6)
+edit_item(QThomas H. Chandler, P32, http://172.104.209.93:8181/wiki/Thomas_H._Chandler, Q6)
+qcode = create_item(Charles Savage, Charles Savage)
+edit_item(QCharles Savage, P33, Q90, Q6) # instance_of human 
+edit_item(QCharles Savage, P29, Q6, Q6) # Publisher
+edit_item(QCharles Savage, P21, CWGK, Q6) # Publication
+edit_item(QCharles Savage, P28, Savage, Q6) # Surname
+edit_item(QCharles Savage, P30, Charles, Q6) # Forename
+edit_item(QCharles Savage, P7, Q7, Q6) # Sex
+edit_item(QCharles Savage, P13, Q10, Q6) # Race Description
+edit_item(QCharles Savage, P8, 1823, Q6) # Birth Date
+edit_item(QCharles Savage, P9, 1883, Q6) # Death Date
+edit_item(QCharles Savage, P10, KY, Q6) # State/Country of Birth
+edit_item(QCharles Savage, P26, Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Marion County, Lebanon District 1, p. 44. Marion County [Kentucky] Court, Probate Records, 1863-1902, Roll 598712: Administrators Bonds, Vol. 3, 1879-91, p. 101. , Q6) # Citation
+edit_item(QCharles Savage, P24, http://discovery.civilwargovernors.org/document/N00000247, Q6)
+edit_item(QCharles Savage, P38, 'CWGK', Q6)
+edit_item(QCharles Savage, P32, http://172.104.209.93:8181/wiki/Charles_Savage, Q6)
+qcode = create_item(Ed, Ed)
+edit_item(QEd, P33, Q90, Q6) # instance_of human 
+edit_item(QEd, P29, Q6, Q6) # Publisher
+edit_item(QEd, P21, CWGK, Q6) # Publication
+edit_item(QEd, P30, Ed, Q6) # Forename
+edit_item(QEd, P7, Q7, Q6) # Sex
+edit_item(QEd, P13, Q9, Q6) # Race Description
+edit_item(QEd, P8, c1842, Q6) # Birth Date
+edit_item(QEd, P26, Eighth Manuscript Census of the United States (1860), Slave Schedules, Kentucky, Mason, Maysville, p. 2. KYR-0001-004-0178. , Q6) # Citation
+edit_item(QEd, P24, http://discovery.civilwargovernors.org/document/N00002897, Q6)
+edit_item(QEd, P38, 'CWGK', Q6)
+edit_item(QEd, P32, http://172.104.209.93:8181/wiki/Ed, Q6)
+qcode = create_item(Lewis, Lewis)
+edit_item(QLewis, P33, Q90, Q6) # instance_of human 
+edit_item(QLewis, P29, Q6, Q6) # Publisher
+edit_item(QLewis, P21, CWGK, Q6) # Publication
+edit_item(QLewis, P30, Lewis, Q6) # Forename
+edit_item(QLewis, P7, Q7, Q6) # Sex
+edit_item(QLewis, P13, Q9, Q6) # Race Description
+edit_item(QLewis, P26, Eighth Manuscript Census of the United States (1860), Slave Schedules, Kentucky, Woodford County, Midway, p. 9. KYR-0001-004-0183. , Q6) # Citation
+edit_item(QLewis, P24, http://discovery.civilwargovernors.org/document/N00002996, Q6)
+edit_item(QLewis, P38, 'CWGK', Q6)
+edit_item(QLewis, P32, http://172.104.209.93:8181/wiki/Lewis, Q6)
+qcode = create_item(Tom, Tom)
+edit_item(QTom, P33, Q90, Q6) # instance_of human 
+edit_item(QTom, P29, Q6, Q6) # Publisher
+edit_item(QTom, P21, CWGK, Q6) # Publication
+edit_item(QTom, P30, Tom, Q6) # Forename
+edit_item(QTom, P7, Q7, Q6) # Sex
+edit_item(QTom, P13, Q9, Q6) # Race Description
+edit_item(QTom, P26, KYR-0001-004-0186. , Q6) # Citation
+edit_item(QTom, P24, http://discovery.civilwargovernors.org/document/N00003010, Q6)
+edit_item(QTom, P38, 'CWGK', Q6)
+edit_item(QTom, P32, http://172.104.209.93:8181/wiki/Tom, Q6)
+qcode = create_item(Tom, Tom)
+edit_item(QTom, P33, Q90, Q6) # instance_of human 
+edit_item(QTom, P29, Q6, Q6) # Publisher
+edit_item(QTom, P21, CWGK, Q6) # Publication
+edit_item(QTom, P30, Tom, Q6) # Forename
+edit_item(QTom, P7, Q7, Q6) # Sex
+edit_item(QTom, P13, Q9, Q6) # Race Description
+edit_item(QTom, P8, c1843, Q6) # Birth Date
+edit_item(QTom, P26, KYR-0003-092-0150. Eighth Manuscript Census of the United States (1860), Slave Schedules, Kentucky, Scott County, District No. 1, p. 31-32. , Q6) # Citation
+edit_item(QTom, P24, http://discovery.civilwargovernors.org/document/N00008253, Q6)
+edit_item(QTom, P38, 'CWGK', Q6)
+edit_item(QTom, P32, http://172.104.209.93:8181/wiki/Tom, Q6)
+qcode = create_item(Gabriella, Gabriella)
+edit_item(QGabriella, P33, Q90, Q6) # instance_of human 
+edit_item(QGabriella, P29, Q6, Q6) # Publisher
+edit_item(QGabriella, P21, CWGK, Q6) # Publication
+edit_item(QGabriella, P30, Gabriella, Q6) # Forename
+edit_item(QGabriella, P7, Q8, Q6) # Sex
+edit_item(QGabriella, P13, Q9, Q6) # Race Description
+edit_item(QGabriella, P8, c1812, Q6) # Birth Date
+edit_item(QGabriella, P26, KYR-0003-092-0150. Eighth Manuscript Census of the United States (1860), Slave Schedules, Kentucky, Scott County, District No. 1, p. 31-32. , Q6) # Citation
+edit_item(QGabriella, P24, http://discovery.civilwargovernors.org/document/N00008252, Q6)
+edit_item(QGabriella, P38, 'CWGK', Q6)
+edit_item(QGabriella, P32, http://172.104.209.93:8181/wiki/Gabriella, Q6)
+qcode = create_item(Davey, Davey)
+edit_item(QDavey, P33, Q90, Q6) # instance_of human 
+edit_item(QDavey, P29, Q6, Q6) # Publisher
+edit_item(QDavey, P21, CWGK, Q6) # Publication
+edit_item(QDavey, P30, Davey, Q6) # Forename
+edit_item(QDavey, P7, Q7, Q6) # Sex
+edit_item(QDavey, P13, Q9, Q6) # Race Description
+edit_item(QDavey, P8, c1802, Q6) # Birth Date
+edit_item(QDavey, P26, KYR-0003-092-0150. Eighth Manuscript Census of the United States (1860), Slave Schedules, Kentucky, Scott County, District No. 1, p. 31-32. , Q6) # Citation
+edit_item(QDavey, P24, http://discovery.civilwargovernors.org/document/N00008264, Q6)
+edit_item(QDavey, P38, 'CWGK', Q6)
+edit_item(QDavey, P32, http://172.104.209.93:8181/wiki/Davey, Q6)
+qcode = create_item(George Washington Johnson, George Washington Johnson)
+edit_item(QGeorge Washington Johnson, P33, Q90, Q6) # instance_of human 
+edit_item(QGeorge Washington Johnson, P29, Q6, Q6) # Publisher
+edit_item(QGeorge Washington Johnson, P21, CWGK, Q6) # Publication
+edit_item(QGeorge Washington Johnson, P28, Johnson, Q6) # Surname
+edit_item(QGeorge Washington Johnson, P30, George, Q6) # Forename
+edit_item(QGeorge Washington Johnson, P30, Washington, Q6) # Middle Name/Initial
+edit_item(QGeorge Washington Johnson, P6, 30507917, Q6) # SNAC ID
+edit_item(QGeorge Washington Johnson, P7, Q7, Q6) # Sex
+edit_item(QGeorge Washington Johnson, P13, Q10, Q6) # Race Description
+edit_item(QGeorge Washington Johnson, P8, 1811-05-27, Q6) # Birth Date
+edit_item(QGeorge Washington Johnson, P9, 1862-04-08, Q6) # Death Date
+edit_item(QGeorge Washington Johnson, P10, KY, Q6) # State/Country of Birth
+edit_item(QGeorge Washington Johnson, P11, TN, Q6) # State/Country of Death
+edit_item(QGeorge Washington Johnson, P26, Lowell H. Harrison, “George W. Johnson (1861-1862)” in Lowell H. Harrison, Ed., Kentucky’s Governors (Lexington: University Press of Kentucky, 2004), 82-84; Eighth Manuscript Census of the United States (1860), Slave Schedules, Kentucky, Scott County, District No 1, p. 31-32., Q6) # Citation
+edit_item(QGeorge Washington Johnson, P24, http://discovery.civilwargovernors.org/document/N001002, Q6)
+edit_item(QGeorge Washington Johnson, P38, 'CWGK', Q6)
+edit_item(QGeorge Washington Johnson, P32, http://172.104.209.93:8181/wiki/George_Washington_Johnson, Q6)
+qcode = create_item(Ann Eliza Johnson, Ann Eliza Johnson)
+edit_item(QAnn Eliza Johnson, P33, Q90, Q6) # instance_of human 
+edit_item(QAnn Eliza Johnson, P29, Q6, Q6) # Publisher
+edit_item(QAnn Eliza Johnson, P21, CWGK, Q6) # Publication
+edit_item(QAnn Eliza Johnson, P28, Johnson, Q6) # Surname
+edit_item(QAnn Eliza Johnson, P30, Ann, Q6) # Forename
+edit_item(QAnn Eliza Johnson, P30, Eliza, Q6) # Middle Name/Initial
+edit_item(QAnn Eliza Johnson, P19, Viley, Q6) # Alternate Name
+edit_item(QAnn Eliza Johnson, P6, 42898093, Q6) # SNAC ID
+edit_item(QAnn Eliza Johnson, P7, Q8, Q6) # Sex
+edit_item(QAnn Eliza Johnson, P13, Q10, Q6) # Race Description
+edit_item(QAnn Eliza Johnson, P8, 1815-04-25, Q6) # Birth Date
+edit_item(QAnn Eliza Johnson, P9, 1875-08-08, Q6) # Death Date
+edit_item(QAnn Eliza Johnson, P10, KY, Q6) # State/Country of Birth
+edit_item(QAnn Eliza Johnson, P26, Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Scott County, District No. 1, p. 993. Eighth Manuscript Census of the United States (1860), Slave Schedules, Kentucky, Scott County, District No 1, p. 31-32. Find A Grave, "Ann Eliza (Viley) Johnson (1815-1875) (1815-1875)," Memorial #98984670, http://www.findagrave.com/memorial/98984670/ann-eliza-johnson (accessed January 3, 2018)., Q6) # Citation
+edit_item(QAnn Eliza Johnson, P24, http://discovery.civilwargovernors.org/document/N00008172, Q6)
+edit_item(QAnn Eliza Johnson, P38, 'CWGK', Q6)
+edit_item(QAnn Eliza Johnson, P32, http://172.104.209.93:8181/wiki/Ann_Eliza_Johnson, Q6)
+qcode = create_item(Willa Viley Johnson, Willa Viley Johnson)
+edit_item(QWilla Viley Johnson, P33, Q90, Q6) # instance_of human 
+edit_item(QWilla Viley Johnson, P29, Q6, Q6) # Publisher
+edit_item(QWilla Viley Johnson, P21, CWGK, Q6) # Publication
+edit_item(QWilla Viley Johnson, P28, Johnson, Q6) # Surname
+edit_item(QWilla Viley Johnson, P30, Willa, Q6) # Forename
+edit_item(QWilla Viley Johnson, P30, Viley, Q6) # Middle Name/Initial
+edit_item(QWilla Viley Johnson, P6, 18016137, Q6) # SNAC ID
+edit_item(QWilla Viley Johnson, P7, Q7, Q6) # Sex
+edit_item(QWilla Viley Johnson, P13, Q10, Q6) # Race Description
+edit_item(QWilla Viley Johnson, P8, 1837-03-04, Q6) # Birth Date
+edit_item(QWilla Viley Johnson, P9, 1913-05-05, Q6) # Death Date
+edit_item(QWilla Viley Johnson, P10, KY, Q6) # State/Country of Birth
+edit_item(QWilla Viley Johnson, P26, Find A Grave, "Maj. Willa Viley Johnson (1837-1913)," Memorial #84679458, http://www.findagrave.com/memorial/84679458/willa-viley-johnson (accessed January 2 2018). Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Scott County, District No. 2, p. 452A. , Q6) # Citation
+edit_item(QWilla Viley Johnson, P24, http://discovery.civilwargovernors.org/document/N00008345, Q6)
+edit_item(QWilla Viley Johnson, P38, 'CWGK', Q6)
+edit_item(QWilla Viley Johnson, P32, http://172.104.209.93:8181/wiki/Willa_Viley_Johnson, Q6)
+qcode = create_item(Junius R. Ward, Junius R. Ward)
+edit_item(QJunius R. Ward, P33, Q90, Q6) # instance_of human 
+edit_item(QJunius R. Ward, P29, Q6, Q6) # Publisher
+edit_item(QJunius R. Ward, P21, CWGK, Q6) # Publication
+edit_item(QJunius R. Ward, P28, Ward, Q6) # Surname
+edit_item(QJunius R. Ward, P30, Junius, Q6) # Forename
+edit_item(QJunius R. Ward, P30, R., Q6) # Middle Name/Initial
+edit_item(QJunius R. Ward, P7, Q7, Q6) # Sex
+edit_item(QJunius R. Ward, P13, Q10, Q6) # Race Description
+edit_item(QJunius R. Ward, P8, 1844, Q6) # Birth Date
+edit_item(QJunius R. Ward, P10, MS, Q6) # State/Country of Birth
+edit_item(QJunius R. Ward, P26, Biographical and Historical Memoirs of Mississippi. Vol. II (Chicago: The Goodspeed Publishing Company, 1891), 985. Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky, NARA RG 109, Microfilm Series M319, Roll 0088. Find A Grave, "Junius R. Ward, Jr (1844-1917)," Memorial #103628978, http://www.findagrave.com/memorial/103628978/junius-r.-ward (accessed January 8, 2018). , Q6) # Citation
+edit_item(QJunius R. Ward, P24, http://discovery.civilwargovernors.org/document/N00008191, Q6)
+edit_item(QJunius R. Ward, P38, 'CWGK', Q6)
+edit_item(QJunius R. Ward, P32, http://172.104.209.93:8181/wiki/Junius_R._Ward, Q6)
+qcode = create_item(Alvin Duvall, Alvin Duvall)
+edit_item(QAlvin Duvall, P33, Q90, Q6) # instance_of human 
+edit_item(QAlvin Duvall, P29, Q6, Q6) # Publisher
+edit_item(QAlvin Duvall, P21, CWGK, Q6) # Publication
+edit_item(QAlvin Duvall, P28, Duvall, Q6) # Surname
+edit_item(QAlvin Duvall, P30, Alvin, Q6) # Forename
+edit_item(QAlvin Duvall, P6, 60152682, Q6) # SNAC ID
+edit_item(QAlvin Duvall, P7, Q7, Q6) # Sex
+edit_item(QAlvin Duvall, P13, Q10, Q6) # Race Description
+edit_item(QAlvin Duvall, P8, 1813-03-20, Q6) # Birth Date
+edit_item(QAlvin Duvall, P9, 1891-11-17, Q6) # Death Date
+edit_item(QAlvin Duvall, P10, KY, Q6) # State/Country of Birth
+edit_item(QAlvin Duvall, P26, Scott County, Kentucky, court of appeals judge. Scott County native. Son of John Alvin Duvall. Married to Virginia Hotlzclaw Duvall in 1843. Father of Henry Duvall, Alvin Duvall, Jr., Virginia Duvall, William Duvall, and Mary Stites Duvall. Graduated from Georgetown College in Georgetown, Kentucky, in 1833. Studied law under James F. Robinson. Graduated from the Law Department at Transylvania University in Lexington, Kentucky, in 1840. Practiced law in Georgetown from 1840 to 1852. Member of the House of Representatives of the Commonwealth of Kentucky from Scott County in 1850. Judge of the ??? Judicial District of the Commonwealth of Kentucky from 1852 to 1856. Judge of the Court of Appeals of the Commonwealth of Kentucky from 1856 to 1864. Chief justice of the Court of Appeals from 1862 to 1864. Removed from the 1864 poll books and ordered arrested by General Stephen G. Burbridge, under suspicion of disloyalty, in August 1864. Fled to Canada for two months. Returned to Georgetown to assume his law practice from 1864 to 1866., Q6) # Citation
+edit_item(QAlvin Duvall, P24, http://discovery.civilwargovernors.org/document/N00008230, Q6)
+edit_item(QAlvin Duvall, P38, 'CWGK', Q6)
+edit_item(QAlvin Duvall, P32, http://172.104.209.93:8181/wiki/Alvin_Duvall, Q6)
+qcode = create_item(William Henry Johnson, William Henry Johnson)
+edit_item(QWilliam Henry Johnson, P33, Q90, Q6) # instance_of human 
+edit_item(QWilliam Henry Johnson, P29, Q6, Q6) # Publisher
+edit_item(QWilliam Henry Johnson, P21, CWGK, Q6) # Publication
+edit_item(QWilliam Henry Johnson, P28, Johnson, Q6) # Surname
+edit_item(QWilliam Henry Johnson, P30, William, Q6) # Forename
+edit_item(QWilliam Henry Johnson, P30, Henry, Q6) # Middle Name/Initial
+edit_item(QWilliam Henry Johnson, P7, Q7, Q6) # Sex
+edit_item(QWilliam Henry Johnson, P13, Q10, Q6) # Race Description
+edit_item(QWilliam Henry Johnson, P8, 1813-06-13, Q6) # Birth Date
+edit_item(QWilliam Henry Johnson, P9, 1872-12-28, Q6) # Death Date
+edit_item(QWilliam Henry Johnson, P10, KY, Q6) # State/Country of Birth
+edit_item(QWilliam Henry Johnson, P26, "Death of a Kentuckian, *Courier-Journal (Louisville, Ky.), January 3, 1873, p. 1. Seventh Manuscript Census of the United States (1850), Population Schedules, Mississippi, Warren County, p. 239A. Seventh Manuscript Census of the United States (1850), Slave Schedules, Mississippi, Warren County. Eighth Manuscript Census of the United States (1860), Population Schedules, Mississippi, Warren County, p. 134. Eighth Manuscript Census of the United States (1860), Slave Schedules, Mississippi, Warren County, p. 257A-257B. Smith, Myron J., Jr., The Fight for the Yazoo, August 1862-July 1864: Swamps, Forts and Fleets on Vicksburg's Northern Flank (Jefferson, NC: McFarland & Company, Inc., 2012), 91. Find A Grave, "William Henry Johnson (1813-1872)," Memorial #98878640, http://www.findagrave.com/memorial/98878640/william-henry-johnson (accessed January 3, 2018). , Q6) # Citation
+edit_item(QWilliam Henry Johnson, P24, http://discovery.civilwargovernors.org/document/N00008196, Q6)
+edit_item(QWilliam Henry Johnson, P38, 'CWGK', Q6)
+edit_item(QWilliam Henry Johnson, P32, http://172.104.209.93:8181/wiki/William_Henry_Johnson, Q6)
+qcode = create_item(James Frazier Jaquess, James Frazier Jaquess)
+edit_item(QJames Frazier Jaquess, P33, Q90, Q6) # instance_of human 
+edit_item(QJames Frazier Jaquess, P29, Q6, Q6) # Publisher
+edit_item(QJames Frazier Jaquess, P21, CWGK, Q6) # Publication
+edit_item(QJames Frazier Jaquess, P28, Jaquess, Q6) # Surname
+edit_item(QJames Frazier Jaquess, P30, James, Q6) # Forename
+edit_item(QJames Frazier Jaquess, P30, Frazier, Q6) # Middle Name/Initial
+edit_item(QJames Frazier Jaquess, P6, 41237066; 33211431, Q6) # SNAC ID
+edit_item(QJames Frazier Jaquess, P7, Q7, Q6) # Sex
+edit_item(QJames Frazier Jaquess, P13, Q10, Q6) # Race Description
+edit_item(QJames Frazier Jaquess, P8, 1819-11-18, Q6) # Birth Date
+edit_item(QJames Frazier Jaquess, P9, 1898-06-16, Q6) # Death Date
+edit_item(QJames Frazier Jaquess, P26, Eighth Manuscript Census of the United States (1860), Population Schedules, Illinois, Adams County, Quincy, First Ward, p. 46. Patricia B. Burnette, James F. Jaquess: Scholar, Soldier and Private Agent for President Lincoln (Jefferson, N.C.: McFarland & Company, 2013). KYR-0003-092-0132. KYR-0003-092-0136. Newlin, William Henry, A History of the Seventy-Third Regiment of Illinois Infantry (Published by Authority of the Regimental Reunion Association of Survivors of the 73d Illinois Infantry Volunteers, 1890), 534-57., Q6) # Citation
+edit_item(QJames Frazier Jaquess, P24, http://discovery.civilwargovernors.org/document/N00008234, Q6)
+edit_item(QJames Frazier Jaquess, P38, 'CWGK', Q6)
+edit_item(QJames Frazier Jaquess, P32, http://172.104.209.93:8181/wiki/James_Frazier_Jaquess, Q6)
+qcode = create_item(William Nelson, William Nelson)
+edit_item(QWilliam Nelson, P33, Q90, Q6) # instance_of human 
+edit_item(QWilliam Nelson, P29, Q6, Q6) # Publisher
+edit_item(QWilliam Nelson, P21, CWGK, Q6) # Publication
+edit_item(QWilliam Nelson, P28, Nelson, Q6) # Surname
+edit_item(QWilliam Nelson, P30, William, Q6) # Forename
+edit_item(QWilliam Nelson, P19, Bull, Q6) # Alternate Name
+edit_item(QWilliam Nelson, P6, 39879684, Q6) # SNAC ID
+edit_item(QWilliam Nelson, P7, Q7, Q6) # Sex
+edit_item(QWilliam Nelson, P13, Q10, Q6) # Race Description
+edit_item(QWilliam Nelson, P8, 1824-09-27, Q6) # Birth Date
+edit_item(QWilliam Nelson, P9, 1862-09-29, Q6) # Death Date
+edit_item(QWilliam Nelson, P10, KY, Q6) # State/Country of Birth
+edit_item(QWilliam Nelson, P11, KY, Q6) # State/Country of Death
+edit_item(QWilliam Nelson, P26, Ezra J. Warner, Generals in Blue: Lives of the Union Commanders (Baton Rouge: Louisiana State University Press, 1988), 343-34, Q6) # Citation
+edit_item(QWilliam Nelson, P24, http://discovery.civilwargovernors.org/document/N00008225, Q6)
+edit_item(QWilliam Nelson, P38, 'CWGK', Q6)
+edit_item(QWilliam Nelson, P32, http://172.104.209.93:8181/wiki/William_Nelson, Q6)
+qcode = create_item(Silas F. Miller, Silas F. Miller)
+edit_item(QSilas F. Miller, P33, Q90, Q6) # instance_of human 
+edit_item(QSilas F. Miller, P29, Q6, Q6) # Publisher
+edit_item(QSilas F. Miller, P21, CWGK, Q6) # Publication
+edit_item(QSilas F. Miller, P28, Miller, Q6) # Surname
+edit_item(QSilas F. Miller, P30, Silas, Q6) # Forename
+edit_item(QSilas F. Miller, P30, F., Q6) # Middle Name/Initial
+edit_item(QSilas F. Miller, P6, 34473020, Q6) # SNAC ID
+edit_item(QSilas F. Miller, P7, Q7, Q6) # Sex
+edit_item(QSilas F. Miller, P13, Q10, Q6) # Race Description
+edit_item(QSilas F. Miller, P8, 1822-01-20, Q6) # Birth Date
+edit_item(QSilas F. Miller, P9, 1902-02-02, Q6) # Death Date
+edit_item(QSilas F. Miller, P10, KY, Q6) # State/Country of Birth
+edit_item(QSilas F. Miller, P26, Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Jefferson County, 3rd Ward Louisville, p. 87; "End Comes. Capt. Silas Miller Dies After Three Weeks' Illness," Louisville Courier-Journal, February 3, 1902, p. 1., Q6) # Citation
+edit_item(QSilas F. Miller, P24, http://discovery.civilwargovernors.org/document/N00008204, Q6)
+edit_item(QSilas F. Miller, P38, 'CWGK', Q6)
+edit_item(QSilas F. Miller, P32, http://172.104.209.93:8181/wiki/Silas_F._Miller, Q6)
+qcode = create_item(Aaron Owens, Aaron Owens)
+edit_item(QAaron Owens, P33, Q90, Q6) # instance_of human 
+edit_item(QAaron Owens, P29, Q6, Q6) # Publisher
+edit_item(QAaron Owens, P21, CWGK, Q6) # Publication
+edit_item(QAaron Owens, P28, Owens, Q6) # Surname
+edit_item(QAaron Owens, P30, Aaron, Q6) # Forename
+edit_item(QAaron Owens, P7, Q7, Q6) # Sex
+edit_item(QAaron Owens, P13, Q11, Q6) # Race Description
+edit_item(QAaron Owens, P8, c1800, Q6) # Birth Date
+edit_item(QAaron Owens, P10, KY, Q6) # State/Country of Birth
+edit_item(QAaron Owens, P26, Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Fleming County, District 2, p. 8., Q6) # Citation
+edit_item(QAaron Owens, P24, http://discovery.civilwargovernors.org/document/N00005052, Q6)
+edit_item(QAaron Owens, P38, 'CWGK', Q6)
+edit_item(QAaron Owens, P32, http://172.104.209.93:8181/wiki/Aaron_Owens, Q6)
+qcode = create_item(Nancy Allen, Nancy Allen)
+edit_item(QNancy Allen, P33, Q90, Q6) # instance_of human 
+edit_item(QNancy Allen, P29, Q6, Q6) # Publisher
+edit_item(QNancy Allen, P21, CWGK, Q6) # Publication
+edit_item(QNancy Allen, P28, Allen, Q6) # Surname
+edit_item(QNancy Allen, P30, Nancy, Q6) # Forename
+edit_item(QNancy Allen, P7, Q8, Q6) # Sex
+edit_item(QNancy Allen, P13, Q11, Q6) # Race Description
+edit_item(QNancy Allen, P26, KYR-0001-004-0024. , Q6) # Citation
+edit_item(QNancy Allen, P24, http://discovery.civilwargovernors.org/document/N00004815, Q6)
+edit_item(QNancy Allen, P38, 'CWGK', Q6)
+edit_item(QNancy Allen, P32, http://172.104.209.93:8181/wiki/Nancy_Allen, Q6)
+qcode = create_item(Nathaniel Oldham, Nathaniel Oldham)
+edit_item(QNathaniel Oldham, P33, Q90, Q6) # instance_of human 
+edit_item(QNathaniel Oldham, P29, Q6, Q6) # Publisher
+edit_item(QNathaniel Oldham, P21, CWGK, Q6) # Publication
+edit_item(QNathaniel Oldham, P28, Oldham, Q6) # Surname
+edit_item(QNathaniel Oldham, P30, Nathaniel, Q6) # Forename
+edit_item(QNathaniel Oldham, P7, Q7, Q6) # Sex
+edit_item(QNathaniel Oldham, P13, Q11, Q6) # Race Description
+edit_item(QNathaniel Oldham, P8, c1840, Q6) # Birth Date
+edit_item(QNathaniel Oldham, P10, KY, Q6) # State/Country of Birth
+edit_item(QNathaniel Oldham, P26, Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Mason County, Maysville, p. 79. , Q6) # Citation
+edit_item(QNathaniel Oldham, P24, http://discovery.civilwargovernors.org/document/N00002900, Q6)
+edit_item(QNathaniel Oldham, P38, 'CWGK', Q6)
+edit_item(QNathaniel Oldham, P32, http://172.104.209.93:8181/wiki/Nathaniel_Oldham, Q6)
+qcode = create_item(Tamar, Tamar)
+edit_item(QTamar, P33, Q90, Q6) # instance_of human 
+edit_item(QTamar, P29, Q6, Q6) # Publisher
+edit_item(QTamar, P21, CWGK, Q6) # Publication
+edit_item(QTamar, P30, Tamar, Q6) # Forename
+edit_item(QTamar, P7, Q8, Q6) # Sex
+edit_item(QTamar, P13, Q11, Q6) # Race Description
+edit_item(QTamar, P8, c1829, Q6) # Birth Date
+edit_item(QTamar, P26, J. Blaine Hudson, Fugitive Slaves and the Underground Railroad in Kentucky (Jefferson, NC: McFarland and Co, 2011), p. 134-135. Rev. Calvin Fairbank During Slavery Times: How He “Fought the Good Fight” to Prepare “The Way”; Edited from His Manuscript (Chicago, IL: R. R. McCabe & Co., 1890), p. 85-92., Q6) # Citation
+edit_item(QTamar, P24, http://discovery.civilwargovernors.org/document/N00007016, Q6)
+edit_item(QTamar, P38, 'CWGK', Q6)
+edit_item(QTamar, P32, http://172.104.209.93:8181/wiki/Tamar, Q6)
+qcode = create_item(James Speed, James Speed)
+edit_item(QJames Speed, P33, Q90, Q6) # instance_of human 
+edit_item(QJames Speed, P29, Q6, Q6) # Publisher
+edit_item(QJames Speed, P21, CWGK, Q6) # Publication
+edit_item(QJames Speed, P28, Speed, Q6) # Surname
+edit_item(QJames Speed, P30, James, Q6) # Forename
+edit_item(QJames Speed, P6, 69916027, Q6) # SNAC ID
+edit_item(QJames Speed, P7, Q7, Q6) # Sex
+edit_item(QJames Speed, P13, Q10, Q6) # Race Description
+edit_item(QJames Speed, P8, 1812-03-11, Q6) # Birth Date
+edit_item(QJames Speed, P9, 1887-06-25, Q6) # Death Date
+edit_item(QJames Speed, P10, KY, Q6) # State/Country of Birth
+edit_item(QJames Speed, P26, James J. Holmberg, "James Speed" in John E. Kleber, ed., The Encyclopedia of Louisville (Lexington: University Press of Kentucky, 2001), 842., Q6) # Citation
+edit_item(QJames Speed, P24, http://discovery.civilwargovernors.org/document/N00000205, Q6)
+edit_item(QJames Speed, P38, 'CWGK', Q6)
+edit_item(QJames Speed, P32, http://172.104.209.93:8181/wiki/James_Speed, Q6)
+qcode = create_item(Calvin Fairbank, Calvin Fairbank)
+edit_item(QCalvin Fairbank, P33, Q90, Q6) # instance_of human 
+edit_item(QCalvin Fairbank, P29, Q6, Q6) # Publisher
+edit_item(QCalvin Fairbank, P21, CWGK, Q6) # Publication
+edit_item(QCalvin Fairbank, P28, Fairbank, Q6) # Surname
+edit_item(QCalvin Fairbank, P30, Calvin, Q6) # Forename
+edit_item(QCalvin Fairbank, P6, 32463144, Q6) # SNAC ID
+edit_item(QCalvin Fairbank, P7, Q7, Q6) # Sex
+edit_item(QCalvin Fairbank, P13, Q10, Q6) # Race Description
+edit_item(QCalvin Fairbank, P8, 1816-11-03, Q6) # Birth Date
+edit_item(QCalvin Fairbank, P9, 1898-10-12, Q6) # Death Date
+edit_item(QCalvin Fairbank, P10, NY, Q6) # State/Country of Birth
+edit_item(QCalvin Fairbank, P26, Calvin Fairbank, Rev. Calvin Fairbank During Slavery Times: How he “Fought the Good Fight” to Prepare “The Way” (Chicago: R. R. McCabe & Co., 1890). Randolph Paul Runyon, Delia Webster and the Underground Railroad (Lexington: University of Kentucky Press, 1998). , Q6) # Citation
+edit_item(QCalvin Fairbank, P24, http://discovery.civilwargovernors.org/document/N00000267, Q6)
+edit_item(QCalvin Fairbank, P38, 'CWGK', Q6)
+edit_item(QCalvin Fairbank, P32, http://172.104.209.93:8181/wiki/Calvin_Fairbank, Q6)
+qcode = create_item(Harriet E. Smith, Harriet E. Smith)
+edit_item(QHarriet E. Smith, P33, Q90, Q6) # instance_of human 
+edit_item(QHarriet E. Smith, P29, Q6, Q6) # Publisher
+edit_item(QHarriet E. Smith, P21, RKHS, Q6) # Publication
+edit_item(QHarriet E. Smith, P14, 112, Q6) # Volume
+edit_item(QHarriet E. Smith, P20, 3, Q6) # Book
+edit_item(QHarriet E. Smith, P16, 352, Q6) # Page
+edit_item(QHarriet E. Smith, P22, 2, Q6) # Note
+edit_item(QHarriet E. Smith, P28, Smith, Q6) # Surname
+edit_item(QHarriet E. Smith, P30, Harriet, Q6) # Forename
+edit_item(QHarriet E. Smith, P30, E., Q6) # Middle Name/Initial
+edit_item(QHarriet E. Smith, P7, Q8, Q6) # Sex
+edit_item(QHarriet E. Smith, P26, Nancy Disher Baird, ed., Josie Underwood’s Civil War Diary (Lexington, Ky., 2009), 121, 195, 197. U.S. census, 1860, Population Schedules, Warren County, Kentucky., Q6) # Citation
+edit_item(QHarriet E. Smith, P38, 'RKHS, Volume 112, Book 3, Page 352, Note 2', Q6)
+edit_item(QHarriet E. Smith, P32, http://172.104.209.93:8181/wiki/Harriet_E._Smith, Q6)
+qcode = create_item(Benjamin Helm Bristow, Benjamin Helm Bristow)
+edit_item(QBenjamin Helm Bristow, P33, Q90, Q6) # instance_of human 
+edit_item(QBenjamin Helm Bristow, P29, Q6, Q6) # Publisher
+edit_item(QBenjamin Helm Bristow, P21, RKHS, Q6) # Publication
+edit_item(QBenjamin Helm Bristow, P14, 112, Q6) # Volume
+edit_item(QBenjamin Helm Bristow, P20, 3, Q6) # Book
+edit_item(QBenjamin Helm Bristow, P16, 352-53, Q6) # Page
+edit_item(QBenjamin Helm Bristow, P22, 4, Q6) # Note
+edit_item(QBenjamin Helm Bristow, P28, Bristow, Q6) # Surname
+edit_item(QBenjamin Helm Bristow, P30, Benjamin, Q6) # Forename
+edit_item(QBenjamin Helm Bristow, P30, Helm, Q6) # Middle Name/Initial
+edit_item(QBenjamin Helm Bristow, P7, Q7, Q6) # Sex
+edit_item(QBenjamin Helm Bristow, P8, 1832, Q6) # Birth Date
+edit_item(QBenjamin Helm Bristow, P9, 1896, Q6) # Death Date
+edit_item(QBenjamin Helm Bristow, P26, On Bristow see Ross A. Webb, Benjamin Helm Bristow: Border State Politician (Lexington, Ky., 1969)., Q6) # Citation
+edit_item(QBenjamin Helm Bristow, P38, 'RKHS, Volume 112, Book 3, Page 352-53, Note 4', Q6)
+edit_item(QBenjamin Helm Bristow, P32, http://172.104.209.93:8181/wiki/Benjamin_Helm_Bristow, Q6)
+qcode = create_item(Emma Etheridge, Emma Etheridge)
+edit_item(QEmma Etheridge, P33, Q90, Q6) # instance_of human 
+edit_item(QEmma Etheridge, P29, Q6, Q6) # Publisher
+edit_item(QEmma Etheridge, P21, RKHS, Q6) # Publication
+edit_item(QEmma Etheridge, P14, 112, Q6) # Volume
+edit_item(QEmma Etheridge, P20, 3, Q6) # Book
+edit_item(QEmma Etheridge, P16, 353, Q6) # Page
+edit_item(QEmma Etheridge, P22, 6, Q6) # Note
+edit_item(QEmma Etheridge, P28, Etheridge, Q6) # Surname
+edit_item(QEmma Etheridge, P30, Emma, Q6) # Forename
+edit_item(QEmma Etheridge, P7, Q8, Q6) # Sex
+edit_item(QEmma Etheridge, P26, Baird, ed., Josie Underwood’s Civil War Diary, 124, 182–85, 187. See also note from August 29, 1863, entry., Q6) # Citation
+edit_item(QEmma Etheridge, P38, 'RKHS, Volume 112, Book 3, Page 353, Note 6', Q6)
+edit_item(QEmma Etheridge, P32, http://172.104.209.93:8181/wiki/Emma_Etheridge, Q6)
+qcode = create_item(Eliza Henry Obear, Eliza Henry Obear)
+edit_item(QEliza Henry Obear, P33, Q90, Q6) # instance_of human 
+edit_item(QEliza Henry Obear, P29, Q6, Q6) # Publisher
+edit_item(QEliza Henry Obear, P21, RKHS, Q6) # Publication
+edit_item(QEliza Henry Obear, P14, 112, Q6) # Volume
+edit_item(QEliza Henry Obear, P20, 3, Q6) # Book
+edit_item(QEliza Henry Obear, P16, 353, Q6) # Page
+edit_item(QEliza Henry Obear, P22, 7, Q6) # Note
+edit_item(QEliza Henry Obear, P28, Obear, Q6) # Surname
+edit_item(QEliza Henry Obear, P30, Eliza, Q6) # Forename
+edit_item(QEliza Henry Obear, P30, Henry, Q6) # Middle Name/Initial
+edit_item(QEliza Henry Obear, P19, Hassie, Q6) # Alternate Name
+edit_item(QEliza Henry Obear, P7, Q8, Q6) # Sex
+edit_item(QEliza Henry Obear, P26, John Flournoy Henry, A History of the Henry Family: From its Beginnings in this Country to the Present Time (Louisville, 1900), 78–79., Q6) # Citation
+edit_item(QEliza Henry Obear, P38, 'RKHS, Volume 112, Book 3, Page 353, Note 7', Q6)
+edit_item(QEliza Henry Obear, P32, http://172.104.209.93:8181/wiki/Eliza_Henry_Obear, Q6)
+qcode = create_item(Warner Underwood, Warner Underwood)
+edit_item(QWarner Underwood, P33, Q90, Q6) # instance_of human 
+edit_item(QWarner Underwood, P29, Q6, Q6) # Publisher
+edit_item(QWarner Underwood, P21, RKHS, Q6) # Publication
+edit_item(QWarner Underwood, P14, 112, Q6) # Volume
+edit_item(QWarner Underwood, P20, 3, Q6) # Book
+edit_item(QWarner Underwood, P16, 354, Q6) # Page
+edit_item(QWarner Underwood, P22, 9, Q6) # Note
+edit_item(QWarner Underwood, P28, Underwood, Q6) # Surname
+edit_item(QWarner Underwood, P30, Warner, Q6) # Forename
+edit_item(QWarner Underwood, P7, Q7, Q6) # Sex
+edit_item(QWarner Underwood, P26, See Report of Brigadier General Jeremiah T. Boyle, Eleventh Brigade, Army of the Ohio, Official Records of the Union and Confederate Armies, 128 vols. (Washington, D.C., 1880–1901), ser. 1, vol. 19, pt. 1, p. 358 (hereafter OR, series, volume, part, page); Baird, ed., Josie Underwood’s Civil War Diary, 177–78., Q6) # Citation
+edit_item(QWarner Underwood, P38, 'RKHS, Volume 112, Book 3, Page 354, Note 9', Q6)
+edit_item(QWarner Underwood, P32, http://172.104.209.93:8181/wiki/Warner_Underwood, Q6)
+qcode = create_item(Jacob Henry Counselman, Jacob Henry Counselman)
+edit_item(QJacob Henry Counselman, P33, Q90, Q6) # instance_of human 
+edit_item(QJacob Henry Counselman, P29, Q6, Q6) # Publisher
+edit_item(QJacob Henry Counselman, P21, RKHS, Q6) # Publication
+edit_item(QJacob Henry Counselman, P14, 112, Q6) # Volume
+edit_item(QJacob Henry Counselman, P20, 3, Q6) # Book
+edit_item(QJacob Henry Counselman, P16, 354, Q6) # Page
+edit_item(QJacob Henry Counselman, P22, 10, Q6) # Note
+edit_item(QJacob Henry Counselman, P28, Counselman, Q6) # Surname
+edit_item(QJacob Henry Counselman, P30, Jacob, Q6) # Forename
+edit_item(QJacob Henry Counselman, P30, Henry, Q6) # Middle Name/Initial
+edit_item(QJacob Henry Counselman, P7, Q7, Q6) # Sex
+edit_item(QJacob Henry Counselman, P26, George W. Cullum, ed., Biographical Register of the Officers and Graduates of the U.S. Military Academy, rev. ed. (New York, 1891), 3:8., Q6) # Citation
+edit_item(QJacob Henry Counselman, P38, 'RKHS, Volume 112, Book 3, Page 354, Note 10', Q6)
+edit_item(QJacob Henry Counselman, P32, http://172.104.209.93:8181/wiki/Jacob_Henry_Counselman, Q6)
+qcode = create_item(Agnes Salm-Salm, Agnes Salm-Salm)
+edit_item(QAgnes Salm-Salm, P33, Q90, Q6) # instance_of human 
+edit_item(QAgnes Salm-Salm, P29, Q6, Q6) # Publisher
+edit_item(QAgnes Salm-Salm, P21, RKHS, Q6) # Publication
+edit_item(QAgnes Salm-Salm, P14, 112, Q6) # Volume
+edit_item(QAgnes Salm-Salm, P20, 3, Q6) # Book
+edit_item(QAgnes Salm-Salm, P16, 355, Q6) # Page
+edit_item(QAgnes Salm-Salm, P22, 12, Q6) # Note
+edit_item(QAgnes Salm-Salm, P28, Salm-Salm, Q6) # Surname
+edit_item(QAgnes Salm-Salm, P30, Agnes, Q6) # Forename
+edit_item(QAgnes Salm-Salm, P7, Q8, Q6) # Sex
+edit_item(QAgnes Salm-Salm, P8, 1844, Q6) # Birth Date
+edit_item(QAgnes Salm-Salm, P9, 1912, Q6) # Death Date
+edit_item(QAgnes Salm-Salm, P26, John H. Eicher and David J. Eicher, Civil War High Commands (Stanford, Cal., 2001), 468–69; David Coffey, Soldier Princess: The Life and Legend of Agnes Salm-Salm in North America, 1861–1867 (College Station, Tex., 2002)., Q6) # Citation
+edit_item(QAgnes Salm-Salm, P38, 'RKHS, Volume 112, Book 3, Page 355, Note 12', Q6)
+edit_item(QAgnes Salm-Salm, P32, http://172.104.209.93:8181/wiki/Agnes_Salm-Salm, Q6)
+qcode = create_item(Patrick McGuiggan, Patrick McGuiggan)
+edit_item(QPatrick McGuiggan, P33, Q90, Q6) # instance_of human 
+edit_item(QPatrick McGuiggan, P29, Q6, Q6) # Publisher
+edit_item(QPatrick McGuiggan, P21, RKHS, Q6) # Publication
+edit_item(QPatrick McGuiggan, P14, 112, Q6) # Volume
+edit_item(QPatrick McGuiggan, P20, 3, Q6) # Book
+edit_item(QPatrick McGuiggan, P16, 356, Q6) # Page
+edit_item(QPatrick McGuiggan, P22, 16, Q6) # Note
+edit_item(QPatrick McGuiggan, P28, McGuiggan, Q6) # Surname
+edit_item(QPatrick McGuiggan, P30, Patrick, Q6) # Forename
+edit_item(QPatrick McGuiggan, P7, Q7, Q6) # Sex
+edit_item(QPatrick McGuiggan, P26, William Henry Flayhart III, “The Inman Steamship Company Limited: Innovation and Competition on the North Atlantic, 1850–1886,” Northern Mariner/Le marin du nord 12 (Oct. 2002): 29–46., Q6) # Citation
+edit_item(QPatrick McGuiggan, P38, 'RKHS, Volume 112, Book 3, Page 356, Note 16', Q6)
+edit_item(QPatrick McGuiggan, P32, http://172.104.209.93:8181/wiki/Patrick_McGuiggan, Q6)
+qcode = create_item(Othniel Charles Marsh, Othniel Charles Marsh)
+edit_item(QOthniel Charles Marsh, P33, Q90, Q6) # instance_of human 
+edit_item(QOthniel Charles Marsh, P29, Q6, Q6) # Publisher
+edit_item(QOthniel Charles Marsh, P21, RKHS, Q6) # Publication
+edit_item(QOthniel Charles Marsh, P14, 112, Q6) # Volume
+edit_item(QOthniel Charles Marsh, P20, 3, Q6) # Book
+edit_item(QOthniel Charles Marsh, P16, 356, Q6) # Page
+edit_item(QOthniel Charles Marsh, P22, 17, Q6) # Note
+edit_item(QOthniel Charles Marsh, P28, Marsh, Q6) # Surname
+edit_item(QOthniel Charles Marsh, P30, Othniel, Q6) # Forename
+edit_item(QOthniel Charles Marsh, P30, Charles, Q6) # Middle Name/Initial
+edit_item(QOthniel Charles Marsh, P7, Q7, Q6) # Sex
+edit_item(QOthniel Charles Marsh, P8, 1831, Q6) # Birth Date
+edit_item(QOthniel Charles Marsh, P9, 1899, Q6) # Death Date
+edit_item(QOthniel Charles Marsh, P26, Mark Jaffe, The Gilded Dinosaur: The Fossil War Between E. D. Cope and O. C. Marsh and the Rise of American Science (New York, 2000)., Q6) # Citation
+edit_item(QOthniel Charles Marsh, P38, 'RKHS, Volume 112, Book 3, Page 356, Note 17', Q6)
+edit_item(QOthniel Charles Marsh, P32, http://172.104.209.93:8181/wiki/Othniel_Charles_Marsh, Q6)
+qcode = create_item(Thomas Haines Dudley, Thomas Haines Dudley)
+edit_item(QThomas Haines Dudley, P33, Q90, Q6) # instance_of human 
+edit_item(QThomas Haines Dudley, P29, Q6, Q6) # Publisher
+edit_item(QThomas Haines Dudley, P21, RKHS, Q6) # Publication
+edit_item(QThomas Haines Dudley, P14, 112, Q6) # Volume
+edit_item(QThomas Haines Dudley, P20, 3, Q6) # Book
+edit_item(QThomas Haines Dudley, P16, 357, Q6) # Page
+edit_item(QThomas Haines Dudley, P22, 19, Q6) # Note
+edit_item(QThomas Haines Dudley, P28, Dudley, Q6) # Surname
+edit_item(QThomas Haines Dudley, P30, Thomas, Q6) # Forename
+edit_item(QThomas Haines Dudley, P30, Haines, Q6) # Middle Name/Initial
+edit_item(QThomas Haines Dudley, P7, Q7, Q6) # Sex
+edit_item(QThomas Haines Dudley, P8, 1819, Q6) # Birth Date
+edit_item(QThomas Haines Dudley, P9, 1893, Q6) # Death Date
+edit_item(QThomas Haines Dudley, P26, Coy F. Cross, Lincoln’s Man in Liverpool: Consul Dudley and the Legal Battle to Stop Confederate Shipbuilding (Dekalb, Ill., 2007); David Hepburn Milton, Lincoln’s Spymaster: Thomas Haines Dudley and the Liverpool Network (Mechanicsburg, Penn., 2003)., Q6) # Citation
+edit_item(QThomas Haines Dudley, P38, 'RKHS, Volume 112, Book 3, Page 357, Note 19', Q6)
+edit_item(QThomas Haines Dudley, P32, http://172.104.209.93:8181/wiki/Thomas_Haines_Dudley, Q6)
+qcode = create_item(Emmaline Dudley, Emmaline Dudley)
+edit_item(QEmmaline Dudley, P33, Q90, Q6) # instance_of human 
+edit_item(QEmmaline Dudley, P29, Q6, Q6) # Publisher
+edit_item(QEmmaline Dudley, P21, RKHS, Q6) # Publication
+edit_item(QEmmaline Dudley, P14, 112, Q6) # Volume
+edit_item(QEmmaline Dudley, P20, 3, Q6) # Book
+edit_item(QEmmaline Dudley, P16, 357, Q6) # Page
+edit_item(QEmmaline Dudley, P22, 20, Q6) # Note
+edit_item(QEmmaline Dudley, P28, Dudley, Q6) # Surname
+edit_item(QEmmaline Dudley, P30, Emmaline, Q6) # Forename
+edit_item(QEmmaline Dudley, P19, Matlack, Q6) # Alternate Name
+edit_item(QEmmaline Dudley, P7, Q8, Q6) # Sex
+edit_item(QEmmaline Dudley, P8, 1818, Q6) # Birth Date
+edit_item(QEmmaline Dudley, P9, 1884, Q6) # Death Date
+edit_item(QEmmaline Dudley, P26, William John Potts, Biographical Sketch of the Late Hon. Thomas H. Dudley (n.p., 1893), 7., Q6) # Citation
+edit_item(QEmmaline Dudley, P38, 'RKHS, Volume 112, Book 3, Page 357, Note 20', Q6)
+edit_item(QEmmaline Dudley, P32, http://172.104.209.93:8181/wiki/Emmaline_Dudley, Q6)
+qcode = create_item(Arnold Gabriel, Arnold Gabriel)
+edit_item(QArnold Gabriel, P33, Q90, Q6) # instance_of human 
+edit_item(QArnold Gabriel, P29, Q6, Q6) # Publisher
+edit_item(QArnold Gabriel, P21, RKHS, Q6) # Publication
+edit_item(QArnold Gabriel, P14, 112, Q6) # Volume
+edit_item(QArnold Gabriel, P20, 3, Q6) # Book
+edit_item(QArnold Gabriel, P16, 358, Q6) # Page
+edit_item(QArnold Gabriel, P22, 24, Q6) # Note
+edit_item(QArnold Gabriel, P28, Gabriel, Q6) # Surname
+edit_item(QArnold Gabriel, P30, Arnold, Q6) # Forename
+edit_item(QArnold Gabriel, P7, Q7, Q6) # Sex
+edit_item(QArnold Gabriel, P10, Q88, Q6) # State/Country of Birth
+edit_item(QArnold Gabriel, P26, Census Returns of England and Wales, 1861, Lancashire, Liverpool, St. Thomas, district 12., Q6) # Citation
+edit_item(QArnold Gabriel, P38, 'RKHS, Volume 112, Book 3, Page 358, Note 24', Q6)
+edit_item(QArnold Gabriel, P32, http://172.104.209.93:8181/wiki/Arnold_Gabriel, Q6)
+qcode = create_item(Simon Cameron, Simon Cameron)
+edit_item(QSimon Cameron, P33, Q90, Q6) # instance_of human 
+edit_item(QSimon Cameron, P29, Q6, Q6) # Publisher
+edit_item(QSimon Cameron, P21, RKHS, Q6) # Publication
+edit_item(QSimon Cameron, P14, 112, Q6) # Volume
+edit_item(QSimon Cameron, P20, 3, Q6) # Book
+edit_item(QSimon Cameron, P16, 359, Q6) # Page
+edit_item(QSimon Cameron, P22, 28, Q6) # Note
+edit_item(QSimon Cameron, P28, Cameron, Q6) # Surname
+edit_item(QSimon Cameron, P30, Simon, Q6) # Forename
+edit_item(QSimon Cameron, P7, Q7, Q6) # Sex
+edit_item(QSimon Cameron, P8, 1799, Q6) # Birth Date
+edit_item(QSimon Cameron, P9, 1889, Q6) # Death Date
+edit_item(QSimon Cameron, P26, Erwin S. Bradley, Simon Cameron: Lincoln’s Secretary of War (Philadelphia, 1966)., Q6) # Citation
+edit_item(QSimon Cameron, P38, 'RKHS, Volume 112, Book 3, Page 359, Note 28', Q6)
+edit_item(QSimon Cameron, P32, http://172.104.209.93:8181/wiki/Simon_Cameron, Q6)
+qcode = create_item(James Smith, James Smith)
+edit_item(QJames Smith, P33, Q90, Q6) # instance_of human 
+edit_item(QJames Smith, P29, Q6, Q6) # Publisher
+edit_item(QJames Smith, P21, RKHS, Q6) # Publication
+edit_item(QJames Smith, P14, 112, Q6) # Volume
+edit_item(QJames Smith, P20, 3, Q6) # Book
+edit_item(QJames Smith, P16, 363-34, Q6) # Page
+edit_item(QJames Smith, P22, 37, Q6) # Note
+edit_item(QJames Smith, P28, Smith, Q6) # Surname
+edit_item(QJames Smith, P30, James, Q6) # Forename
+edit_item(QJames Smith, P7, Q7, Q6) # Sex
+edit_item(QJames Smith, P8, 1798, Q6) # Birth Date
+edit_item(QJames Smith, P9, 1871, Q6) # Death Date
+edit_item(QJames Smith, P26, Robert J. Havlik, “Abraham Lincoln and the Reverend Dr. James Smith: Lincoln’s Presbyterian Experience in Springfield,” Journal of the Illinois State Historical Society 99 (1999): 228–29., Q6) # Citation
+edit_item(QJames Smith, P38, 'RKHS, Volume 112, Book 3, Page 363-34, Note 37', Q6)
+edit_item(QJames Smith, P32, http://172.104.209.93:8181/wiki/James_Smith, Q6)
+qcode = create_item(John Clark, John Clark)
+edit_item(QJohn Clark, P33, Q90, Q6) # instance_of human 
+edit_item(QJohn Clark, P29, Q6, Q6) # Publisher
+edit_item(QJohn Clark, P21, RKHS, Q6) # Publication
+edit_item(QJohn Clark, P14, 112, Q6) # Volume
+edit_item(QJohn Clark, P20, 3, Q6) # Book
+edit_item(QJohn Clark, P16, 365, Q6) # Page
+edit_item(QJohn Clark, P22, 40, Q6) # Note
+edit_item(QJohn Clark, P28, Clark, Q6) # Surname
+edit_item(QJohn Clark, P30, John, Q6) # Forename
+edit_item(QJohn Clark, P7, Q7, Q6) # Sex
+edit_item(QJohn Clark, P8, 1827, Q6) # Birth Date
+edit_item(QJohn Clark, P9, 1889, Q6) # Death Date
+edit_item(QJohn Clark, P26, Records of the Clark & Co Ltd, thread manufacturers, Paisley, Renfrewshire, Scotland, University of Glasgow Archives, Glasgow, Scotland., Q6) # Citation
+edit_item(QJohn Clark, P38, 'RKHS, Volume 112, Book 3, Page 365, Note 40', Q6)
+edit_item(QJohn Clark, P32, http://172.104.209.93:8181/wiki/John_Clark, Q6)
+qcode = create_item(Frances Stoddard, Frances Stoddard)
+edit_item(QFrances Stoddard, P33, Q90, Q6) # instance_of human 
+edit_item(QFrances Stoddard, P29, Q6, Q6) # Publisher
+edit_item(QFrances Stoddard, P21, RKHS, Q6) # Publication
+edit_item(QFrances Stoddard, P14, 112, Q6) # Volume
+edit_item(QFrances Stoddard, P20, 3, Q6) # Book
+edit_item(QFrances Stoddard, P16, 371, Q6) # Page
+edit_item(QFrances Stoddard, P22, 58, Q6) # Note
+edit_item(QFrances Stoddard, P28, Stoddard, Q6) # Surname
+edit_item(QFrances Stoddard, P30, Frances, Q6) # Forename
+edit_item(QFrances Stoddard, P7, Q8, Q6) # Sex
+edit_item(QFrances Stoddard, P10, MA, Q6) # State/Country of Birth
+edit_item(QFrances Stoddard, P26, The A. F. Stoddard & Company papers are currently housed in the special collections department, University of Glasgow. On A. F. Stoddard & Co. and other carpet manufacturers in Britain, see J. N. Bartlett, Carpeting the Millions: The Growth of Britain’s Carpet Industry (Edinburgh, 1978)., Q6) # Citation
+edit_item(QFrances Stoddard, P38, 'RKHS, Volume 112, Book 3, Page 371, Note 58', Q6)
+edit_item(QFrances Stoddard, P32, http://172.104.209.93:8181/wiki/Frances_Stoddard, Q6)
+qcode = create_item(Catherine, Catherine)
+edit_item(QCatherine, P33, Q90, Q6) # instance_of human 
+edit_item(QCatherine, P29, Q6, Q6) # Publisher
+edit_item(QCatherine, P21, RKHS, Q6) # Publication
+edit_item(QCatherine, P14, 112, Q6) # Volume
+edit_item(QCatherine, P20, 3, Q6) # Book
+edit_item(QCatherine, P16, 383, Q6) # Page
+edit_item(QCatherine, P22, 84, Q6) # Note
+edit_item(QCatherine, P30, Catherine, Q6) # Forename
+edit_item(QCatherine, P7, Q8, Q6) # Sex
+edit_item(QCatherine, P38, 'RKHS, Volume 112, Book 3, Page 383, Note 84', Q6)
+edit_item(QCatherine, P32, http://172.104.209.93:8181/wiki/Catherine, Q6)
+qcode = create_item(The Prince of Wales Albert Edward, The Prince of Wales Albert Edward)
+edit_item(QThe Prince of Wales Albert Edward, P33, Q90, Q6) # instance_of human 
+edit_item(QThe Prince of Wales Albert Edward, P29, Q6, Q6) # Publisher
+edit_item(QThe Prince of Wales Albert Edward, P21, RKHS, Q6) # Publication
+edit_item(QThe Prince of Wales Albert Edward, P14, 112, Q6) # Volume
+edit_item(QThe Prince of Wales Albert Edward, P20, 3, Q6) # Book
+edit_item(QThe Prince of Wales Albert Edward, P16, 386, Q6) # Page
+edit_item(QThe Prince of Wales Albert Edward, P22, 87, Q6) # Note
+edit_item(QThe Prince of Wales Albert Edward, P30, Albert, Q6) # Forename
+edit_item(QThe Prince of Wales Albert Edward, P30, Edward, Q6) # Middle Name/Initial
+edit_item(QThe Prince of Wales Albert Edward, P19, Prince of Wales; Edward VII, Q6) # Alternate Name
+edit_item(QThe Prince of Wales Albert Edward, P7, Q7, Q6) # Sex
+edit_item(QThe Prince of Wales Albert Edward, P8, 1841, Q6) # Birth Date
+edit_item(QThe Prince of Wales Albert Edward, P9, 1910, Q6) # Death Date
+edit_item(QThe Prince of Wales Albert Edward, P26, Jane Ridley, Bertie: A Life of Edward VII (London, 2012)., Q6) # Citation
+edit_item(QThe Prince of Wales Albert Edward, P38, 'RKHS, Volume 112, Book 3, Page 386, Note 87', Q6)
+edit_item(QThe Prince of Wales Albert Edward, P32, http://172.104.209.93:8181/wiki/The_Prince_of_Wales_Albert_Edward, Q6)
+qcode = create_item(Peter Clouston, Peter Clouston)
+edit_item(QPeter Clouston, P33, Q90, Q6) # instance_of human 
+edit_item(QPeter Clouston, P29, Q6, Q6) # Publisher
+edit_item(QPeter Clouston, P21, RKHS, Q6) # Publication
+edit_item(QPeter Clouston, P14, 112, Q6) # Volume
+edit_item(QPeter Clouston, P20, 3, Q6) # Book
+edit_item(QPeter Clouston, P16, 386, Q6) # Page
+edit_item(QPeter Clouston, P22, 88, Q6) # Note
+edit_item(QPeter Clouston, P28, Clouston, Q6) # Surname
+edit_item(QPeter Clouston, P30, Peter, Q6) # Forename
+edit_item(QPeter Clouston, P19, Lord Provost of Glasgow, Q6) # Alternate Name
+edit_item(QPeter Clouston, P7, Q7, Q6) # Sex
+edit_item(QPeter Clouston, P10, Q89, Q6) # State/Country of Birth
+edit_item(QPeter Clouston, P26, For more information on the lord provost’s role in Scottish local government see Irene Maver, “The Scottish Provost Since 1800: Tradition, Continuity, and Change in the Leadership of ‘Local Self-Government,’” in Heads of the Local State: Mayors, Provosts and Burgomasters since 1800, ed. John Garrard (Burlington, Vt., 2007), 29–46; Irene Maver, “Glasgow’s Civic Government,” in Glasgow, vol. 2: 1830–1912, ed. W. Hamish Fraser and Irene Maver (New York, 1996), 441–85. For a biographical sketch of Clouston see John Tweed, The Lord Provosts of Glasgow from 1833 to 1902: Biographical Sketches, with a Chronological Record of the Chief Events of the City’s History during that Period (Glasgow, 1902), 214–19., Q6) # Citation
+edit_item(QPeter Clouston, P38, 'RKHS, Volume 112, Book 3, Page 386, Note 88', Q6)
+edit_item(QPeter Clouston, P32, http://172.104.209.93:8181/wiki/Peter_Clouston, Q6)
+qcode = create_item(Peter Coats, Peter Coats)
+edit_item(QPeter Coats, P33, Q90, Q6) # instance_of human 
+edit_item(QPeter Coats, P29, Q6, Q6) # Publisher
+edit_item(QPeter Coats, P21, RKHS, Q6) # Publication
+edit_item(QPeter Coats, P14, 112, Q6) # Volume
+edit_item(QPeter Coats, P20, 3, Q6) # Book
+edit_item(QPeter Coats, P16, 389, Q6) # Page
+edit_item(QPeter Coats, P22, 92, Q6) # Note
+edit_item(QPeter Coats, P28, Coats, Q6) # Surname
+edit_item(QPeter Coats, P30, Peter, Q6) # Forename
+edit_item(QPeter Coats, P7, Q7, Q6) # Sex
+edit_item(QPeter Coats, P8, 1808, Q6) # Birth Date
+edit_item(QPeter Coats, P9, 1890, Q6) # Death Date
+edit_item(QPeter Coats, P26, On the company see Dong-Woon Kim, “From a Family Partnership to a Corporate Company: J. & P. Coats, Thread Manufacturers,” Textile History 25 (1994): 185–225; A. K. Cairncross and J. B. K. Hunter, “The Early Growth of J. & P. Coats, 1830–83,” Business History 29 (1987): 157–77., Q6) # Citation
+edit_item(QPeter Coats, P38, 'RKHS, Volume 112, Book 3, Page 389, Note 92', Q6)
+edit_item(QPeter Coats, P32, http://172.104.209.93:8181/wiki/Peter_Coats, Q6)
+qcode = create_item(Henry John Temple, Henry John Temple)
+edit_item(QHenry John Temple, P33, Q90, Q6) # instance_of human 
+edit_item(QHenry John Temple, P29, Q6, Q6) # Publisher
+edit_item(QHenry John Temple, P21, RKHS, Q6) # Publication
+edit_item(QHenry John Temple, P14, 112, Q6) # Volume
+edit_item(QHenry John Temple, P20, 3, Q6) # Book
+edit_item(QHenry John Temple, P16, 390, Q6) # Page
+edit_item(QHenry John Temple, P22, 95, Q6) # Note
+edit_item(QHenry John Temple, P28, Temple, Q6) # Surname
+edit_item(QHenry John Temple, P30, Henry, Q6) # Forename
+edit_item(QHenry John Temple, P30, John, Q6) # Middle Name/Initial
+edit_item(QHenry John Temple, P19, Lord Palmerston, Q6) # Alternate Name
+edit_item(QHenry John Temple, P7, Q7, Q6) # Sex
+edit_item(QHenry John Temple, P8, 1784, Q6) # Birth Date
+edit_item(QHenry John Temple, P9, 1865, Q6) # Death Date
+edit_item(QHenry John Temple, P26, David Brown, Palmerston (New York, 2010); Glasgow Herald, February 23, 1863, 4 (quotation). , Q6) # Citation
+edit_item(QHenry John Temple, P38, 'RKHS, Volume 112, Book 3, Page 390, Note 95', Q6)
+edit_item(QHenry John Temple, P32, http://172.104.209.93:8181/wiki/Henry_John_Temple, Q6)
+qcode = create_item(Francis M. Hinckley, Francis M. Hinckley)
+edit_item(QFrancis M. Hinckley, P33, Q90, Q6) # instance_of human 
+edit_item(QFrancis M. Hinckley, P29, Q6, Q6) # Publisher
+edit_item(QFrancis M. Hinckley, P21, RKHS, Q6) # Publication
+edit_item(QFrancis M. Hinckley, P14, 112, Q6) # Volume
+edit_item(QFrancis M. Hinckley, P20, 3, Q6) # Book
+edit_item(QFrancis M. Hinckley, P16, 391, Q6) # Page
+edit_item(QFrancis M. Hinckley, P22, 96, Q6) # Note
+edit_item(QFrancis M. Hinckley, P28, Hinckley, Q6) # Surname
+edit_item(QFrancis M. Hinckley, P30, Francis, Q6) # Forename
+edit_item(QFrancis M. Hinckley, P30, M., Q6) # Middle Name/Initial
+edit_item(QFrancis M. Hinckley, P7, Q7, Q6) # Sex
+edit_item(QFrancis M. Hinckley, P10, MA, Q6) # State/Country of Birth
+edit_item(QFrancis M. Hinckley, P26, See Francis William Sprague, Barnstable and Yarmouth Sea Captains and Ship Owners (Brookline, Mass., 1913), 30; “Report of Lieutenant Maffitt, C.S. Navy, Commanding C.S.S. Florida, of the Cruise and Captures by that Vessel from March to May, 1863,” ORN, ser. 1, vol. 2, 648–50; “Extracts from the Journal of Lieutenant John N. Maffitt, C.S. Navy, Commanding the C.S.S. Florida, January 13–April 30, 1864,” ibid., 671; “Abstract Log of the C.S.S. Florida, Lieutenant J. N. Maffitt, C.S. Navy, January 16 to May 31, 1863,” ibid., 676; Emma Martin Maffitt, The Life and Services of John Newland Maffitt (New York and Washington, 1906), 279–80; Frank L. Owsley Jr., The C.S.S. Florida: Her Building and Operations (1965; repr., Tuscaloosa, Ala., 1987)., Q6) # Citation
+edit_item(QFrancis M. Hinckley, P38, 'RKHS, Volume 112, Book 3, Page 391, Note 96', Q6)
+edit_item(QFrancis M. Hinckley, P32, http://172.104.209.93:8181/wiki/Francis_M._Hinckley, Q6)
+qcode = create_item(William Wallace Western, William Wallace Western)
+edit_item(QWilliam Wallace Western, P33, Q90, Q6) # instance_of human 
+edit_item(QWilliam Wallace Western, P29, Q6, Q6) # Publisher
+edit_item(QWilliam Wallace Western, P21, RKHS, Q6) # Publication
+edit_item(QWilliam Wallace Western, P14, 112, Q6) # Volume
+edit_item(QWilliam Wallace Western, P20, 3, Q6) # Book
+edit_item(QWilliam Wallace Western, P16, 407-8, Q6) # Page
+edit_item(QWilliam Wallace Western, P22, 135, Q6) # Note
+edit_item(QWilliam Wallace Western, P28, Western, Q6) # Surname
+edit_item(QWilliam Wallace Western, P30, William, Q6) # Forename
+edit_item(QWilliam Wallace Western, P30, Wallace, Q6) # Middle Name/Initial
+edit_item(QWilliam Wallace Western, P7, Q7, Q6) # Sex
+edit_item(QWilliam Wallace Western, P26, See William C. Davis, The Orphan Brigade: The Kentucky Confederates Who Couldn’t Go Home (New York, 1980), 34, 73; Report of the Adjutant General of the State of Kentucky: Confederate Kentucky Volunteers, War, 1861–65, 2 vols. (Frankfort, Ky., 1915), 1:518, 1:522, 2:292; Stewart Sifakis, comp., Compendium of the Confederate Armies: Kentucky . . . (New York, 1995), 11–12., Q6) # Citation
+edit_item(QWilliam Wallace Western, P38, 'RKHS, Volume 112, Book 3, Page 407-8, Note 135', Q6)
+edit_item(QWilliam Wallace Western, P32, http://172.104.209.93:8181/wiki/William_Wallace_Western, Q6)
+qcode = create_item(Edward Askew Sothern, Edward Askew Sothern)
+edit_item(QEdward Askew Sothern, P33, Q90, Q6) # instance_of human 
+edit_item(QEdward Askew Sothern, P29, Q6, Q6) # Publisher
+edit_item(QEdward Askew Sothern, P21, RKHS, Q6) # Publication
+edit_item(QEdward Askew Sothern, P14, 112, Q6) # Volume
+edit_item(QEdward Askew Sothern, P20, 3, Q6) # Book
+edit_item(QEdward Askew Sothern, P16, 412, Q6) # Page
+edit_item(QEdward Askew Sothern, P22, 144, Q6) # Note
+edit_item(QEdward Askew Sothern, P28, Sothern, Q6) # Surname
+edit_item(QEdward Askew Sothern, P30, Edward, Q6) # Forename
+edit_item(QEdward Askew Sothern, P30, Askew, Q6) # Middle Name/Initial
+edit_item(QEdward Askew Sothern, P7, Q7, Q6) # Sex
+edit_item(QEdward Askew Sothern, P8, 1826, Q6) # Birth Date
+edit_item(QEdward Askew Sothern, P9, 1881, Q6) # Death Date
+edit_item(QEdward Askew Sothern, P26, Glasgow Herald, June 6, 1863, 1., Q6) # Citation
+edit_item(QEdward Askew Sothern, P38, 'RKHS, Volume 112, Book 3, Page 412, Note 144', Q6)
+edit_item(QEdward Askew Sothern, P32, http://172.104.209.93:8181/wiki/Edward_Askew_Sothern, Q6)
+qcode = create_item(Charles Francis Adams, Charles Francis Adams)
+edit_item(QCharles Francis Adams, P33, Q90, Q6) # instance_of human 
+edit_item(QCharles Francis Adams, P29, Q6, Q6) # Publisher
+edit_item(QCharles Francis Adams, P21, RKHS, Q6) # Publication
+edit_item(QCharles Francis Adams, P14, 112, Q6) # Volume
+edit_item(QCharles Francis Adams, P20, 3, Q6) # Book
+edit_item(QCharles Francis Adams, P16, 422, Q6) # Page
+edit_item(QCharles Francis Adams, P22, 166, Q6) # Note
+edit_item(QCharles Francis Adams, P28, Adams, Q6) # Surname
+edit_item(QCharles Francis Adams, P30, Charles, Q6) # Forename
+edit_item(QCharles Francis Adams, P30, Francis, Q6) # Middle Name/Initial
+edit_item(QCharles Francis Adams, P7, Q7, Q6) # Sex
+edit_item(QCharles Francis Adams, P8, 1807, Q6) # Birth Date
+edit_item(QCharles Francis Adams, P9, 1886, Q6) # Death Date
+edit_item(QCharles Francis Adams, P26, Martin Duberman, Charles Francis Adams, 1807–1886 (Stanford, Cal., 1968)., Q6) # Citation
+edit_item(QCharles Francis Adams, P38, 'RKHS, Volume 112, Book 3, Page 422, Note 166', Q6)
+edit_item(QCharles Francis Adams, P32, http://172.104.209.93:8181/wiki/Charles_Francis_Adams, Q6)
+qcode = create_item(George C. Fogg, George C. Fogg)
+edit_item(QGeorge C. Fogg, P33, Q90, Q6) # instance_of human 
+edit_item(QGeorge C. Fogg, P29, Q6, Q6) # Publisher
+edit_item(QGeorge C. Fogg, P21, RKHS, Q6) # Publication
+edit_item(QGeorge C. Fogg, P14, 112, Q6) # Volume
+edit_item(QGeorge C. Fogg, P20, 3, Q6) # Book
+edit_item(QGeorge C. Fogg, P16, 437, Q6) # Page
+edit_item(QGeorge C. Fogg, P22, 205, Q6) # Note
+edit_item(QGeorge C. Fogg, P28, Fogg, Q6) # Surname
+edit_item(QGeorge C. Fogg, P30, George, Q6) # Forename
+edit_item(QGeorge C. Fogg, P30, C., Q6) # Middle Name/Initial
+edit_item(QGeorge C. Fogg, P7, Q7, Q6) # Sex
+edit_item(QGeorge C. Fogg, P8, 1813, Q6) # Birth Date
+edit_item(QGeorge C. Fogg, P9, 1881, Q6) # Death Date
+edit_item(QGeorge C. Fogg, P10, NH, Q6) # State/Country of Birth
+edit_item(QGeorge C. Fogg, P26, Fogg’s papers are housed at the New Hampshire Historical Society in Concord, New Hampshire., Q6) # Citation
+edit_item(QGeorge C. Fogg, P38, 'RKHS, Volume 112, Book 3, Page 437, Note 205', Q6)
+edit_item(QGeorge C. Fogg, P32, http://172.104.209.93:8181/wiki/George_C._Fogg, Q6)
+qcode = create_item(Henry Ward Beecher, Henry Ward Beecher)
+edit_item(QHenry Ward Beecher, P33, Q90, Q6) # instance_of human 
+edit_item(QHenry Ward Beecher, P29, Q6, Q6) # Publisher
+edit_item(QHenry Ward Beecher, P21, RKHS, Q6) # Publication
+edit_item(QHenry Ward Beecher, P14, 112, Q6) # Volume
+edit_item(QHenry Ward Beecher, P20, 3, Q6) # Book
+edit_item(QHenry Ward Beecher, P16, 445, Q6) # Page
+edit_item(QHenry Ward Beecher, P22, 229, Q6) # Note
+edit_item(QHenry Ward Beecher, P28, Beecher, Q6) # Surname
+edit_item(QHenry Ward Beecher, P30, Henry, Q6) # Forename
+edit_item(QHenry Ward Beecher, P30, Ward, Q6) # Middle Name/Initial
+edit_item(QHenry Ward Beecher, P7, Q7, Q6) # Sex
+edit_item(QHenry Ward Beecher, P8, 1813, Q6) # Birth Date
+edit_item(QHenry Ward Beecher, P9, 1887, Q6) # Death Date
+edit_item(QHenry Ward Beecher, P26, See Debby Applegate, The Most Famous Man in America: The Biography of Henry Ward Beecher (New York, 2007), 346–48., Q6) # Citation
+edit_item(QHenry Ward Beecher, P38, 'RKHS, Volume 112, Book 3, Page 445, Note 229', Q6)
+edit_item(QHenry Ward Beecher, P32, http://172.104.209.93:8181/wiki/Henry_Ward_Beecher, Q6)
+qcode = create_item(John H. Ward, John H. Ward)
+edit_item(QJohn H. Ward, P33, Q90, Q6) # instance_of human 
+edit_item(QJohn H. Ward, P29, Q6, Q6) # Publisher
+edit_item(QJohn H. Ward, P21, RKHS, Q6) # Publication
+edit_item(QJohn H. Ward, P14, 112, Q6) # Volume
+edit_item(QJohn H. Ward, P20, 3, Q6) # Book
+edit_item(QJohn H. Ward, P16, 454, Q6) # Page
+edit_item(QJohn H. Ward, P22, 247, Q6) # Note
+edit_item(QJohn H. Ward, P28, Ward, Q6) # Surname
+edit_item(QJohn H. Ward, P30, John, Q6) # Forename
+edit_item(QJohn H. Ward, P30, H., Q6) # Middle Name/Initial
+edit_item(QJohn H. Ward, P7, Q7, Q6) # Sex
+edit_item(QJohn H. Ward, P26, John H. Ward, “Twenty-seventh Kentucky Volunteer Infantry,” in The Union Regiments of Kentucky, ed. Thomas Speed, R. M. Kelly, and Alfred Pirtle (Louisville, 1897), 552–65; Louisville Evening Post, July 10, 1895., Q6) # Citation
+edit_item(QJohn H. Ward, P38, 'RKHS, Volume 112, Book 3, Page 454, Note 247', Q6)
+edit_item(QJohn H. Ward, P32, http://172.104.209.93:8181/wiki/John_H._Ward, Q6)
+qcode = create_item(Mary Ann Gairns, Mary Ann Gairns)
+edit_item(QMary Ann Gairns, P33, Q90, Q6) # instance_of human 
+edit_item(QMary Ann Gairns, P29, Q6, Q6) # Publisher
+edit_item(QMary Ann Gairns, P21, RKHS, Q6) # Publication
+edit_item(QMary Ann Gairns, P14, 112, Q6) # Volume
+edit_item(QMary Ann Gairns, P20, 3, Q6) # Book
+edit_item(QMary Ann Gairns, P16, 455, Q6) # Page
+edit_item(QMary Ann Gairns, P22, 248, Q6) # Note
+edit_item(QMary Ann Gairns, P28, Gairns, Q6) # Surname
+edit_item(QMary Ann Gairns, P30, Mary, Q6) # Forename
+edit_item(QMary Ann Gairns, P30, Ann, Q6) # Middle Name/Initial
+edit_item(QMary Ann Gairns, P7, Q8, Q6) # Sex
+edit_item(QMary Ann Gairns, P26, Post Office Glasgow Directory for 1863, 1864, 128., Q6) # Citation
+edit_item(QMary Ann Gairns, P38, 'RKHS, Volume 112, Book 3, Page 455, Note 248', Q6)
+edit_item(QMary Ann Gairns, P32, http://172.104.209.93:8181/wiki/Mary_Ann_Gairns, Q6)
+qcode = create_item(Lafayette Hammond, Lafayette Hammond)
+edit_item(QLafayette Hammond, P33, Q90, Q6) # instance_of human 
+edit_item(QLafayette Hammond, P29, Q6, Q6) # Publisher
+edit_item(QLafayette Hammond, P21, RKHS, Q6) # Publication
+edit_item(QLafayette Hammond, P14, 112, Q6) # Volume
+edit_item(QLafayette Hammond, P20, 3, Q6) # Book
+edit_item(QLafayette Hammond, P16, 462, Q6) # Page
+edit_item(QLafayette Hammond, P22, 261, Q6) # Note
+edit_item(QLafayette Hammond, P28, Hammond, Q6) # Surname
+edit_item(QLafayette Hammond, P30, Lafayette, Q6) # Forename
+edit_item(QLafayette Hammond, P7, Q7, Q6) # Sex
+edit_item(QLafayette Hammond, P8, 1829, Q6) # Birth Date
+edit_item(QLafayette Hammond, P9, 1873, Q6) # Death Date
+edit_item(QLafayette Hammond, P10, PA, Q6) # State/Country of Birth
+edit_item(QLafayette Hammond, P26, See “Death of Lieut. Hammond,” Weekly Arizona Miner (Prescott), September 27, 1873, 2; “Hammond, Lafayette,” Hayden Arizona Pioneer Biographies Collection, Arizona State University, http://www.asu.edu/lib/archives/azbio/bios/HAMMONDL.PDF, accessed June 18, 2014., Q6) # Citation
+edit_item(QLafayette Hammond, P38, 'RKHS, Volume 112, Book 3, Page 462, Note 261', Q6)
+edit_item(QLafayette Hammond, P32, http://172.104.209.93:8181/wiki/Lafayette_Hammond, Q6)
+qcode = create_item(John W. Todd, John W. Todd)
+edit_item(QJohn W. Todd, P33, Q90, Q6) # instance_of human 
+edit_item(QJohn W. Todd, P29, Q6, Q6) # Publisher
+edit_item(QJohn W. Todd, P21, RKHS, Q6) # Publication
+edit_item(QJohn W. Todd, P14, 112, Q6) # Volume
+edit_item(QJohn W. Todd, P20, 3, Q6) # Book
+edit_item(QJohn W. Todd, P16, 468, Q6) # Page
+edit_item(QJohn W. Todd, P22, 277, Q6) # Note
+edit_item(QJohn W. Todd, P28, Todd, Q6) # Surname
+edit_item(QJohn W. Todd, P30, John, Q6) # Forename
+edit_item(QJohn W. Todd, P30, W., Q6) # Middle Name/Initial
+edit_item(QJohn W. Todd, P7, Q7, Q6) # Sex
+edit_item(QJohn W. Todd, P26, On Todd, see, cf., Baird, ed., Josie Underwood’s Civil War Diary, 35–37, 74, 96, 207, 225; D. S. Stanley, “Major John W. Todd,” in Ninth Annual Reunion of the Association of the Graduates of the United States Military Academy, at West Point, New York (New York, 1878), 44–45., Q6) # Citation
+edit_item(QJohn W. Todd, P38, 'RKHS, Volume 112, Book 3, Page 468, Note 277', Q6)
+edit_item(QJohn W. Todd, P32, http://172.104.209.93:8181/wiki/John_W._Todd, Q6)
+qcode = create_item(Atwood G. Hobson, Atwood G. Hobson)
+edit_item(QAtwood G. Hobson, P33, Q90, Q6) # instance_of human 
+edit_item(QAtwood G. Hobson, P29, Q6, Q6) # Publisher
+edit_item(QAtwood G. Hobson, P21, RKHS, Q6) # Publication
+edit_item(QAtwood G. Hobson, P14, 112, Q6) # Volume
+edit_item(QAtwood G. Hobson, P20, 3, Q6) # Book
+edit_item(QAtwood G. Hobson, P16, 472, Q6) # Page
+edit_item(QAtwood G. Hobson, P22, 280, Q6) # Note
+edit_item(QAtwood G. Hobson, P28, Hobson, Q6) # Surname
+edit_item(QAtwood G. Hobson, P30, Atwood, Q6) # Forename
+edit_item(QAtwood G. Hobson, P30, G., Q6) # Middle Name/Initial
+edit_item(QAtwood G. Hobson, P7, Q7, Q6) # Sex
+edit_item(QAtwood G. Hobson, P26, Speed, Kelly, and Pirtle, eds., Union Regiments of Kentucky, 407; “Register of the Members of the Boards of Enrollment, Appointed Under the Act Approved March 3, 1863,” in James B. Fry, Provost General’s Report, March 17, 1866, OR, ser. 3, vol. 5, 908., Q6) # Citation
+edit_item(QAtwood G. Hobson, P38, 'RKHS, Volume 112, Book 3, Page 472, Note 280', Q6)
+edit_item(QAtwood G. Hobson, P32, http://172.104.209.93:8181/wiki/Atwood_G._Hobson, Q6)
+qcode = create_item(Eliza Underwood Rutledge, Eliza Underwood Rutledge)
+edit_item(QEliza Underwood Rutledge, P33, Q90, Q6) # instance_of human 
+edit_item(QEliza Underwood Rutledge, P29, Q6, Q6) # Publisher
+edit_item(QEliza Underwood Rutledge, P21, RKHS, Q6) # Publication
+edit_item(QEliza Underwood Rutledge, P14, 112, Q6) # Volume
+edit_item(QEliza Underwood Rutledge, P20, 3, Q6) # Book
+edit_item(QEliza Underwood Rutledge, P16, 472, Q6) # Page
+edit_item(QEliza Underwood Rutledge, P22, 281, Q6) # Note
+edit_item(QEliza Underwood Rutledge, P28, Rutledge, Q6) # Surname
+edit_item(QEliza Underwood Rutledge, P30, Eliza, Q6) # Forename
+edit_item(QEliza Underwood Rutledge, P30, Underwood, Q6) # Middle Name/Initial
+edit_item(QEliza Underwood Rutledge, P19, Lite, Q6) # Alternate Name
+edit_item(QEliza Underwood Rutledge, P7, Q8, Q6) # Sex
+edit_item(QEliza Underwood Rutledge, P26, Baird, ed., Josie Underwood’s Civil War Diary, 205–6. On Rutledge’s family, see Mary Bray Wheeler and Genon Hickerson Neblett, Chosen Exile: The Life and Times of Septima Sexta Middleton Rutledge, American Cultural Pioneer (Gadsden, Ala., 1980)., Q6) # Citation
+edit_item(QEliza Underwood Rutledge, P38, 'RKHS, Volume 112, Book 3, Page 472, Note 281', Q6)
+edit_item(QEliza Underwood Rutledge, P32, http://172.104.209.93:8181/wiki/Eliza_Underwood_Rutledge, Q6)
+qcode = create_item(Mary Dickerson, Mary Dickerson)
+edit_item(QMary Dickerson, P33, Q90, Q6) # instance_of human 
+edit_item(QMary Dickerson, P29, Q6, Q6) # Publisher
+edit_item(QMary Dickerson, P21, RKHS, Q6) # Publication
+edit_item(QMary Dickerson, P14, 112, Q6) # Volume
+edit_item(QMary Dickerson, P20, 3, Q6) # Book
+edit_item(QMary Dickerson, P16, 476, Q6) # Page
+edit_item(QMary Dickerson, P22, 294, Q6) # Note
+edit_item(QMary Dickerson, P28, Dickerson, Q6) # Surname
+edit_item(QMary Dickerson, P30, Mary, Q6) # Forename
+edit_item(QMary Dickerson, P7, Q8, Q6) # Sex
+edit_item(QMary Dickerson, P26, U.S. census, 1860, Population Schedules, Warren County, Kentucky., Q6) # Citation
+edit_item(QMary Dickerson, P38, 'RKHS, Volume 112, Book 3, Page 476, Note 294', Q6)
+edit_item(QMary Dickerson, P32, http://172.104.209.93:8181/wiki/Mary_Dickerson, Q6)
+qcode = create_item(William R. Turner, William R. Turner)
+edit_item(QWilliam R. Turner, P33, Q90, Q6) # instance_of human 
+edit_item(QWilliam R. Turner, P29, Q6, Q6) # Publisher
+edit_item(QWilliam R. Turner, P21, RKHS, Q6) # Publication
+edit_item(QWilliam R. Turner, P14, 112, Q6) # Volume
+edit_item(QWilliam R. Turner, P20, 3, Q6) # Book
+edit_item(QWilliam R. Turner, P16, 486, Q6) # Page
+edit_item(QWilliam R. Turner, P22, 313, Q6) # Note
+edit_item(QWilliam R. Turner, P28, Turner, Q6) # Surname
+edit_item(QWilliam R. Turner, P30, William, Q6) # Forename
+edit_item(QWilliam R. Turner, P30, R., Q6) # Middle Name/Initial
+edit_item(QWilliam R. Turner, P7, Q7, Q6) # Sex
+edit_item(QWilliam R. Turner, P26, See Documents in Relation to Charges Preferred by Stephen J. Field and Others, Before the House of Assembly of the State of California, Against Wm. R. Turner, District Judge of the Eighth Judicial District of California (San Francisco, 1856)., Q6) # Citation
+edit_item(QWilliam R. Turner, P38, 'RKHS, Volume 112, Book 3, Page 486, Note 313', Q6)
+edit_item(QWilliam R. Turner, P32, http://172.104.209.93:8181/wiki/William_R._Turner, Q6)
+qcode = create_item(Eugene N. Riotte, Eugene N. Riotte)
+edit_item(QEugene N. Riotte, P33, Q90, Q6) # instance_of human 
+edit_item(QEugene N. Riotte, P29, Q6, Q6) # Publisher
+edit_item(QEugene N. Riotte, P21, RKHS, Q6) # Publication
+edit_item(QEugene N. Riotte, P14, 112, Q6) # Volume
+edit_item(QEugene N. Riotte, P20, 3, Q6) # Book
+edit_item(QEugene N. Riotte, P16, 486, Q6) # Page
+edit_item(QEugene N. Riotte, P22, 314, Q6) # Note
+edit_item(QEugene N. Riotte, P28, Riotte, Q6) # Surname
+edit_item(QEugene N. Riotte, P30, Eugene, Q6) # Forename
+edit_item(QEugene N. Riotte, P30, N., Q6) # Middle Name/Initial
+edit_item(QEugene N. Riotte, P7, Q7, Q6) # Sex
+edit_item(QEugene N. Riotte, P8, 1843, Q6) # Birth Date
+edit_item(QEugene N. Riotte, P9, 1891, Q6) # Death Date
+edit_item(QEugene N. Riotte, P26, “Prominent Men in the Mining Industry: The Late Eugene Riotte,” Engineering and Mining Journal, May 16, 1891, 583., Q6) # Citation
+edit_item(QEugene N. Riotte, P38, 'RKHS, Volume 112, Book 3, Page 486, Note 314', Q6)
+edit_item(QEugene N. Riotte, P32, http://172.104.209.93:8181/wiki/Eugene_N._Riotte, Q6)
+qcode = create_item(Bridget O'Flaherty, Bridget O'Flaherty)
+edit_item(QBridget O'Flaherty, P33, Q90, Q6) # instance_of human 
+edit_item(QBridget O'Flaherty, P29, Q6, Q6) # Publisher
+edit_item(QBridget O'Flaherty, P21, RKHS, Q6) # Publication
+edit_item(QBridget O'Flaherty, P14, 112, Q6) # Volume
+edit_item(QBridget O'Flaherty, P20, 3, Q6) # Book
+edit_item(QBridget O'Flaherty, P16, 486, Q6) # Page
+edit_item(QBridget O'Flaherty, P22, 315, Q6) # Note
+edit_item(QBridget O'Flaherty, P28, O'Flaherty, Q6) # Surname
+edit_item(QBridget O'Flaherty, P30, Bridget, Q6) # Forename
+edit_item(QBridget O'Flaherty, P7, Q8, Q6) # Sex
+edit_item(QBridget O'Flaherty, P26, Martha Mabie Gardner, “Working on White Womanhood: White Working Women in the San Francisco Anti-Chinese Movement, 1877–1890,” Journal of Social History 33 (Autumn 1999): 73–95., Q6) # Citation
+edit_item(QBridget O'Flaherty, P38, 'RKHS, Volume 112, Book 3, Page 486, Note 315', Q6)
+edit_item(QBridget O'Flaherty, P32, http://172.104.209.93:8181/wiki/Bridget_O'Flaherty, Q6)
+qcode = create_item(Aaron Babcock, Aaron Babcock)
+edit_item(QAaron Babcock, P33, Q90, Q6) # instance_of human 
+edit_item(QAaron Babcock, P29, Q6, Q6) # Publisher
+edit_item(QAaron Babcock, P21, RKHS, Q6) # Publication
+edit_item(QAaron Babcock, P14, 112, Q6) # Volume
+edit_item(QAaron Babcock, P20, 3, Q6) # Book
+edit_item(QAaron Babcock, P16, 487, Q6) # Page
+edit_item(QAaron Babcock, P22, 319, Q6) # Note
+edit_item(QAaron Babcock, P28, Babcock, Q6) # Surname
+edit_item(QAaron Babcock, P30, Aaron, Q6) # Forename
+edit_item(QAaron Babcock, P7, Q7, Q6) # Sex
+edit_item(QAaron Babcock, P26, Henry G. Langley, The San Francisco Directory For the Year Commencing September, 1867 (San Francisco, 1867), 74., Q6) # Citation
+edit_item(QAaron Babcock, P38, 'RKHS, Volume 112, Book 3, Page 487, Note 319', Q6)
+edit_item(QAaron Babcock, P32, http://172.104.209.93:8181/wiki/Aaron_Babcock, Q6)
